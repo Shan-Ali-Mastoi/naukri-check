@@ -1,0 +1,2759 @@
+{
+ "fpsc_status_note": "FPSC Consolidated Advertisement No. 04/2026 (Phase-4/2026), dated 6 November 2026, is OPEN — 48 cases, closing Monday 23 November 2026. Cases F.4-176/2026-R to F.4-222/2026-R plus re-advertised F.4-152/2026-R (Professor, PIMS). Total posts counted from the advertisement: 274 across the 45 cases with a readable vacancy count; 3 cases (F.4-189, F.4-193, F.4-212) have vacancy counts the OCR could not read — left null pending editor check of the PDF. Written test (MCQs) tentatively from 2 January 2027; schedule and syllabus to be issued on fpsc.gov.pk.",
+ "jobs": [
+  {
+   "adv_date": "2026-08-19",
+   "adv_no": "Consolidated Ad 04/2026, modified by Ad 06/2026",
+   "age": {
+    "max_effective": 33,
+    "max_printed": 30,
+    "min": 21,
+    "note": "Corrigendum (Ad 06/2026, Sindh Cabinet decision 20 Oct 2026): upper age limit relaxed to 33 years for ALL candidates. Sindh's general 5-year relaxation does NOT apply to CCE. Age reckoned on 11 Nov 2026 per Ad 06/2026 (verified 2026-11-04). Earlier category limits: up to 31 for Scheduled Caste candidates; up to 35 for Sindh/Federal government employees with 4+ years continuous regular service."
+   },
+   "apply_url": "https://spsc.gov.pk",
+   "body": "SPSC",
+   "bps": "17 (principally)",
+   "closing_date": "2026-11-11",
+   "department": "Provincial civil services — Assistant Commissioner, Section Officer and allied cadres",
+   "domicile": {
+    "detail": "Sindh domicile required; Urban/Rural allocation applies at allocation stage per SPSC rules",
+    "province": "Sindh"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Bachelor's degree, at least Second Division, from an HEC-recognised university. Foreign degrees need HEC equivalence before the closing date."
+   },
+   "experience": "None",
+   "fee_note": "Online via PSID through the 1Bill invoice option (any online channel). Non-refundable.",
+   "fee_pkr": 1000,
+   "gender": "Male, female, minority and differently-abled candidates",
+   "id": "spsc-cce-2026",
+   "last_updated": "2026-10-23",
+   "organization": "Government of Sindh (various departments)",
+   "result_info": null,
+   "source_url": "https://spsc.gov.pk/advertisement/2026/adv-06-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": "2026-11-28",
+   "test_info": "Screening test: Saturday 28 November 2026 (moved twice by official notices). Pass mark 33% (66/200). Negative marking 0.25 per wrong answer. Attempts allowed: 5 (for three years). Candidates who applied under Ad 04/2026 do NOT need to re-apply and may correct applications / upload documents until 11 Nov 2026.",
+   "title": "Combined Competitive Examination (CCE-2026)",
+   "total_posts": null,
+   "verify_flags": [
+    "RESOLVED 2026-11-04 against official PDF Ad 06/2026 (23 Oct 2026): upper age 33 reckoned on 11 November 2026, the extended closing date; the '11 January 2026' secondary report was incorrect."
+   ]
+  },
+  {
+   "adv_date": null,
+   "adv_no": null,
+   "age": {
+    "max_effective": 25,
+    "max_printed": 25,
+    "min": 21,
+    "note": "Serving government employees up to 30 under the rules."
+   },
+   "apply_url": "https://www.nts.org.pk",
+   "body": "NTS",
+   "bps": "16 / 14 / 11",
+   "closing_date": "2026-11-15",
+   "department": "Sindh Judiciary, District Dadu",
+   "domicile": {
+    "detail": "District Dadu ONLY",
+    "province": "Sindh"
+   },
+   "education": {
+    "level": "intermediate",
+    "text": "See posts_detail — Intermediate (Stenographer, Junior Clerk) or Bachelor's in Computer Science (Data Coder)."
+   },
+   "experience": "Data Coder: relevant experience required",
+   "fee_note": "Per post, via NTS payment system: participating banks / ATM / internet & mobile banking / Easypaisa / JazzCash / TCS Express Centres (1Link 1Bill).",
+   "fee_pkr": 1050,
+   "gender": "Not stated in the ad",
+   "id": "nts-dadu-courts-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Office of the District and Sessions Judge, Dadu",
+   "posts_detail": [
+    {
+     "bps": "16",
+     "education": "Intermediate + computer certificate from a recognised institution",
+     "posts": 7,
+     "title": "Stenographer"
+    },
+    {
+     "bps": "14",
+     "education": "Bachelor's in Computer Science + relevant experience",
+     "posts": 1,
+     "title": "Data Coder"
+    },
+    {
+     "bps": "11",
+     "education": "Intermediate + computer certificate from a recognised institution",
+     "posts": 20,
+     "title": "Junior Clerk"
+    }
+   ],
+   "result_info": null,
+   "source_url": "https://www.nts.org.pk",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Judicial staff — Stenographer, Data Coder, Junior Clerk",
+   "total_posts": 28
+  },
+  {
+   "adv_date": null,
+   "adv_no": null,
+   "age": {
+    "max_effective": 21,
+    "max_printed": 21,
+    "min": 18,
+    "note": "Age 18-21 years as on the closing date."
+   },
+   "apply_url": "https://nts.org.pk/Test&Products/Announced/07_26/UEP_June2026_Online/UEP.php",
+   "body": "NTS",
+   "bps": null,
+   "closing_date": "2026-11-27",
+   "department": "Operations in rural Sindh & Balochistan",
+   "domicile": {
+    "detail": "One of 17 specified districts/talukas in Sindh & Balochistan listed in the ad",
+    "province": "Sindh / Balochistan"
+   },
+   "education": {
+    "level": "intermediate",
+    "text": "Intermediate (Grade B) in Science OR DAE. IMPORTANT: Bachelor's/Master's degree holders are NOT eligible for this programme."
+   },
+   "experience": "None — fresh candidates eligible",
+   "fee_note": "Not stated in the sources read — check the NTS project page.",
+   "fee_pkr": null,
+   "gender": "Male & female — female candidates strongly encouraged",
+   "id": "nts-uep-trainee-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Multinational oil & gas E&P company (United Energy Pakistan, per secondary coverage)",
+   "result_info": null,
+   "source_url": "https://nts.org.pk/Test&Products/Announced/07_26/UEP_June2026_Online/UEP.php",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Field Production Trainee Programme 2026",
+   "total_posts": null
+  },
+  {
+   "adv_date": null,
+   "adv_no": null,
+   "age": {
+    "max_effective": 40,
+    "max_printed": 40,
+    "min": 21,
+    "note": "General relaxation per Government of Sindh rules."
+   },
+   "apply_url": "https://apply.sts.net.pk",
+   "body": "STS_SIBA",
+   "bps": null,
+   "closing_date": "2026-11-20",
+   "department": "Sindh Multiple Indicator Cluster Survey",
+   "domicile": {
+    "detail": "All 30 districts of Sindh",
+    "province": "Sindh"
+   },
+   "education": {
+    "level": "intermediate",
+    "text": "Minimum Intermediate, PLUS at least 1 year post-qualification field-survey experience in maternal & child health (ANC/PNC, immunisation, household surveys) with certificates."
+   },
+   "experience": "1 year field-survey experience (see education)",
+   "fee_note": "Non-refundable; system-generated challan via any ABL branch, MyABL app, or 1Bill internet banking.",
+   "fee_pkr": 1500,
+   "gender": "Gender-specific posts — see posts_detail",
+   "id": "sts-siba-smics-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Sindh Bureau of Statistics, Planning & Development Department, Govt of Sindh (UNICEF-supported)",
+   "posts_detail": [
+    {
+     "gender": "Female only",
+     "posts": 140,
+     "title": "Enumerator / Measurer"
+    },
+    {
+     "gender": "Male only",
+     "posts": 35,
+     "title": "Enumerator"
+    }
+   ],
+   "result_info": null,
+   "source_url": "https://apply.sts.net.pk",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Sindh MICS 2026-27 — Enumerators / Measurers (short-term contract)",
+   "total_posts": 175
+  },
+  {
+   "adv_date": "2026-10-17",
+   "adv_no": "EB/9170/2026",
+   "age": {
+    "max_effective": 25,
+    "max_printed": 25,
+    "min": 21,
+    "note": "Posts 1-6: age 21-25. Posts 7-17: age 20-28. Relaxation per Government of Sindh rules."
+   },
+   "apply_url": "https://apply.sts.net.pk",
+   "body": "STS_SIBA",
+   "bps": "02-16",
+   "closing_date": "2026-11-25",
+   "department": "Sindh Judiciary, District Ghotki",
+   "domicile": {
+    "detail": "District Ghotki ONLY (domicile + PRC Form-D)",
+    "province": "Sindh"
+   },
+   "education": {
+    "level": "intermediate",
+    "text": "Posts BPS-11 to 16: Intermediate (post-specific skills/diploma). Support posts: Matric/Middle."
+   },
+   "experience": "Post-specific",
+   "fee_note": "Challan for the STS online posts (Sr. 1-6), via Allied Bank / MyABL app.",
+   "fee_pkr": 2000,
+   "gender": "Male & female eligible",
+   "id": "sts-siba-ghotki-courts-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Office of the District and Sessions Judge, Ghotki",
+   "posts_detail": [
+    {
+     "note": "Posts Sr. 1-6 — apply ONLINE via STS. Stenographer: shorthand 80 wpm + typing 40 wpm + MS Office certificate.",
+     "title": "Stenographer (BPS-16), Computer Operator (BPS-12), Junior Clerk (BPS-11) x21, Clerk of Court, English Clerk, Assistant Record Keeper"
+    },
+    {
+     "note": "Posts Sr. 7-17 — apply OFFLINE on the prescribed form. Matric/Middle by post; Driver needs Middle + valid driving licence.",
+     "title": "Driver, CCTV Operator, Bailiff, Naib Qasid, Farash, Chowkidar, Sweeper and others"
+    }
+   ],
+   "result_info": null,
+   "source_url": "https://www.districtcourtsghotki.gos.pk",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Judicial staff — Stenographer to Sweeper (BPS-02 to BPS-16)",
+   "total_posts": 56
+  },
+  {
+   "adv_date": "2026-11-01",
+   "adv_no": "INF/KRY/4871/2026",
+   "age": {
+    "max_effective": 28,
+    "max_printed": 28,
+    "min": 18,
+    "note": "Relaxation per Government of Sindh policy."
+   },
+   "apply_url": "https://sts.org.pk/online-form-vaccinator.aspx?id=2234",
+   "body": "STS_PK",
+   "bps": "6",
+   "closing_date": "2026-11-30",
+   "department": "Expanded Programme on Immunization, Sindh",
+   "domicile": {
+    "detail": "Sindh domicile; candidate must be a RESIDENT of the same district applied against (resident certificate required)",
+    "province": "Sindh"
+   },
+   "education": {
+    "level": "matric",
+    "text": "Minimum Matriculation or equivalent. Preference for vaccination certificate + vaccination experience."
+   },
+   "experience": "Vaccination experience preferred (not mandatory)",
+   "fee_note": "Amount not stated in the ad. Paid via prescribed STS deposit slip at any online branch of the designated bank; filled form + original paid slip posted/couriered to STS (EPI Project), Plot A/18, Kashmir Road, Karachi. Contract: 1 year, extendable. Minimum 50% in the STS screening test.",
+   "fee_pkr": null,
+   "gender": "Male & female invited (quotas: 15% female, 5% disabled, 5% minorities)",
+   "id": "sts-pk-epi-vaccinator-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Directorate of EPI, Health Department, Govt of Sindh (National Health Support Program)",
+   "result_info": null,
+   "source_url": "https://sts.org.pk/online-form-vaccinator.aspx?id=2234",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Vaccinators (BPS-6) — 13 districts",
+   "total_posts": 45,
+   "verify_flags": [
+    "One secondary summary mentioned a conflicting 16 Nov 2026 date in related correspondence; the ad itself and the STS form page say 30 Nov 2026 — 30 Nov is treated as authoritative."
+   ]
+  },
+  {
+   "adv_date": null,
+   "adv_no": null,
+   "age": {
+    "max_effective": 35,
+    "max_printed": 35,
+    "min": 21,
+    "note": "Generally 21-35, varying by post; relaxation per Project Implementation Policy."
+   },
+   "apply_url": "https://etea.edu.pk",
+   "body": "ETEA",
+   "bps": null,
+   "closing_date": "2026-11-20",
+   "department": "ADP project: Establishment of New Campuses of Model Institute for State Children (incl. Girls campuses)",
+   "domicile": {
+    "detail": "KP & Merged Districts only",
+    "province": "Khyber Pakhtunkhwa"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Post-specific, from recognised institutions: Master's / Bachelor's (BS/BA/BSc) / B.Ed / Clinical Psychology diploma / IT-CS degrees / FA-FSc / Shahadatul Alamia / technical diplomas."
+   },
+   "experience": "Post-specific",
+   "fee_note": "Not stated in the sources read. ETEA profile + CNIC verification via NADRA E-Sahulat is required before applying.",
+   "fee_pkr": null,
+   "gender": "Male & female",
+   "id": "etea-zamungkor-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Model Institute for State Children (ZamungKor), Government of Khyber Pakhtunkhwa",
+   "posts_detail": [
+    {
+     "title": "Assistant Director, Psychologist, Social Welfare Organizer, Admin & Accounts Assistant, Computer Operator, SET Teacher, Computer Instructor, Hostel Warden, Certified Teacher, PST Teacher, Fine Arts/Vocational Teacher, PTI/Sports Incharge, Theology Teacher, Junior Clerk, Qari/Imam Masjid, Medical Technician"
+    }
+   ],
+   "result_info": null,
+   "source_url": "https://etea.edu.pk",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Teaching & admin posts — new campuses (1-year contract, extendable)",
+   "total_posts": 30
+  },
+  {
+   "adv_date": null,
+   "adv_no": "INF(P) 5226/26",
+   "age": {
+    "max_effective": 35,
+    "max_printed": 35,
+    "min": 18,
+    "note": "Age differs per post — see posts_detail. NOTE: earlier advertisements for these posts were CANCELLED — fresh applications are required."
+   },
+   "apply_url": "https://etea.edu.pk",
+   "body": "ETEA",
+   "bps": "16 / 12 / 11 / 06",
+   "closing_date": "2026-11-20",
+   "department": "Peshawar High Court",
+   "domicile": {
+    "detail": "Permanent residents of KP",
+    "province": "Khyber Pakhtunkhwa"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "See posts_detail — Bachelor's/BS/Master's for BPS-16 posts; Intermediate for Junior Clerk."
+   },
+   "experience": "CCTV Operator: experience preferred",
+   "fee_note": "Not stated in the sources read — check etea.edu.pk.",
+   "fee_pkr": null,
+   "gender": "Not stated (women/minority/disabled quotas noted in one listing)",
+   "id": "etea-phc-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Peshawar High Court, Peshawar",
+   "posts_detail": [
+    {
+     "age": "25-30",
+     "education": "Bachelor's degree",
+     "posts": 8,
+     "title": "Assistant (BPS-16)"
+    },
+    {
+     "age": "25-35",
+     "education": "4-year BS or equivalent in CS/IT",
+     "posts": 7,
+     "title": "Computer Operator (BPS-16)"
+    },
+    {
+     "age": "25-30",
+     "education": "Master's in Library Science",
+     "posts": 1,
+     "title": "Assistant Librarian (BPS-16)"
+    },
+    {
+     "age": "25-30",
+     "education": "Relevant technical qualification in Electrical/Electronics (experience preferred)",
+     "posts": 6,
+     "title": "CCTV Camera Operator (BPS-12)"
+    },
+    {
+     "age": "18-30",
+     "education": "Intermediate + computer skills + typing 30 wpm or more",
+     "posts": 7,
+     "title": "Junior Clerk (BPS-11)"
+    },
+    {
+     "age": "25-35",
+     "education": "Not stated in the sources read",
+     "posts": 12,
+     "title": "Driver (BPS-06)"
+    }
+   ],
+   "result_info": null,
+   "source_url": "https://etea.edu.pk",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Assistant / Computer Operator / Clerk / Driver and others",
+   "total_posts": 41
+  },
+  {
+   "adv_date": "2026-10-27",
+   "adv_no": null,
+   "age": {
+    "max_effective": 35,
+    "max_printed": 30,
+    "min": 18,
+    "note": "18-30 PLUS 5 years general relaxation for Balochistan = up to 35, counted on 11 Nov 2026."
+   },
+   "apply_url": "https://njp.gov.pk",
+   "body": "NJP",
+   "bps": "01-16",
+   "closing_date": "2026-11-11",
+   "department": "Pakistan Railways — 2-year contract",
+   "domicile": {
+    "detail": "Balochistan ONLY (all three advertisements)",
+    "province": "Balochistan"
+   },
+   "education": {
+    "level": "primary",
+    "text": "Varies by post — Primary (e.g. Gangman) up to Matric / Intermediate / technical diplomas."
+   },
+   "experience": "Post-specific",
+   "fee_note": "No fee mentioned in the advertisements as reported. No testing agency and NO written/screening test — applications only via the National Job Portal (njp.gov.pk).",
+   "fee_pkr": null,
+   "gender": "Not stated",
+   "id": "railways-balochistan-2026",
+   "last_updated": "2026-11-03",
+   "organization": "Pakistan Railways (DS Office Quetta, HQ Lahore, Ministry of Railways)",
+   "result_info": null,
+   "source_url": "https://pakera.pk/pakistan-railways-jobs-2026-balochistan-829-posts-gangman-last-date-11-november/",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "title": "Balochistan Quota recruitment — BPS-01 to BPS-16 (incl. Gangman x468)",
+   "total_posts": 829
+  },
+  {
+   "adv_date": null,
+   "adv_no": "Advance notice F.2/1/2026-CE (5 July 2026), as reported by prep portals",
+   "age": {
+    "max_effective": null,
+    "max_printed": null,
+    "min": null,
+    "note": "CSS has its OWN age rules — the 1993 general-relaxation rules do NOT apply to CSS. See the official advertisement."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-25",
+   "department": "Central Superior Services",
+   "domicile": {
+    "detail": "Per CSS rules",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Per CSS examination rules (see the official advertisement when published). The MPT for CSS 2027 was held on 10 October 2026."
+   },
+   "experience": "Per CSS rules",
+   "fee_note": "TENTATIVE SCHEDULE (from FPSC advance notice, as reported): advertisement ~8 Nov 2026; online applications 10-25 Nov 2026; hard-copy deadline 4 Dec 2026; written exam from 27 Jan 2027. All dates are TENTATIVE until the official advertisement appears.",
+   "fee_pkr": null,
+   "gender": "Per CSS rules",
+   "id": "fpsc-css-2027",
+   "last_updated": "2026-11-03",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk",
+   "status": "upcoming_tentative",
+   "syllabus": null,
+   "test_date": null,
+   "title": "CSS 2027 — Written Examination (UPCOMING, dates tentative)",
+   "total_posts": null,
+   "verify_flags": [
+    "Tentative schedule from an advance notice as reported by prep portals — editor must replace with the official advertisement the day it publishes."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": 25,
+    "note": "Age limit as printed: 25-35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "Law and Justice Division",
+   "domicile": {
+    "detail": "Sindh (Urban) (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree in Law or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "5 years post-qualification experience of drafting legislative instruments or dealing with legal matters.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-176-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Draftsman",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: Bachelor's degree in Law (LLB) may be 16 years of education; mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": 55,
+    "max_printed": 52,
+    "min": null,
+    "note": "Maximum age 52 years plus general relaxation in upper age limit up to the age of 55 (ad grants the 55-year cap itself). plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "20",
+   "closing_date": "2026-11-23",
+   "department": "Pakistan Institute of Medical Sciences (PIMS), Islamabad, Ministry of National Health Services, Regulations and Coordination",
+   "domicile": {
+    "detail": "Sindh (Rural) (Open Merit)=Two, Sindh (Urban) (Open Merit)=Two, Khyber Pakhtunkhwa (Open Merit)=Two. Re-advertised: originally advertised under Consolidated Advertisement No. 3/2026 dated 13-08-2026; candidates who already applied need not apply again.",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "MBBS or equivalent medical qualification recognized by PMDC, OR M.Sc. of a recognized University in the relevant Basic Science subject (for non-medical graduates); plus D.Sc./Ph.D./FCPS/M.D./M.S./M.Phil. etc. in the respective subject (FCPS/M.D. with D.P.H. for Public Health Institutions only), or equivalent qualification recognized by PMDC."
+   },
+   "experience": "3 years teaching experience as Associate Professor in the respective subject, with total experience as Assistant/Associate Professor not less than 8 years in a postgraduate institute; OR 9 years as Assistant Professor or 4 years as Associate Professor in an undergraduate institute with total not less than 12 years. Research: at least 2 research papers during 3 years as Associate Professor with total not less than 5; OR at least 3 papers during Associate Professorship with total not less than 7 if in an undergraduate medical college. Separate application and fee per category (A-F): Cardiac Surgery, Dermatology, Emergency Medicine, Neonatology, Paediatric Surgery, Pulmonology.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 3000,
+   "gender": null,
+   "id": "fpsc-ad04-152-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Professor (PIMS)",
+   "total_posts": 6,
+   "verify_flags": [
+    "Re-advertised case from Ad 03/2026; age cap 55 is the ad's own figure, not the engine's +5."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 48,
+    "min": null,
+    "note": "Maximum age 48 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "19",
+   "closing_date": "2026-11-23",
+   "department": "Pakistan Institute of Medical Sciences (PIMS), Islamabad, Ministry of National Health Services, Regulations and Coordination",
+   "domicile": {
+    "detail": "Punjab (Open Merit)=One and Sindh (Rural) (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "MBBS or equivalent medical qualification recognized by PMDC, OR M.Sc. of a recognized University in the relevant Basic Science subject (for non-medical graduates); plus D.Sc./Ph.D./FCPS/MD/M.S./M.Phil. etc. in the respective subjects (FCPS/MD with DPH for Public Health Institutions only), or equivalent qualification recognized by PMDC."
+   },
+   "experience": "5 years teaching experience as Assistant Professor in the respective subject in a postgraduate institute only; OR 8 years teaching experience as Assistant Professor in an undergraduate medical institution. Research: at least 3 research papers, or at least 5 if teaching experience is in an undergraduate institution. Categories: (A) Neonatology x1, (B) Paeds Oncology / Paediatric Hematology x1. Separate application and fee per category.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 2500,
+   "gender": null,
+   "id": "fpsc-ad04-177-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Associate Professor (PIMS)",
+   "total_posts": 2
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 45,
+    "min": 37,
+    "note": "Age limit as printed: 37-45 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "20",
+   "closing_date": "2026-11-23",
+   "department": "Federal Public Service Commission",
+   "domicile": {
+    "detail": "Not stated in the ad (domicile/quota not printed for this case)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Ph.D. or equivalent qualification in Psychology from a University recognized by HEC; OR M.Phil. or equivalent degree in Psychology; OR Second Class or Grade 'C' Master's degree in Psychology or Applied Psychology or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "11 years post-qualification experience (Ph.D. route), 15 years (M.Phil. route) or 17 years (Master's route) in fields in Schedule-II (professional: Public Service Commission/Armed Forces/recruitment/test construction; teaching at postgraduate level in Psychometrics, Clinical, Psychological evaluation, Personality assessment, Test Construction and Measurement, Organizational/Personnel Psychology or Counselling Psychology). One research paper in Impact Factor journals in Psychometrics, Clinical, Test Construction and Measurement, Personnel Selection, Job Analysis or Counselling counts as one year of experience, capped at 5 years.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 3000,
+   "gender": null,
+   "id": "fpsc-ad04-178-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Chief Psychologist",
+   "total_posts": 1,
+   "verify_flags": [
+    "Domicile/quota not printed for this case in the PDF — left as 'Not stated in the ad'."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Federal Medical College, Ministry of National Health Services, Regulations and Coordination",
+   "domicile": {
+    "detail": "Merit=Two, Punjab=Twelve (Open Merit=Eleven and Women quota=One), Sindh (Rural) (Open Merit)=Three, Sindh (Urban) (Open Merit)=One, Khyber Pakhtunkhwa=Three (Open Merit=Two and Women quota=One), Balochistan=Two (Open Merit=One and Women quota=One), Ex-FATA (Open Merit)=One and AJK (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "MBBS or equivalent medical qualifications recognized / registered by the Pakistan Medical & Dental Council (PM&DC)."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-179-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Demonstrator",
+   "total_posts": 25
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Federal Medical College, Ministry of National Health Services, Regulations and Coordination",
+   "domicile": {
+    "detail": "Punjab (Open Merit)=One and Sindh (Rural) (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree in Library Sciences or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-180-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Librarian",
+   "total_posts": 2,
+   "verify_flags": [
+    "OCR reads the post title as 'ASSISTANT LIBRARY (BS-16)' in both OCR passes; almost certainly 'Assistant Librarian' — editor to confirm against the PDF image. education level needs editor re-check: plain Bachelor's degree in Library Sciences mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Ministry of Religious Affairs and Interfaith Harmony",
+   "domicile": {
+    "detail": "Balochistan (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Master's degree in Islamic History / Islamic Studies / Arabic / Islamic Jurisprudence / LLB (Shariah) or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-181-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Director",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: Master's-degree route is 16 years, LLB (Shariah) route is a Bachelor's degree; mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Agriculture Livestock and Fisheries Department GB, Ministry of Kashmir Affairs and Gilgit-Baltistan",
+   "domicile": {
+    "detail": "GB (Open Merit=Four and Women quota=One)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' B.Sc. (Hons.) Agriculture degree from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-182-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Scientific Officer",
+   "total_posts": 5
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": 25,
+    "note": "Age limit as printed: 25-35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "National Heritage and Culture Division",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in any discipline of social science or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "5 years post-qualification experience in administration / finance in a Public Sector Organization.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-183-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Deputy Director",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 40,
+    "min": null,
+    "note": "Maximum age 40 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "19",
+   "closing_date": "2026-11-23",
+   "department": "Energy Finance & Economic Section, Energy Wing, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Merit",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years duration) degree in Economics / Finance / Energy Economics / Energy Policy / Energy Management / MBA or Member ACMA (Associate of Institute of Cost Management Accountants) from a University recognized by HEC."
+   },
+   "experience": "10 years post-qualification experience in Energy Planning / Energy Economics / Energy Management / Energy Appraisal from a Government / Semi-Government / Autonomous Body / Private Sector Organization of repute. Experience relaxable by 4 years for Ph.D. and 2 years for M.Phil. where minimum qualification is Master's; by 5 years for FCMA/CA where minimum qualification is ACMA/MBA; plus 1 year in outstanding cases as determined by FPSC. Additional increments up to a maximum of six may be allowed on FPSC recommendation.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 2500,
+   "gender": null,
+   "id": "fpsc-ad04-184-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Deputy Chief",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 40,
+    "min": null,
+    "note": "Maximum age 40 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "19",
+   "closing_date": "2026-11-23",
+   "department": "Energy Information Systems & Computer (EIS&C) Section, Energy Wing, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years duration) degree in Computer Science / Electrical / Information Technology / Software Engineering or equivalent qualifications from a University recognized by HEC; OR Second Class or Grade 'C' Bachelor's degree in Computer Engineering / Computer System Engineering or equivalent qualifications from a University recognized by PEC."
+   },
+   "experience": "10 years post-qualification experience in Data Management / Data Mining / Analytics / Big Data or Machine Learning in the Energy Sector from a Government / Semi-Government / Autonomous Body / Private Sector Organization of repute. Experience relaxable: 4 years for Ph.D. and 2 years for M.Phil. (Master's route); 6 years for Ph.D. and 2 years for M.A. or equivalent (Bachelor's route); plus 1 year in outstanding cases as determined by FPSC. Additional increments up to six may be allowed on FPSC recommendation.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 2500,
+   "gender": null,
+   "id": "fpsc-ad04-185-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Deputy Chief (Energy Information Systems & Computer)",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": null,
+    "note": "Maximum age 35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "Energy Appraisal and Plan Formulation Section, Energy Wing, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Merit",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years duration) degree in Geology / Geophysics with majors in Petroleum or Coal from a University recognized by HEC; OR Second Class or Grade 'C' Bachelor's degree of Engineering in Petroleum / Chemical / Chemical Technology / Mechanical / Mining Engineering with major in Coal recognized by PEC."
+   },
+   "experience": "3 years post-qualification experience in exploration and development of Hydrocarbon or Coal Resources or Oil & Gas Pipeline or Petroleum Refinery or Petrochemical Industry or production planning and designing in these fields from a Government / Semi-Government / Autonomous Body / Private Sector Organization of repute. Experience relaxable for Ph.D. and by 2 years for M.Phil. (Master's route) or for Ph.D. and by 2 years for Master's (Bachelor's route); plus 1 year in outstanding cases as determined by FPSC. Additional increments up to six may be allowed on FPSC recommendation.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-186-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Chief (Fuel)",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": null,
+    "note": "Maximum age 35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "Energy Appraisal & Plan Formulation Section, Energy Wing, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Punjab (Open Merit)=One and Balochistan (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Bachelor's degree of Engineering in Electrical / Mechanical or equivalent qualifications with major in Power recognized by PEC."
+   },
+   "experience": "3 years post-qualification experience in planning, designing, execution, construction, management or technical appraisal of Electrical Power Generation or Transmission of High Voltage Alternating / Direct Current (HVAC / HVDC) or Electrical Distribution Systems / Network from a Government / Semi-Government / Autonomous Body / Private Sector Organization of repute. Experience relaxable in case of Ph.D. and 2 years in case of M.A. or equivalent (Bachelor's route); plus 1 year in outstanding cases as determined by FPSC. Additional increments up to six may be allowed on FPSC recommendation.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-187-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Chief (Power)",
+   "total_posts": 2
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": null,
+    "note": "Maximum age 35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "Health Section, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Punjab (Women quota)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree or equivalent qualification in Health Planning, Nutrition Planning; OR M.B.B.S. or equivalent."
+   },
+   "experience": "3 years post-qualification experience of work and/or research relating to medicine, surgery or public health or in planning and development in these fields.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": "Female",
+   "id": "fpsc-ad04-188-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Chief (Health)",
+   "total_posts": 1,
+   "verify_flags": [
+    "Gender recorded as Female because the single post is reserved under the Punjab Women quota."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 32,
+    "min": null,
+    "note": "Maximum age 32 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Nutrition Section, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Sindh (Urban) (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree or equivalent qualifications in Human Nutrition / Food Technology / Bio-Chemistry (Nutrition) or Home Economics (with specialization in Human Nutrition)."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-189-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer (Nutrition)",
+   "total_posts": null,
+   "verify_flags": [
+    "Vacancy count could not be read: the 'Vacancies' line is illegible in the PDF scan at both 200 dpi and 300 dpi OCR — total_posts left null pending editor check of the PDF image."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 32,
+    "min": null,
+    "note": "Maximum age 32 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Physical Planning & Housing Section, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Bachelor's degree or equivalent qualification in Civil Engineering, Architecture, Town Planning, City and/or Regional Planning."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-190-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer (Physical Planning & Housing)",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": null,
+    "note": "Maximum age 28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Energy Appraisal & Plan Formulation Section, Energy Wing, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years duration) degree in Geology / Geophysics with majors in Petroleum or Coal from a University recognized by HEC; OR Second Class or Grade 'C' Bachelor's degree of Engineering in Petroleum / Chemical / Chemical Technology / Mechanical / Mining Engineering with major in Coal recognized by PEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-191-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer (Fuel)",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 32,
+    "min": null,
+    "note": "Maximum age 32 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Science and Technology Section, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Merit",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years duration) degree in Physics / Chemistry / Biology / Mathematics / Statistics / Economics / Science & Technology Policy / Technology & Innovation Management from a University / Institution recognized by HEC; OR Second Class or Grade 'C' BS / BE (4 years duration) degree in Chemical Engineering / Mechanical Engineering / Material Engineering from a University / Institution recognized by PEC / HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-192-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer (Science & Technology)",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Environment Section, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years duration) degree in Environmental & Resource Economics / Environmental Science / Environmental Planning & Management / Natural Resources Management / Forestry or equivalent qualification from a University / Institution recognized by HEC; OR Second Class or Grade 'C' B.Sc. in Environmental Engineering or equivalent qualification from a University recognized by PEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-193-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer (Environment)",
+   "total_posts": null,
+   "verify_flags": [
+    "Vacancy count could not be read: the 'Vacancies' line is illegible in the PDF scan at both 200 dpi and 300 dpi OCR — total_posts left null pending editor check of the PDF image."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": 25,
+    "note": "Age limit as printed: 25-35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "HRM Wing, Finance Division",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in Urdu or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "5 years post-qualification experience of printing, compilation and translation from English to Urdu and vice versa.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-194-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Budget Publication Officer",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Office of the Auditor General of Pakistan",
+   "domicile": {
+    "detail": "Merit=Twelve, Punjab=Eighty (Open Merit=Sixty Eight, Women quota=Eight and Minorities / Non-Muslims quota=Four), Sindh (Rural)=Eighteen (Open Merit=Sixteen, Women quota=One and Minorities / Non-Muslims quota=One), Sindh (Urban)=Twelve (Open Merit=Ten and Women quota=Two), Khyber Pakhtunkhwa=Eighteen (Open Merit=Sixteen, Women quota=One and Minorities / Non-Muslims quota=One), Balochistan=Ten (Open Merit=Eight, Women quota=One and Minorities / Non-Muslims quota=One), Ex-FATA (Open Merit)=Five, GB (Open Merit)=Two and AJK (Open Merit)=Three",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "(a) Second Class or Grade 'C' Master degree in Business Administration (Finance / Accounting) / Economics / Mathematics / Commerce / Statistics or equivalent from a University recognized by HEC; OR Master degree with (i) ICMA one-year post-graduate Certificate or (ii) CA (Foundation) or (iii) ACCA (knowledge level qualified); (b) selected candidates confirmed only after passing SAS / PIPFA (Public Sector); OR Bachelor degree with (i) PIPFA (Public Sector) / SAS qualified and (ii) 3 years service in the relevant field."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-195-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Audit Officer",
+   "total_posts": 160,
+   "verify_flags": [
+    "education level needs editor re-check: Master's-degree route is 16 years, Bachelor-degree route is 14 years; mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Signal & Telecommunication Department, Ministry of Railways",
+   "domicile": {
+    "detail": "Punjab=Two (Open Merit=One and Women quota=One) and Sindh (Rural) (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Bachelor of Engineering degree in Electrical / Electronics / Telecommunication."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-196-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Signal / Telecom. Engineer",
+   "total_posts": 3,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Store and Purchase Department, Ministry of Railways",
+   "domicile": {
+    "detail": "Punjab (Open Merit)=One and Khyber Pakhtunkhwa (Women quota)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "B.Sc. Engineering in Civil / Electrical / Electronics / Telecommunication / Mechanical Engineering. Registration with PEC required."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-197-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Controller of Stores / Purchase",
+   "total_posts": 2,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Civil Engineering Department, Ministry of Railways",
+   "domicile": {
+    "detail": "Punjab (Open Merit)=Two, Sindh (Rural) (Open Merit)=One and Khyber Pakhtunkhwa (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Bachelor degree in Civil Engineering OR equivalent qualification. Registration with PEC required."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-198-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Executive Engineer",
+   "total_posts": 4,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Transportation Power and Mechanical Engineering Department of Pakistan Railways, Ministry of Railways",
+   "domicile": {
+    "detail": "Merit=One and Punjab (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Bachelor's degree in Mechanical Engineering OR equivalent qualification. Registration with PEC required."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-199-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Mechanical Engineer",
+   "total_posts": 2,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "OS Directorate, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Merit",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' B.Tech (Textile / Mechanical) or equivalent qualification from a University recognized by HEC. Note: as per PEC, Bachelors of Engineering (B.E.) is not equivalent to Bachelors of Technology (B.Tech.) — B.E. degree is not admissible in this case."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-200-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Junior Scientific Officer",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Ordnance Corps, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Law Graduate."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-201-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Junior Civilian Labour Officer",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: 'Law Graduate' (LLB) may be 16 years of education; mapped to bachelor14 (lower) per the seed rule. No post-qualification experience is stated — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Ordnance Corps, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in Business Administration (Banking / Finance / Accounts) / Commerce / ICMA or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-202-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Ordnance Management Officer (Grade-III)",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Ordnance Corps, OS Directorate, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Merit=One, Punjab (Open Merit)=Two and Sindh (Urban) (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "MBBS or equivalent qualification recognized by PMDC. Valid registration with PMDC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-203-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Civilian Medical Practitioner (Grade-III)",
+   "total_posts": 4,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Sindh (Rural) (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's Degree in Agriculture (Horticulture)."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-204-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Horticulturist / Garden Officer",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: Bachelor's in Agriculture may be a 4-year B.Sc. (Hons) = 16 years; mapped to bachelor14 (lower) per the seed rule. No post-qualification experience is stated — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Estate Office Management, Ministry of Housing and Works",
+   "domicile": {
+    "detail": "Sindh (Rural) (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's / Bachelor's (16 years education) degree in Computer Science / Information Technology / Software Engineering or equivalent qualification from a University recognized by HEC; OR Second Class or Grade 'C' Bachelor's degree in Computer Engineering / Computer System Engineering or equivalent qualification from a University recognized by PEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-205-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Director (Web Development)",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": null,
+    "note": "Maximum age 30 years. Upper age limit is relaxable by 10 years for disabled candidates on submission of a disability certificate issued by the Competent Authority (Provincial Councils for Rehabilitation of Disabled Persons). plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Economists Group, Ministry of Planning, Development and Special Initiatives",
+   "domicile": {
+    "detail": "Merit=One, Punjab=Six (Open Merit=Five and Minorities / Non-Muslims quota=One), Sindh (Rural) (Open Merit)=One, Sindh (Urban) (Open Merit)=One, Khyber Pakhtunkhwa (Open Merit)=One, GB (Women quota)=One and AJK (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "First Class or Grade 'B' Master's degree in Economics or equivalent qualification in Economics from a recognized University with no 3rd Division in the entire academic career."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-206-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer / Planning Officer / Survey Officer",
+   "total_posts": 12,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Armed Forces Institute of Pathology, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Punjab (Open Merit)=One and Balochistan (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or BS / Bachelor's (16 years education) degree in Molecular Biology / Bioinformatics / Biochemistry or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-207-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Junior Scientific Officer",
+   "total_posts": 2,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Chief Minister Inspection Team Gilgit-Baltistan, Ministry of Kashmir Affairs and Gilgit-Baltistan",
+   "domicile": {
+    "detail": "GB (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or BS / Bachelor's (4 years duration) degree in Economics / Statistics / Sociology / Social Work / Business Administration / Public Administration or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-208-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": 25,
+    "note": "Age limit as printed: 25-35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "Planning and Development Department Gilgit-Baltistan Secretariat, Ministry of Kashmir Affairs and Gilgit-Baltistan",
+   "domicile": {
+    "detail": "GB (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in Economics or equivalent qualifications from a University recognized by HEC."
+   },
+   "experience": "5 years post-qualification experience in Economic Research, Development, Economics, International Economics and other fields of Planning and Development.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-209-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Planning Officer",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 22,
+    "note": "Age limit as printed: 22-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Planning and Development Department Gilgit-Baltistan, Ministry of Kashmir Affairs and Gilgit-Baltistan",
+   "domicile": {
+    "detail": "GB (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in Business Administration / Management Science / Economics."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-210-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Research Officer",
+   "total_posts": 2,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Communication & Works Department Gilgit-Baltistan, Ministry of Kashmir Affairs and Gilgit-Baltistan",
+   "domicile": {
+    "detail": "GB (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Bachelor's degree in Architecture / Architecture & Planning or equivalent qualifications from a University recognized by HEC. Registration with Pakistan Council of Architects & Town Planners (PCATP) till the closing date is required."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-211-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Architect",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for this case in the ad — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Federal Public Service Commission",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's Degree or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-212-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Director",
+   "total_posts": null,
+   "verify_flags": [
+    "Vacancy count could not be read: no 'Vacancies' line is legible for this case in the PDF scan at either 200 dpi or 300 dpi OCR — total_posts left null pending editor check of the PDF image. No post-qualification experience is stated — experience left null."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 35,
+    "min": 24,
+    "note": "Age limit as printed: 24-35 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "18",
+   "closing_date": "2026-11-23",
+   "department": "Federal Public Service Commission",
+   "domicile": {
+    "detail": "Merit",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in Psychology or Applied Psychology or equivalent qualification from a University recognized by HEC. Must qualify a written test in: (a) theory and practice of test development / construction and related research; (b) use and interpretation of psychological tests for assessment and evaluation; (c) application of statistical methods, experimental designs and research methodology in psychology; (d) essentials of conducting and writing research reports."
+   },
+   "experience": "5 years post-qualification experience in any of the fields specified in Schedule-II (professional: Public Service Commission / Armed Forces / recruitment / test construction; teaching at postgraduate level in Psychometrics, Clinical, Psychological evaluation, Personality assessment, Test Construction and Measurement, Organizational / Personnel Psychology or Counselling Psychology).",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 1500,
+   "gender": null,
+   "id": "fpsc-ad04-213-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Psychologist",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "AFIRM, Ministry of Defence",
+   "domicile": {
+    "detail": "Merit=One, Punjab=Five (Open Merit=Four and Women quota=One), Sindh (Rural) (Open Merit)=One, Sindh (Urban) (Open Merit)=One, Khyber Pakhtunkhwa (Open Merit)=One and Balochistan (Open Merit)=One",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree in Nursing or equivalent qualification from a University / Institute recognized by PNC / HEC; OR 3 years Diploma in General Nursing or equivalent qualification from a University / Institute recognized by PNC / HEC with 1 year Course / Certificate in Midwifery. Valid registration with PNC."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-214-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Nurse",
+   "total_posts": 10,
+   "verify_flags": [
+    "education level needs editor re-check: the ad also accepts a 3-year Diploma in General Nursing + 1-year Midwifery (below Bachelor's level); mapped to bachelor14 (lower) per the seed rule — the app's level vocabulary has no diploma level."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Directorate of Legal Affairs, Ministry of Railways",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "LLM degree or Barrister-at-Law from a University / Institute recognized by HEC, and computer literate in Microsoft Word, Excel and Spreadsheet; OR Second Class or Grade 'C' LLB degree from a University / Institute recognized by HEC, with 2 years post-qualification experience in legal matters, and computer literate in Microsoft Word, Excel and Spreadsheet."
+   },
+   "experience": "2 years post-qualification experience in legal matters (LLB route only; LLM route has no experience requirement).",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-215-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Director Legal",
+   "total_posts": 1,
+   "verify_flags": [
+    "Case number F.4-215/2026-R inferred from sequence (between F.4-214 on page 19 and F.4-216 on page 20); the case-number header line did not OCR on either pass — editor to confirm. education level needs editor re-check: LLM route is 16+ years, LLB route is a Bachelor's degree; mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Federal Medical College, Ministry of National Health Services, Regulations and Coordination",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's degree in Bio-Statistics or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "2 years post-qualification experience in the relevant field.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-216-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Statistical Officer",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Federal Medical College, Ministry of National Health Services, Regulations and Coordination",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "2 years post-qualification experience of managing a School Hostel / College Hostel / University Hostel.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": "Female",
+   "id": "fpsc-ad04-217-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Assistant Warden Girls Hostel (Female)",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: plain Bachelor's degree mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Geological Survey of Pakistan, Ministry of Energy",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree from a University recognized by HEC."
+   },
+   "experience": "2 years post-qualification experience in handling spare parts of vehicles and other stores and equipment (ledger, bin-card accounts, voucher issue/demand, loss statements, periodical stock-taking).",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-218-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Store Officer",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: plain Bachelor's degree mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "OS Directorate, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Not stated in the ad (domicile/quota not printed for this case)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree (14 years schooling) or equivalent from a University recognized by HEC."
+   },
+   "experience": "2 years post-qualification experience in Store Management.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-219-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Junior Ordnance Management Officer",
+   "total_posts": 3,
+   "verify_flags": [
+    "Domicile/quota not printed for this case in the PDF — left as 'Not stated in the ad'."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "OS Directorate, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Balochistan (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Retd. JCO or equivalent of the Armed Forces; OR Second Class or Grade 'C' Bachelor's degree (14 years schooling) or equivalent qualification from a University recognized by HEC."
+   },
+   "experience": "2 years post-qualification experience as Security Supervisor.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-220-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Junior Civilian Security Officer",
+   "total_posts": 1
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 28,
+    "min": 20,
+    "note": "Age limit as printed: 20-28 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "16",
+   "closing_date": "2026-11-23",
+   "department": "Ordnance Corps, GHQ, Ministry of Defence",
+   "domicile": {
+    "detail": "Punjab (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor14",
+    "text": "Second Class or Grade 'C' Bachelor's degree in Commerce or equivalent from a University recognized by HEC."
+   },
+   "experience": "2 years post-qualification experience in Administration and Finance.",
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-221-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Junior Establishment and Finance Officer",
+   "total_posts": 1,
+   "verify_flags": [
+    "education level needs editor re-check: Bachelor's degree in Commerce mapped to bachelor14 (lower) per the seed rule."
+   ]
+  },
+  {
+   "adv_date": "2026-11-06",
+   "adv_no": "Consolidated Advertisement No. 04/2026 (Phase-4/2026)",
+   "age": {
+    "max_effective": null,
+    "max_printed": 30,
+    "min": 22,
+    "note": "Age limit as printed: 22-30 years plus 5 years general relaxation in upper age limit (FPSC General Instructions / Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+   },
+   "apply_url": "https://www.fpsc.gov.pk",
+   "body": "FPSC",
+   "bps": "17",
+   "closing_date": "2026-11-23",
+   "department": "Communication & Works Department Gilgit-Baltistan, Ministry of Kashmir Affairs and Gilgit-Baltistan",
+   "domicile": {
+    "detail": "GB (Open Merit)",
+    "province": "All Pakistan"
+   },
+   "education": {
+    "level": "bachelor16",
+    "text": "Second Class or Grade 'C' Master's or Bachelor's (4 years education) degree in Business Administration / Public Administration / Human Resources Management or equivalent qualification from a University recognized by HEC; OR Second Class or Grade 'C' Bachelor's degree or equivalent with 5 years post-qualification experience of dealing with Administration / Establishment / Accounts matters."
+   },
+   "experience": null,
+   "fee_note": "Fee per the FPSC fee table in Ad 04/2026: BS-16/17 Rs 600, BS-18 Rs 1,500, BS-19 Rs 2,500, BS-20 and above Rs 3,000. Deposit online against a dedicated PSID via 1Link before the closing date. Non-refundable.",
+   "fee_pkr": 600,
+   "gender": null,
+   "id": "fpsc-ad04-222-2026",
+   "last_updated": "2026-11-07",
+   "organization": "Federal Public Service Commission",
+   "result_info": null,
+   "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
+   "status": "open",
+   "syllabus": null,
+   "test_date": null,
+   "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
+   "title": "Superintendent",
+   "total_posts": 1,
+   "verify_flags": [
+    "No post-qualification experience is stated for the Master's/4-year Bachelor's route — experience left null (5 years applies only to the plain Bachelor's route)."
+   ]
+  }
+ ],
+ "meta": {
+  "app": "Naukri Check",
+  "data_version": 2,
+  "generated": "2026-11-07",
+  "hosting": "This file is bundled in the app as an asset AND hosted at a remote URL (GitHub Pages) so new ads can be added without an app rebuild. The app uses whichever copy has the higher data_version.",
+  "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf).",
+  "optional_fields_note": "Every job record may also carry test_date, syllabus and result_info (null until announced). The app must display and alert on these when they appear in a data update, and ignore them gracefully while null."
+ },
+ "recently_closed": [
+  {
+   "adv_no": "Consolidated Ad 05/2026 (25 Sep 2026)",
+   "body": "SPSC",
+   "closing_date": "2026-10-23",
+   "fee_note": "Rs 500 per post via PSID/1Bill. Common terms: Sindh domicile + PRC (Form-D); degrees from HEC-recognised universities; qualification and experience must be held on the closing date; Sindh general relaxation (6 Mar 2025 notification) applies except Police/CCE posts; documents had to be uploaded on the portal before the closing date (update of 11 Oct 2026).",
+   "fee_pkr": 500,
+   "id": "spsc-adv05-summary",
+   "posts": [
+    {
+     "age": "28-35",
+     "bps": "18",
+     "department": "Enquiries & Anti-Corruption Establishment, SGA&CD",
+     "education": "16-year Bachelor's in IT or Computer Science, at least Second Division",
+     "experience": "5 years IT project experience",
+     "posts": 1,
+     "title": "Deputy Director IT / Senior Manager IT"
+    },
+    {
+     "age": "21-28",
+     "bps": "17",
+     "department": "Enquiries & Anti-Corruption Establishment, SGA&CD",
+     "education": "16-year Bachelor's in IT or Computer Science, at least Second Division",
+     "posts": 1,
+     "title": "Assistant Director IT / System Analyst"
+    },
+    {
+     "age": "21-28",
+     "bps": "17",
+     "department": "Home Department",
+     "education": "MBBS + PMDC registration + one-year house job",
+     "note": "28 open merit, 2 differently-abled quota, 2 minority quota",
+     "posts": 32,
+     "title": "Medical Officer (Male)"
+    },
+    {
+     "age": "21-28",
+     "bps": "17",
+     "department": "Home Department",
+     "education": "MBBS + PMDC registration + one-year house job",
+     "gender": "Female",
+     "posts": 4,
+     "title": "Lady Medical Officer"
+    },
+    {
+     "age": "18-30",
+     "bps": "17",
+     "department": "Information Department",
+     "education": "Master's in Mass Communication or Journalism",
+     "experience": "3-5 years relevant experience (as reported)",
+     "posts": 4,
+     "title": "Information Officer"
+    },
+    {
+     "age": "21-28",
+     "bps": "17",
+     "department": "Planning & Development Department",
+     "education": "16 years of education in Public Administration, HR Management, Economics or Public Policy",
+     "posts": 1,
+     "title": "Assistant Director"
+    },
+    {
+     "age": "21-28",
+     "bps": "17",
+     "department": "Planning & Development Department",
+     "education": "16 years of education in Computer Science, IT or Software Engineering",
+     "posts": 1,
+     "title": "Programme Officer"
+    },
+    {
+     "age": "21-31",
+     "bps": "16",
+     "department": "Law, Parliamentary Affairs & Criminal Prosecution Department",
+     "education": "Bachelor's degree, at least Second Division",
+     "note": "2 posts reserved for women",
+     "posts": 10,
+     "title": "Assistant"
+    }
+   ],
+   "source_url": "https://spsc.gov.pk/advertisement/2026/adv-05-2026.pdf",
+   "status": "closed"
+  },
+  {
+   "adv_no": "Advertisement No. 11/2026 (9 Oct 2026)",
+   "body": "PPSC",
+   "closing_date": "2026-10-26",
+   "fee_note": "Rs 600 per post via PSID (ATM, mobile/internet banking, 1Link branches, JazzCash, Easypaisa, UPaisa). Common terms: Punjab domicile (any district unless a case states otherwise); all posts open to male, female and transgender candidates (transgender age/sex per CNIC); all posts on CONTRACT (2-5 years, several extendable); printed age format shows base range + 5 years (male) / + 8 years (female) general relaxation — effective maxima below; professional-council registration (PVMC/PEC/PCATP/PMDC-PMC) must be valid, or applied for, on or before the closing date.",
+   "fee_pkr": 600,
+   "id": "ppsc-adv11-summary",
+   "posts": [
+    {
+     "age": "30-45 (effective max 50 male / 53 female)",
+     "bps": "18",
+     "case_no": "04-RK/2026",
+     "contract": "5 years",
+     "department": "Livestock & Dairy Development Department (Extension Wing)",
+     "education": "PhD in Veterinary Sciences/Animal Husbandry with basic veterinary degree; OR M.Phil/MSc route; OR Master's in a management-related field; OR DVM — with valid PVMC registration",
+     "experience": "Route-dependent: 3 years (M.Phil/MSc), 4 years (management Master's), 5 years (DVM) — in BS-17 or above or equivalent PVMC-accredited private sector",
+     "posts": 61,
+     "title": "Senior Veterinary Officer / Assistant Director and equivalent posts"
+    },
+    {
+     "age": "21-28 (effective max 33 male / 36 female)",
+     "bps": "18",
+     "case_no": "25-RA/2026",
+     "contract": "3 years",
+     "department": "PHATA, Housing, Urban Development & PHED",
+     "education": "B.Sc. City & Regional Planning + permanent PCATP registration",
+     "experience": "At least 7 years relevant field experience",
+     "posts": 2,
+     "title": "Deputy Director (Town Planning)"
+    },
+    {
+     "age": "21-40 (effective max 45 male / 48 female)",
+     "bps": "18",
+     "case_no": "26-RA/2026",
+     "contract": "3 years",
+     "department": "PHATA",
+     "education": "B.Sc. (Engg) Civil Engineering + valid PEC registration",
+     "experience": "7 years with B.Sc.; M.Sc. Civil route reported as 5 years by one reader and 3 by another — verify in the official ad",
+     "posts": 2,
+     "title": "Deputy Director (Engineering)"
+    },
+    {
+     "age": "21-30 (effective max 35 male / 38 female)",
+     "bps": "17",
+     "case_no": "27-RA/2026",
+     "contract": "3 years",
+     "department": "PHATA",
+     "education": "One of B.Com (Hons), M.Com, BBA, MBA, BS Accounting & Finance, ACCA, or Inter CA",
+     "posts": 12,
+     "title": "Assistant Accounts Officer"
+    },
+    {
+     "age": "25-45 (effective max 50 male / 53 female)",
+     "bps": "18",
+     "case_no": "34-RD to 38-RD/2026",
+     "contract": "3 years",
+     "department": "Specialized Healthcare & Medical Education Department",
+     "education": "MBBS or equivalent + recognised postgraduate qualification in the relevant specialty (FCPS, MS, MD, FRCS, MRCP, American Board or equivalent); PMDC/PMC registration valid up to the closing date",
+     "experience": "Alternative routes with 1-3 years post-graduation experience per specialty; only experience gained AFTER the prescribed qualification counts",
+     "note": "Medicine 53 posts, Surgery 41, Cardiac Anaesthesia 7, Paediatric Ophthalmology 3, Paediatric Cardiology 3",
+     "posts": 107,
+     "title": "Senior Registrar — Medicine / Surgery / Cardiac Anaesthesia / Paediatric Ophthalmology / Paediatric Cardiology"
+    },
+    {
+     "age": "21-35 (effective max 40 male / 43 female)",
+     "bps": "14",
+     "case_no": "10-RH/2026",
+     "contract": "2 years (extendable)",
+     "department": "Special Branch, Punjab Police",
+     "education": "Bachelor's degree, at least Second Division, + basic computer knowledge; OR graduation with 5 years experience in the intelligence wing of a law-enforcement agency",
+     "note": "Posting anywhere in Punjab",
+     "posts": 30,
+     "title": "Intelligence Officer"
+    },
+    {
+     "age": "18-25 (effective max 30 male / 33 female)",
+     "bps": "16",
+     "case_no": "11-RH/2026",
+     "contract": "3 years",
+     "department": "Youth Affairs & Sports Department",
+     "education": "Master's (Second Division) in Physical Education or Sports Sciences; OR Bachelor's (Second Division) with selection as an international player",
+     "note": "Open merit 27, minority quota 2; women/special-persons split reported inconsistently (7+1 vs 3+5) and one source gives the case number as 17-RH/2026 — verify in the official ad",
+     "posts": 37,
+     "title": "Tehsil Sports Officer / Officer Incharge / Administrator / Caretaker"
+    },
+    {
+     "age": "20-35 (effective max 40 male / 43 female)",
+     "bps": "17",
+     "case_no": "59-RG/2026",
+     "contract": "3 years",
+     "department": "Programme Management Unit, Agriculture Department",
+     "education": "B.Sc. Agricultural Engineering (at least Second Division) OR B.Sc. Civil/Mechanical Engineering + PEC registration",
+     "note": "Posting in the Special Zone of Punjab",
+     "posts": 8,
+     "title": "Assistant Regional Manager"
+    },
+    {
+     "age": "21-30 (effective max 35 male / 38 female)",
+     "bps": "17",
+     "case_no": "05-RK/2026",
+     "contract": "5 years",
+     "department": "Directorate of Breed Improvement, Livestock & Dairy Development Department",
+     "education": "DVM + valid PVMC registration (candidates who applied for initial registration, or renewal of an expired registration, before the closing date are also held eligible)",
+     "posts": 40,
+     "title": "Veterinary Officer / Semen Distribution Officer / Instructor"
+    }
+   ],
+   "source_url": "https://www.ppsc.gop.pk",
+   "status": "closed"
+  },
+  {
+   "body": "NTS",
+   "closing_date": "2026-10-26",
+   "id": "nts-irsa-telemetry-2026",
+   "note": "Pay Rs 70,000-157,500; initially 1-year contract, extendable. Minimum academic qualification not below 2nd division. Age limits not stated in the notification summary; upper-age relaxation per federal rules. Domicile: open merit, all Pakistan.",
+   "organization": "Indus River System Authority (IRSA)",
+   "source_url": "https://www.nts.org.pk",
+   "status": "closed",
+   "title": "Telemetry Project posts — GIS/Web GIS Analyst, Senior Auditor, Sub-Engineers, Supervisors",
+   "total_posts": 23
+  },
+  {
+   "body": "NTS",
+   "closing_date": "2026-10-23",
+   "id": "nts-gepco-am-2026",
+   "note": "4-year Bachelor's or Master's in CS/IT/Software Engineering (HEC-recognised) + at least 2 years relevant experience. Age 21-33 INCLUDING 5 years general age relaxation. 3-year contract, lump-sum pay, extendable. Domicile: all Pakistan (open merit).",
+   "organization": "Gujranwala Electric Power Company (GEPCO)",
+   "source_url": "https://www.nts.org.pk",
+   "status": "closed",
+   "title": "Assistant Managers (AMI Operations) — Database Administration, Network Support, Meter Data Management",
+   "total_posts": 3
+  },
+  {
+   "body": "NTS",
+   "closing_date": "2026-10-20",
+   "id": "nts-kemu-jot-2026",
+   "note": "FSc (2nd division) + relevant Allied Health Sciences diploma recognised by Punjab Medical Faculty; if unavailable, Matric Science (2nd division) + relevant 2-year PMF-recognised diploma. Age 18-25 (relaxation per Punjab government notifications). Domicile: Punjab. 3-year contract, extendable.",
+   "organization": "College of Ophthalmology & Allied Vision Sciences, KEMU/Mayo Hospital, Lahore",
+   "source_url": "https://www.nts.org.pk",
+   "status": "closed",
+   "title": "Junior Ophthalmic Technician (BPS-09)",
+   "total_posts": 3
+  }
+ ],
+ "recently_closed_note": "The records below closed within the last 30 days. They stay in the data because thousands of candidates have live applications in them (test dates, slips and results still to come) and the Tracker covers them. The app labels them CLOSED — never show them as open.",
+ "rules": {
+  "age_counted_on": "closing_date",
+  "bodies": {
+   "ETEA": {
+    "general_relaxation_note": "Relaxation per KP government / project policy as stated in each ad.",
+    "payment": "Per project instructions on etea.edu.pk.",
+    "source_url": "https://etea.edu.pk"
+   },
+   "FPSC": {
+    "categories": [
+     {
+      "name": "Scheduled Castes / Buddhist community / Recognised Tribes of Tribal Areas / AJK / Gilgit-Baltistan (permanent residents)",
+      "years": 3
+     },
+     {
+      "max_age_cap": 55,
+      "name": "Government servant (incl. contract) with 2 years continuous service on closing date (NOT nationalised banks, SBP, WAPDA, semi-govt/autonomous bodies)",
+      "years": 10
+     },
+     {
+      "name": "Retired/released Armed Forces personnel",
+      "years": "15 or years actually served, whichever is less"
+     },
+     {
+      "name": "Widow / son / daughter of a federal civil servant who died in service",
+      "years": 5
+     }
+    ],
+    "fees_by_bps": {
+     "BS-16": 600,
+     "BS-17": 600,
+     "BS-18": 1500,
+     "BS-19": 2500,
+     "BS-20+": 3000
+    },
+    "general_relaxation_note": "+5 years general relaxation for every candidate, over and above ONE category relaxation (Initial Appointment to Civil Posts (Relaxation of Upper Age Limit) Rules, 1993). Does NOT apply to CSS.",
+    "general_relaxation_years": 5,
+    "payment": "PSID generated on fpsc.gov.pk, paid via 1Link (ATM, mobile/internet banking, Easypaisa, JazzCash, or any 1Link member bank counter). Old challan TR-6, bank draft, pay order and cheque are NOT accepted.",
+    "source_url": "https://www.fpsc.gov.pk/uploads/content/1786609635992_Instructions_to_the_candidates_-_updated_on_12.8.2026.pdf"
+   },
+   "NJP": {
+    "general_relaxation_note": "As stated in each advertisement.",
+    "name": "National Job Portal (direct applications, no testing body)",
+    "source_url": "https://njp.gov.pk"
+   },
+   "NTS": {
+    "fees": {
+     "note": "Per project; printed on the project's deposit/payment instructions."
+    },
+    "general_relaxation_note": "No body-wide relaxation; each project ad states its own age rules and any relaxation.",
+    "payment": "1Link 1Bill: participating banks, ATM, internet/mobile banking, Easypaisa, JazzCash, TCS Express Centres (project-dependent).",
+    "source_url": "https://www.nts.org.pk"
+   },
+   "PPSC": {
+    "fees": {
+     "competitive_pms": 1000,
+     "note": "Per-ad fee governs; Ad 11/2026 charged Rs 600 per post. Disabled candidates and PPSC employees are fee-exempt.",
+     "one_paper_mcq": 600
+    },
+    "general_relaxation_note": "Printed in every PPSC advertisement as base range + 5 years (male) / + 8 years (female). Applies automatically. Transgender candidates: age and sex as per CNIC. Federal/semi-govt/autonomous/local-body employees get NO service concession in PPSC.",
+    "general_relaxation_years": {
+     "female": 8,
+     "male": 5
+    },
+    "payment": "17-digit PSID under GoPb biller via 1Link: ATM, mobile/internet banking, JazzCash, Easypaisa, UPaisa, microfinance banks, 1Link member bank branches.",
+    "source_url": "https://www.ppsc.gop.pk"
+   },
+   "SPSC": {
+    "fees": {
+     "cce": 1000,
+     "note": "Per-ad fee governs; Ad 05/2026 charged Rs 500 per post."
+    },
+    "general_relaxation_note": "Government of Sindh, SGA&CD Notification No. SOII(SGA&CD)5-64/2011 (Part-II), dated 6 March 2025: blanket relaxation of up to 5 years beyond the prescribed maximum age, effective 1 January 2025 to 31 December 2026, for ALL departments EXCEPT Police posts and posts filled through the Combined Competitive Examination (CCE).",
+    "general_relaxation_years": 5,
+    "payment": "PSID via 1Bill invoice option on any online payment channel.",
+    "relaxation_valid_until": "2026-12-31",
+    "source_url": "https://spsc.gov.pk"
+   },
+   "STS_PK": {
+    "general_relaxation_note": "Relaxation per Government of Sindh policy as stated in each ad.",
+    "name": "Sindh Testing Service - Pakistan (Karachi) — a DIFFERENT body from SIBA Testing Services",
+    "payment": "Prescribed STS test-fee deposit slip at designated bank branches; form + original paid slip sent by post/courier where the ad requires it.",
+    "source_url": "https://sts.org.pk"
+   },
+   "STS_SIBA": {
+    "general_relaxation_note": "Relaxation per Government of Sindh rules as stated in each ad.",
+    "name": "SIBA Testing Services (Sukkur IBA University)",
+    "payment": "System-generated challan: any ABL branch, MyABL app, or 1Bill internet banking.",
+    "source_url": "https://apply.sts.net.pk"
+   }
+  },
+  "corrigendum_watch_example": {
+   "body": "SPSC Advertisement 06/2026 (23 Oct 2026) changed Consolidated Ad 04/2026 after applications had opened: upper age limit 30 → 33 years, closing date extended to 11 Nov 2026, attempts 3 → 5, screening pass mark 40% → 33% with 0.25 negative marking added; the screening test date then moved twice by official notices (24 Oct → postponed → 28 Nov 2026). Existing applicants did not need to re-apply. This is why Naukri Check version-watches every ad.",
+   "source_url": "https://spsc.gov.pk/advertisement/2026/adv-06-2026.pdf",
+   "title": "SPSC CCE-2026 — the ad changed mid-cycle (real case)"
+  },
+  "paid_not_applied_checklist": [
+   {
+    "label": "Documents uploaded / form filled completely",
+    "step": 1,
+    "warning": "On SPSC, domicile, PRC (Form-D), quota, age, qualification and experience are LOCKED at the closing date. On FPSC, a qualification not mentioned in the online form is treated as non-existent."
+   },
+   {
+    "label": "Fee paid against the CORRECT case/post number",
+    "step": 2,
+    "warning": "Each post has its own case number and its own PSID. A fee paid for one post cannot be moved to another, and fees are never refunded."
+   },
+   {
+    "label": "FINAL SUBMIT done on the portal before the closing time",
+    "step": 3,
+    "warning": "Payment alone is NOT an application — the number-one self-inflicted rejection at FPSC and PPSC. Return to the portal after paying and submit."
+   },
+   {
+    "label": "Roll number slip / admission certificate downloaded when issued",
+    "step": 4,
+    "warning": "Government servants: departmental permission (DPC/NOC) details are mandatory at FPSC — no admission certificate is issued without it."
+   }
+  ],
+  "top_rejection_reasons": [
+   "Fee paid but the form was never finally submitted",
+   "Wrong domicile for the post's quota",
+   "Over-age or under-age ON the closing date (age is checked after the test too — FPSC can reject an overage candidate who passed)",
+   "Result/qualification declared after the closing date",
+   "Wrong case number — fee paid against a different post",
+   "Name / CNIC / date of birth not matching documents",
+   "Photo not meeting the portal specification",
+   "Experience counted from before the required qualification, or claimed after submission",
+   "Foreign / O-Level qualification without HEC/IBCC equivalence obtained before the closing date",
+   "Fee paid after the deadline or by old challan/draft (no longer accepted)"
+  ]
+ }
+}
