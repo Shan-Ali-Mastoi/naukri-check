@@ -2499,356 +2499,6 @@
       ]
     },
     {
-      "adv_date": "2026-10-28",
-      "adv_no": null,
-      "age": {
-        "max_effective": 30,
-        "max_printed": 25,
-        "min": 18,
-        "note": "Advertisement text states 18-25 years for every post; NJP's structured age field shows Max 30 / Min 18. Federal age relaxation rules apply."
-      },
-      "apply_url": "https://njp.gov.pk",
-      "body": "NJP",
-      "bps": "07-15",
-      "closing_date": "2026-11-12",
-      "department": "National Highways & Motorway Police — Balochistan quota",
-      "domicile": {
-        "detail": "Balochistan domicile / local certificate only",
-        "province": "Balochistan"
-      },
-      "education": {
-        "level": "matric",
-        "text": "See posts_detail — Matric (Constable, LDC, Paramedical) to BA/BSc (Assistant)."
-      },
-      "experience": "Post-specific (see posts_detail)",
-      "fee_note": "No fee shown on the NJP listing.",
-      "fee_pkr": null,
-      "gender": "Male & female",
-      "id": "njp-nhmp-2026",
-      "last_updated": "2026-11-09",
-      "organization": "National Highways & Motorway Police (NHMP), Ministry of Communications",
-      "posts_detail": [
-        {
-          "bps": "07",
-          "education": "Matric (2nd Division); height 5'8\" male / 5'4\" female; chest 33x34.5 (male); LTV driving licence",
-          "posts": 80,
-          "title": "Constable / Junior Patrol Officer"
-        },
-        {
-          "bps": "15",
-          "education": "B.A / B.Sc.",
-          "posts": 1,
-          "title": "Assistant"
-        },
-        {
-          "bps": "14",
-          "education": "Intermediate; shorthand 80 wpm; typing 40 wpm; computer literate",
-          "posts": 3,
-          "title": "Stenotypist"
-        },
-        {
-          "bps": "13",
-          "education": "Intermediate + 3 years' experience in photography",
-          "posts": 5,
-          "title": "Photographer"
-        },
-        {
-          "bps": "11",
-          "education": "Matric + typing 30 wpm",
-          "posts": 3,
-          "title": "LDC (Lower Division Clerk)"
-        },
-        {
-          "bps": "07",
-          "education": "Matric with Science + 1-year Diploma in Nursing",
-          "posts": 2,
-          "title": "Paramedical Staff"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://www.njp.gov.pk/jobs/9927",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Constable / Junior Patrol Officer, Assistant, Stenotypist and others (Balochistan quota)",
-      "total_posts": 94
-    },
-    {
-      "adv_date": "2026-10-28",
-      "adv_no": null,
-      "age": {
-        "max_effective": 35,
-        "max_printed": 35,
-        "min": null,
-        "note": "Age differs per post — see posts_detail (mostly Max 35; Assistant Max 38; Lady Police Constable Max 30; Storeman: no age limit shown). No minimum age shown on NJP listings. General age relaxation 0 years, except Storeman (5 years)."
-      },
-      "apply_url": "https://njp.gov.pk",
-      "body": "NJP",
-      "bps": "01-15",
-      "closing_date": "2026-11-12",
-      "department": "Pakistan Navy — Balochistan quota (civilian posts)",
-      "domicile": {
-        "detail": "Balochistan domicile / local certificate only",
-        "province": "Balochistan"
-      },
-      "education": {
-        "level": "primary",
-        "text": "See posts_detail — Primary (Naib Qasid, Mali) to Master's (Language Interpreter)."
-      },
-      "experience": "Post-specific (see posts_detail)",
-      "fee_note": "No fee shown on the NJP listing.",
-      "fee_pkr": null,
-      "gender": "Male & female (post-specific — see posts_detail)",
-      "id": "njp-navy-civilian-2026",
-      "last_updated": "2026-11-09",
-      "organization": "Pakistan Navy (Civilian Establishment)",
-      "posts_detail": [
-        {
-          "age": "Max 38",
-          "bps": "15",
-          "education": "Graduation",
-          "posts": 1,
-          "title": "Assistant"
-        },
-        {
-          "age": "Max 35",
-          "bps": "14",
-          "education": "Master's degree in language with previous experience of interpreter",
-          "posts": 1,
-          "title": "Language Interpreter (Arabic)"
-        },
-        {
-          "age": "Max 35",
-          "bps": "14",
-          "education": "Bachelor's Degree in Physics / Mathematics / Statistics / Economics",
-          "posts": 5,
-          "title": "Data Entry Operator"
-        },
-        {
-          "age": "Max 35",
-          "bps": "14",
-          "education": "Matric with trade ability; experience of the trade",
-          "posts": 1,
-          "title": "Sports Coach"
-        },
-        {
-          "age": "Max 35",
-          "bps": "14",
-          "education": "Graduation / DAE",
-          "posts": 1,
-          "title": "Sub Engineer"
-        },
-        {
-          "age": "Max 35",
-          "bps": "13",
-          "education": "Intermediate",
-          "posts": 2,
-          "title": "UDC"
-        },
-        {
-          "age": "Max 35",
-          "bps": "11",
-          "education": "Matric",
-          "posts": 2,
-          "title": "LDC"
-        },
-        {
-          "age": "Max 35",
-          "bps": "12",
-          "education": "B.Tech Pass in relevant technology; 4 years' experience in relevant field",
-          "posts": 3,
-          "title": "Leading Man (Electrical / Electronics / Mechanical / Construction / Mechatronics)"
-        },
-        {
-          "age": "Max 35",
-          "bps": "11",
-          "education": "Tech Pass in relevant technology with 2 years' experience OR DAE with 6 years' experience",
-          "posts": 2,
-          "title": "Assistant Leading Man (Electrical / Electronics / Mechanical / Construction / Mechatronics)"
-        },
-        {
-          "age": "Max 35",
-          "bps": "11",
-          "education": "3-year DAE in Electronics; 3 years' experience in repairing/maintaining of tele-printers",
-          "posts": 1,
-          "title": "Tele Printer Cum Cypher Machine Mechanic"
-        },
-        {
-          "age": "Max 35",
-          "bps": "10",
-          "education": "Female; Matric; nursing certificates; 3 years' experience in general nursing in Govt/Pvt hospital",
-          "gender": "Female",
-          "posts": 3,
-          "title": "Nursing Sister / Female Nurse"
-        },
-        {
-          "age": "Max 35",
-          "bps": "10",
-          "education": "Graduate",
-          "posts": 1,
-          "title": "Estate Inspector"
-        },
-        {
-          "age": "Max 35",
-          "bps": "09",
-          "education": "Intermediate; 2 years' experience in relevant field",
-          "posts": 1,
-          "title": "Telephone Operator"
-        },
-        {
-          "age": "Max 35",
-          "bps": "09",
-          "education": "Intermediate",
-          "posts": 1,
-          "title": "Engine Driver - I"
-        },
-        {
-          "age": "Max 35",
-          "bps": "07",
-          "education": "Matric with trade ability and experience of the trade",
-          "posts": 1,
-          "title": "Junior Instructor"
-        },
-        {
-          "age": "Max 35",
-          "bps": "07",
-          "education": "Intermediate",
-          "gender": "Male",
-          "posts": 1,
-          "title": "Receptionist Male"
-        },
-        {
-          "bps": "07",
-          "education": "Matric; preference to post-qualification experience (no age limit shown on NJP)",
-          "posts": 5,
-          "title": "Storeman"
-        },
-        {
-          "age": "Max 35",
-          "bps": "07",
-          "education": "Female; Matric preferred; qualifying certificate of midwifery; working experience in general nursing and service hospital",
-          "gender": "Female",
-          "posts": 1,
-          "title": "Midwife Female"
-        },
-        {
-          "age": "Max 35",
-          "bps": "05",
-          "education": "Female; Matric with Science",
-          "gender": "Female",
-          "posts": 6,
-          "title": "LDC Motivator Female"
-        },
-        {
-          "age": "Max 30",
-          "bps": "05",
-          "education": "Female; Matric; height 5.2; eyesight 6/6",
-          "gender": "Female",
-          "posts": 2,
-          "title": "Lady Police Constable"
-        },
-        {
-          "age": "Max 35",
-          "bps": "05",
-          "education": "Matric with practical experience",
-          "posts": 1,
-          "title": "Tracer"
-        },
-        {
-          "age": "Max 35",
-          "bps": "04",
-          "education": "Middle",
-          "posts": 1,
-          "title": "AC Operator"
-        },
-        {
-          "age": "Max 35",
-          "bps": "04",
-          "education": "Middle",
-          "posts": 1,
-          "title": "Lift / Fork Operator"
-        },
-        {
-          "age": "Max 35",
-          "bps": "04",
-          "education": "Male; LTV driving licence and trade test; preference Middle pass with HTV driving licence",
-          "gender": "Male",
-          "posts": 1,
-          "title": "MT Driver Civil"
-        },
-        {
-          "age": "Max 35",
-          "bps": "04",
-          "education": "LTV driving licence and trade test; preference Middle pass with HTV driving licence",
-          "posts": 1,
-          "title": "Dispatch Rider"
-        },
-        {
-          "age": "Max 35",
-          "bps": "04",
-          "education": "Matric Science with minimum 50% marks; 6-month certified course from a recognised institute; 2 years' experience in relevant field",
-          "posts": 4,
-          "title": "Skilled"
-        },
-        {
-          "age": "Max 35",
-          "bps": "03",
-          "education": "Middle",
-          "posts": 1,
-          "title": "Machine Helper"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Primary Pass",
-          "posts": 13,
-          "title": "Naib Qasid"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Male; Primary Pass",
-          "gender": "Male",
-          "posts": 2,
-          "title": "Sanitary Worker"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Primary Pass",
-          "posts": 1,
-          "title": "UNSK Workman"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Male; Primary Pass",
-          "gender": "Male",
-          "posts": 1,
-          "title": "Mali"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Primary Pass",
-          "posts": 1,
-          "title": "Ground Man"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://www.njp.gov.pk/jobs/10105",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Civilian posts BPS-01 to BPS-15 (Balochistan quota)",
-      "total_posts": 69,
-      "verify_flags": [
-        "Secondary coverage reported a 25 Nov 2026 closing date (PID(I)3985/26); NJP's own listings show 12 Nov 2026 on every post and no PID — the NJP date is used."
-      ]
-    },
-    {
       "adv_date": "2026-11-01",
       "adv_no": null,
       "age": {
@@ -4451,13 +4101,363 @@
   ],
   "meta": {
     "app": "Naukri Check",
-    "data_version": 6,
-    "generated": "2026-11-12",
+    "data_version": 7,
+    "generated": "2026-11-13",
     "hosting": "This file is bundled in the app as an asset AND hosted at a remote URL (GitHub Pages) so new ads can be added without an app rebuild. The app uses whichever copy has the higher data_version.",
-    "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf). Correction 2026-11-07: the three vacancy counts left null in v2 (F.4-189, F.4-193, F.4-212) were resolved by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2 - FPSC Ad 04/2026 total is now 278 posts. No other record changed; data_version stays 2 (v2 not yet consumed by any build). v3 (2026-11-08): scholarships[] populated for the first time — 13 records (3 open, 10 closed/annual cycles), every record verified by Muse against its official source page only (HEC, SEF, SEEF, BEEF, USEFP, Campus France, EACEA, Chevening, Türkiye Burslari, Australia Awards); no deadlines or amounts invented — where the official page states no closing date the field is null and cycle_note explains the annual rhythm. Jobs data unchanged from v2. v4 (2026-11-09): CSS 2027 written-exam notice confirmed from the official FPSC PDF (fee Rs 2,200, test from 27 Jan 2027, age 21-30 on 31 Dec 2026) — record now open; 9 new job records verified from official sources only: 3 ETEA (PHC Abbottabad Judicial Assistant, LG&RDD KP 11 posts, EPA KP 6 posts) and 6 NJP drives (NHMP 94, Navy civilian 69, Bait-ul-Mal 125, Ministry of Planning 77, Marine Fisheries 4, NASTP 14) — 383 NJP posts; scholarships: HEC US-Pakistan Knowledge Corridor PhD 2027 added (Fall intake closes 30 Mar 2027), SEF SSESP 2026-27 moved to closed (cycle ended 28 Feb 2026). PPSC Advertisement No. 12/2026 (PMS/CCE) NOT added — ppsc.gop.pk was unreachable from the browser and curl on 2026-11-09; retry at the next watch. National Grid Pakistan drive NOT added — not found on NJP. v5 (2026-11-11, DRAFT — publish only after midnight 11 Nov 2026 / Thu 12 Nov morning, once CCE + Railways Balochistan quota have actually closed): SPSC CCE-2026 (closing 11 Nov 2026, screening test Sat 28 Nov 2026) and Pakistan Railways Balochistan quota (closing 11 Nov 2026, 829 posts) moved from jobs[] to recently_closed[] with status closed — full records preserved, including CCE test_date/test_info so the Tracker still shows the 28 Nov screening. Open jobs 67 -> 65. PPSC Advertisement No. 12/2026 (PMS/CCE, 48 BS-17 posts, closing 30 Nov 2026) STILL NOT added — ppsc.gop.pk still only shows the stale 1 Mar 2026 crawl (checked 11 Nov 2026); 8 aggregators now agree on the ad text but seed policy needs the official PDF; retry at the Thu 12 Nov watch. NOT moved yet (still open until midnight of their closing dates): NJP NHMP (94 posts) and Navy civilian (69 posts), both closing 12 Nov 2026 — move them in v6 at the Thu watch. v6 (2026-11-12): SPSC Consolidated Ad 07/2026 added (36 posts / 68 vacancies, closing 14 Dec 2026) — read from the official PDF, every count/age visually verified. 9 new ETEA records (Khyber SCJ 14 posts, KP-RIISP Database Developer 2, Dir Lower DSJ 22, DHO Kohistan Lower 26, Karak SCJ 8, KGMC/MTI 48, Conservator Malakand 1, Chitral DSJ 8, Bannu SCJ 5) and 4 new NTS records (FESCO JE/SDO 5, GEPCO Balochistan quota 5, Hub & Spoke SZMC 15, DSJ Hyderabad 4) — all from the official ETEA/NTS advertisements. KPEF Merit-cum-Inaffordability Scholarship 2026–27 added (closing 31 Dec 2026, verified on the official KPEF page). Corrections: NTS Dadu courts closing 15 Nov -> 16 Nov 2026 (official NTS project page); ZamungKor corrigendum INF(P) 5421/26 confirms PST Teacher age 21-35 and closing 20 Nov 2026 (no change). FPSC: Ad 04/2026 still the latest (checked live 12 Nov 2026); no corrigendum/test schedule for it; an unconfirmed 'CORRIGENDUM to Public Notice: CSS-CE-2027' seen once in the FPSC homepage notices popup — re-check next watch. PPSC Ad 12/2026 STILL NOT added — ppsc.gop.pk unreachable from curl, text fetch (stale 1 Mar 2026 crawl only) AND live browser (ERR_CONNECTION_RESET, 5 attempts 10:37-10:42 PKT 12 Nov 2026); retry next watch. Honhaar Scholarship Phase IV NOT added — portal unreachable (ERR_CONNECTION_RESET, 3 tries 12 Nov 2026) and aggregator dates conflict (9 Nov vs 19 Nov); re-check next watch. NJP NHMP (94 posts) and Navy civilian (69 posts) close TODAY 12 Nov 2026 — NOT moved yet: closing date has not passed (applications open until midnight); move at the Mon 16 Nov watch. Open jobs 65 -> 79. Scholarships 14 -> 15 (4 open).",
+    "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf). Correction 2026-11-07: the three vacancy counts left null in v2 (F.4-189, F.4-193, F.4-212) were resolved by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2 - FPSC Ad 04/2026 total is now 278 posts. No other record changed; data_version stays 2 (v2 not yet consumed by any build). v3 (2026-11-08): scholarships[] populated for the first time — 13 records (3 open, 10 closed/annual cycles), every record verified by Muse against its official source page only (HEC, SEF, SEEF, BEEF, USEFP, Campus France, EACEA, Chevening, Türkiye Burslari, Australia Awards); no deadlines or amounts invented — where the official page states no closing date the field is null and cycle_note explains the annual rhythm. Jobs data unchanged from v2. v4 (2026-11-09): CSS 2027 written-exam notice confirmed from the official FPSC PDF (fee Rs 2,200, test from 27 Jan 2027, age 21-30 on 31 Dec 2026) — record now open; 9 new job records verified from official sources only: 3 ETEA (PHC Abbottabad Judicial Assistant, LG&RDD KP 11 posts, EPA KP 6 posts) and 6 NJP drives (NHMP 94, Navy civilian 69, Bait-ul-Mal 125, Ministry of Planning 77, Marine Fisheries 4, NASTP 14) — 383 NJP posts; scholarships: HEC US-Pakistan Knowledge Corridor PhD 2027 added (Fall intake closes 30 Mar 2027), SEF SSESP 2026-27 moved to closed (cycle ended 28 Feb 2026). PPSC Advertisement No. 12/2026 (PMS/CCE) NOT added — ppsc.gop.pk was unreachable from the browser and curl on 2026-11-09; retry at the next watch. National Grid Pakistan drive NOT added — not found on NJP. v5 (2026-11-11, DRAFT — publish only after midnight 11 Nov 2026 / Thu 12 Nov morning, once CCE + Railways Balochistan quota have actually closed): SPSC CCE-2026 (closing 11 Nov 2026, screening test Sat 28 Nov 2026) and Pakistan Railways Balochistan quota (closing 11 Nov 2026, 829 posts) moved from jobs[] to recently_closed[] with status closed — full records preserved, including CCE test_date/test_info so the Tracker still shows the 28 Nov screening. Open jobs 67 -> 65. PPSC Advertisement No. 12/2026 (PMS/CCE, 48 BS-17 posts, closing 30 Nov 2026) STILL NOT added — ppsc.gop.pk still only shows the stale 1 Mar 2026 crawl (checked 11 Nov 2026); 8 aggregators now agree on the ad text but seed policy needs the official PDF; retry at the Thu 12 Nov watch. NOT moved yet (still open until midnight of their closing dates): NJP NHMP (94 posts) and Navy civilian (69 posts), both closing 12 Nov 2026 — move them in v6 at the Thu watch. v6 (2026-11-12): SPSC Consolidated Ad 07/2026 added (36 posts / 68 vacancies, closing 14 Dec 2026) — read from the official PDF, every count/age visually verified. 9 new ETEA records (Khyber SCJ 14 posts, KP-RIISP Database Developer 2, Dir Lower DSJ 22, DHO Kohistan Lower 26, Karak SCJ 8, KGMC/MTI 48, Conservator Malakand 1, Chitral DSJ 8, Bannu SCJ 5) and 4 new NTS records (FESCO JE/SDO 5, GEPCO Balochistan quota 5, Hub & Spoke SZMC 15, DSJ Hyderabad 4) — all from the official ETEA/NTS advertisements. KPEF Merit-cum-Inaffordability Scholarship 2026–27 added (closing 31 Dec 2026, verified on the official KPEF page). Corrections: NTS Dadu courts closing 15 Nov -> 16 Nov 2026 (official NTS project page); ZamungKor corrigendum INF(P) 5421/26 confirms PST Teacher age 21-35 and closing 20 Nov 2026 (no change). FPSC: Ad 04/2026 still the latest (checked live 12 Nov 2026); no corrigendum/test schedule for it; an unconfirmed 'CORRIGENDUM to Public Notice: CSS-CE-2027' seen once in the FPSC homepage notices popup — re-check next watch. PPSC Ad 12/2026 STILL NOT added — ppsc.gop.pk unreachable from curl, text fetch (stale 1 Mar 2026 crawl only) AND live browser (ERR_CONNECTION_RESET, 5 attempts 10:37-10:42 PKT 12 Nov 2026); retry next watch. Honhaar Scholarship Phase IV NOT added — portal unreachable (ERR_CONNECTION_RESET, 3 tries 12 Nov 2026) and aggregator dates conflict (9 Nov vs 19 Nov); re-check next watch. NJP NHMP (94 posts) and Navy civilian (69 posts) close TODAY 12 Nov 2026 — NOT moved yet: closing date has not passed (applications open until midnight); move at the Mon 16 Nov watch. Open jobs 65 -> 79. Scholarships 14 -> 15 (4 open). v7 (2026-11-13): NJP NHMP (94 posts, Balochistan quota) and Pakistan Navy civilian (69 posts, Balochistan quota), both closing 12 Nov 2026, moved from jobs[] to recently_closed[] with status closed — full records preserved. Open jobs 79 -> 77.",
     "optional_fields_note": "Every job record may also carry test_date, syllabus and result_info (null until announced). The app must display and alert on these when they appear in a data update, and ignore them gracefully while null."
   },
   "recently_closed": [
+    {
+      "adv_date": "2026-10-28",
+      "adv_no": null,
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": null,
+        "note": "Age differs per post — see posts_detail (mostly Max 35; Assistant Max 38; Lady Police Constable Max 30; Storeman: no age limit shown). No minimum age shown on NJP listings. General age relaxation 0 years, except Storeman (5 years)."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "01-15",
+      "closing_date": "2026-11-12",
+      "department": "Pakistan Navy — Balochistan quota (civilian posts)",
+      "domicile": {
+        "detail": "Balochistan domicile / local certificate only",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "primary",
+        "text": "See posts_detail — Primary (Naib Qasid, Mali) to Master's (Language Interpreter)."
+      },
+      "experience": "Post-specific (see posts_detail)",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Male & female (post-specific — see posts_detail)",
+      "id": "njp-navy-civilian-2026",
+      "last_updated": "2026-11-13",
+      "organization": "Pakistan Navy (Civilian Establishment)",
+      "posts_detail": [
+        {
+          "age": "Max 38",
+          "bps": "15",
+          "education": "Graduation",
+          "posts": 1,
+          "title": "Assistant"
+        },
+        {
+          "age": "Max 35",
+          "bps": "14",
+          "education": "Master's degree in language with previous experience of interpreter",
+          "posts": 1,
+          "title": "Language Interpreter (Arabic)"
+        },
+        {
+          "age": "Max 35",
+          "bps": "14",
+          "education": "Bachelor's Degree in Physics / Mathematics / Statistics / Economics",
+          "posts": 5,
+          "title": "Data Entry Operator"
+        },
+        {
+          "age": "Max 35",
+          "bps": "14",
+          "education": "Matric with trade ability; experience of the trade",
+          "posts": 1,
+          "title": "Sports Coach"
+        },
+        {
+          "age": "Max 35",
+          "bps": "14",
+          "education": "Graduation / DAE",
+          "posts": 1,
+          "title": "Sub Engineer"
+        },
+        {
+          "age": "Max 35",
+          "bps": "13",
+          "education": "Intermediate",
+          "posts": 2,
+          "title": "UDC"
+        },
+        {
+          "age": "Max 35",
+          "bps": "11",
+          "education": "Matric",
+          "posts": 2,
+          "title": "LDC"
+        },
+        {
+          "age": "Max 35",
+          "bps": "12",
+          "education": "B.Tech Pass in relevant technology; 4 years' experience in relevant field",
+          "posts": 3,
+          "title": "Leading Man (Electrical / Electronics / Mechanical / Construction / Mechatronics)"
+        },
+        {
+          "age": "Max 35",
+          "bps": "11",
+          "education": "Tech Pass in relevant technology with 2 years' experience OR DAE with 6 years' experience",
+          "posts": 2,
+          "title": "Assistant Leading Man (Electrical / Electronics / Mechanical / Construction / Mechatronics)"
+        },
+        {
+          "age": "Max 35",
+          "bps": "11",
+          "education": "3-year DAE in Electronics; 3 years' experience in repairing/maintaining of tele-printers",
+          "posts": 1,
+          "title": "Tele Printer Cum Cypher Machine Mechanic"
+        },
+        {
+          "age": "Max 35",
+          "bps": "10",
+          "education": "Female; Matric; nursing certificates; 3 years' experience in general nursing in Govt/Pvt hospital",
+          "gender": "Female",
+          "posts": 3,
+          "title": "Nursing Sister / Female Nurse"
+        },
+        {
+          "age": "Max 35",
+          "bps": "10",
+          "education": "Graduate",
+          "posts": 1,
+          "title": "Estate Inspector"
+        },
+        {
+          "age": "Max 35",
+          "bps": "09",
+          "education": "Intermediate; 2 years' experience in relevant field",
+          "posts": 1,
+          "title": "Telephone Operator"
+        },
+        {
+          "age": "Max 35",
+          "bps": "09",
+          "education": "Intermediate",
+          "posts": 1,
+          "title": "Engine Driver - I"
+        },
+        {
+          "age": "Max 35",
+          "bps": "07",
+          "education": "Matric with trade ability and experience of the trade",
+          "posts": 1,
+          "title": "Junior Instructor"
+        },
+        {
+          "age": "Max 35",
+          "bps": "07",
+          "education": "Intermediate",
+          "gender": "Male",
+          "posts": 1,
+          "title": "Receptionist Male"
+        },
+        {
+          "bps": "07",
+          "education": "Matric; preference to post-qualification experience (no age limit shown on NJP)",
+          "posts": 5,
+          "title": "Storeman"
+        },
+        {
+          "age": "Max 35",
+          "bps": "07",
+          "education": "Female; Matric preferred; qualifying certificate of midwifery; working experience in general nursing and service hospital",
+          "gender": "Female",
+          "posts": 1,
+          "title": "Midwife Female"
+        },
+        {
+          "age": "Max 35",
+          "bps": "05",
+          "education": "Female; Matric with Science",
+          "gender": "Female",
+          "posts": 6,
+          "title": "LDC Motivator Female"
+        },
+        {
+          "age": "Max 30",
+          "bps": "05",
+          "education": "Female; Matric; height 5.2; eyesight 6/6",
+          "gender": "Female",
+          "posts": 2,
+          "title": "Lady Police Constable"
+        },
+        {
+          "age": "Max 35",
+          "bps": "05",
+          "education": "Matric with practical experience",
+          "posts": 1,
+          "title": "Tracer"
+        },
+        {
+          "age": "Max 35",
+          "bps": "04",
+          "education": "Middle",
+          "posts": 1,
+          "title": "AC Operator"
+        },
+        {
+          "age": "Max 35",
+          "bps": "04",
+          "education": "Middle",
+          "posts": 1,
+          "title": "Lift / Fork Operator"
+        },
+        {
+          "age": "Max 35",
+          "bps": "04",
+          "education": "Male; LTV driving licence and trade test; preference Middle pass with HTV driving licence",
+          "gender": "Male",
+          "posts": 1,
+          "title": "MT Driver Civil"
+        },
+        {
+          "age": "Max 35",
+          "bps": "04",
+          "education": "LTV driving licence and trade test; preference Middle pass with HTV driving licence",
+          "posts": 1,
+          "title": "Dispatch Rider"
+        },
+        {
+          "age": "Max 35",
+          "bps": "04",
+          "education": "Matric Science with minimum 50% marks; 6-month certified course from a recognised institute; 2 years' experience in relevant field",
+          "posts": 4,
+          "title": "Skilled"
+        },
+        {
+          "age": "Max 35",
+          "bps": "03",
+          "education": "Middle",
+          "posts": 1,
+          "title": "Machine Helper"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Primary Pass",
+          "posts": 13,
+          "title": "Naib Qasid"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Male; Primary Pass",
+          "gender": "Male",
+          "posts": 2,
+          "title": "Sanitary Worker"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Primary Pass",
+          "posts": 1,
+          "title": "UNSK Workman"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Male; Primary Pass",
+          "gender": "Male",
+          "posts": 1,
+          "title": "Mali"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Primary Pass",
+          "posts": 1,
+          "title": "Ground Man"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://www.njp.gov.pk/jobs/10105",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Civilian posts BPS-01 to BPS-15 (Balochistan quota)",
+      "total_posts": 69,
+      "verify_flags": [
+        "Secondary coverage reported a 25 Nov 2026 closing date (PID(I)3985/26); NJP's own listings show 12 Nov 2026 on every post and no PID — the NJP date is used."
+      ]
+    },
+    {
+      "adv_date": "2026-10-28",
+      "adv_no": null,
+      "age": {
+        "max_effective": 30,
+        "max_printed": 25,
+        "min": 18,
+        "note": "Advertisement text states 18-25 years for every post; NJP's structured age field shows Max 30 / Min 18. Federal age relaxation rules apply."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "07-15",
+      "closing_date": "2026-11-12",
+      "department": "National Highways & Motorway Police — Balochistan quota",
+      "domicile": {
+        "detail": "Balochistan domicile / local certificate only",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Matric (Constable, LDC, Paramedical) to BA/BSc (Assistant)."
+      },
+      "experience": "Post-specific (see posts_detail)",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Male & female",
+      "id": "njp-nhmp-2026",
+      "last_updated": "2026-11-13",
+      "organization": "National Highways & Motorway Police (NHMP), Ministry of Communications",
+      "posts_detail": [
+        {
+          "bps": "07",
+          "education": "Matric (2nd Division); height 5'8\" male / 5'4\" female; chest 33x34.5 (male); LTV driving licence",
+          "posts": 80,
+          "title": "Constable / Junior Patrol Officer"
+        },
+        {
+          "bps": "15",
+          "education": "B.A / B.Sc.",
+          "posts": 1,
+          "title": "Assistant"
+        },
+        {
+          "bps": "14",
+          "education": "Intermediate; shorthand 80 wpm; typing 40 wpm; computer literate",
+          "posts": 3,
+          "title": "Stenotypist"
+        },
+        {
+          "bps": "13",
+          "education": "Intermediate + 3 years' experience in photography",
+          "posts": 5,
+          "title": "Photographer"
+        },
+        {
+          "bps": "11",
+          "education": "Matric + typing 30 wpm",
+          "posts": 3,
+          "title": "LDC (Lower Division Clerk)"
+        },
+        {
+          "bps": "07",
+          "education": "Matric with Science + 1-year Diploma in Nursing",
+          "posts": 2,
+          "title": "Paramedical Staff"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://www.njp.gov.pk/jobs/9927",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Constable / Junior Patrol Officer, Assistant, Stenotypist and others (Balochistan quota)",
+      "total_posts": 94
+    },
     {
       "adv_date": "2026-08-19",
       "adv_no": "Consolidated Ad 04/2026, modified by Ad 06/2026",
