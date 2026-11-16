@@ -1,5 +1,5 @@
 {
-  "fpsc_status_note": "FPSC Consolidated Advertisement No. 04/2026 (Phase-4/2026), dated 6 November 2026, is OPEN — 48 cases, closing Monday 23 November 2026. Cases F.4-176/2026-R to F.4-222/2026-R plus re-advertised F.4-152/2026-R (Professor, PIMS). Total posts counted from the advertisement: 278 across all 48 cases. The 3 vacancy counts the OCR could not read (F.4-189, F.4-193, F.4-212) were resolved 2026-11-07 by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2. Written test (MCQs) tentatively from 2 January 2027; schedule and syllabus to be issued on fpsc.gov.pk.",
+  "fpsc_status_note": "FPSC Consolidated Advertisement No. 04/2026 (Phase-4/2026), dated 6 November 2026, is OPEN — 48 cases, closing Monday 23 November 2026. Cases F.4-176/2026-R to F.4-222/2026-R plus re-advertised F.4-152/2026-R (Professor, PIMS). Total posts counted from the advertisement: 278 across all 48 cases. The 3 vacancy counts the OCR could not read (F.4-189, F.4-193, F.4-212) were resolved 2026-11-07 by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2. Written test (MCQs) tentatively from 2 January 2027. Syllabus for all 48 cases issued 11 Nov 2026 (official FPSC PDF, linked in each record's syllabus field); no separate written-test schedule issued yet. No Ad 05/2026 as of 16 Nov 2026.",
   "jobs": [
     {
       "adv_date": null,
@@ -381,7 +381,7 @@
       "fee_pkr": 2200,
       "gender": "Per CSS rules",
       "id": "fpsc-css-2027",
-      "last_updated": "2026-11-09",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1794127244067_CSS_2027_Advertisement.pdf",
@@ -391,7 +391,8 @@
       "title": "CSS 2027 — Written Examination",
       "total_posts": null,
       "verify_flags": [
-        "Verified 2026-11-09 against the official FPSC public notice No. F.2/1/2026-CE dated 8 Nov 2026 (PDF)."
+        "Verified 2026-11-09 against the official FPSC public notice No. F.2/1/2026-CE dated 8 Nov 2026 (PDF).",
+        "Corrigendum to Public Notice: CSS-CE-2027 dated 14 Nov 2026 EXISTS on FPSC's Latest News feed (seen 16 Nov 2026) but its PDF link/contents could not be captured — FPSC news tabs show nothing and /latestNews returns 404. Re-check next watch; do NOT change closing date (25 Nov 2026) or test date (27 Jan 2027) until the corrigendum text is read."
       ],
       "test_info": "Written examination tentatively from Wednesday 27 January 2027 in 19 cities, under the CSS Competitive Examination Rules, 2019. Admission Certificates will be uploaded on fpsc.gov.pk by 8 January 2027."
     },
@@ -422,12 +423,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-176-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Draftsman",
@@ -463,12 +464,12 @@
       "fee_pkr": 3000,
       "gender": null,
       "id": "fpsc-ad04-152-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Professor (PIMS)",
@@ -504,12 +505,12 @@
       "fee_pkr": 2500,
       "gender": null,
       "id": "fpsc-ad04-177-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Associate Professor (PIMS)",
@@ -542,12 +543,12 @@
       "fee_pkr": 3000,
       "gender": null,
       "id": "fpsc-ad04-178-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Chief Psychologist",
@@ -583,12 +584,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-179-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Demonstrator",
@@ -621,12 +622,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-180-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Librarian",
@@ -662,12 +663,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-181-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Director",
@@ -703,12 +704,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-182-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Scientific Officer",
@@ -741,12 +742,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-183-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Deputy Director",
@@ -779,12 +780,12 @@
       "fee_pkr": 2500,
       "gender": null,
       "id": "fpsc-ad04-184-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Deputy Chief",
@@ -817,12 +818,12 @@
       "fee_pkr": 2500,
       "gender": null,
       "id": "fpsc-ad04-185-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Deputy Chief (Energy Information Systems & Computer)",
@@ -855,12 +856,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-186-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Chief (Fuel)",
@@ -893,12 +894,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-187-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Chief (Power)",
@@ -931,12 +932,12 @@
       "fee_pkr": 1500,
       "gender": "Female",
       "id": "fpsc-ad04-188-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Chief (Health)",
@@ -972,12 +973,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-189-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer (Nutrition)",
@@ -1012,12 +1013,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-190-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer (Physical Planning & Housing)",
@@ -1050,12 +1051,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-191-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer (Fuel)",
@@ -1091,12 +1092,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-192-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer (Science & Technology)",
@@ -1132,12 +1133,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-193-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer (Environment)",
@@ -1172,12 +1173,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-194-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Budget Publication Officer",
@@ -1210,12 +1211,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-195-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Audit Officer",
@@ -1251,12 +1252,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-196-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Signal / Telecom. Engineer",
@@ -1292,12 +1293,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-197-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Controller of Stores / Purchase",
@@ -1333,12 +1334,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-198-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Executive Engineer",
@@ -1374,12 +1375,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-199-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Mechanical Engineer",
@@ -1415,12 +1416,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-200-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Junior Scientific Officer",
@@ -1456,12 +1457,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-201-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Junior Civilian Labour Officer",
@@ -1497,12 +1498,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-202-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Ordnance Management Officer (Grade-III)",
@@ -1538,12 +1539,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-203-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Civilian Medical Practitioner (Grade-III)",
@@ -1579,12 +1580,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-204-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Horticulturist / Garden Officer",
@@ -1620,12 +1621,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-205-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Director (Web Development)",
@@ -1661,12 +1662,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-206-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer / Planning Officer / Survey Officer",
@@ -1702,12 +1703,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-207-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Junior Scientific Officer",
@@ -1743,12 +1744,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-208-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer",
@@ -1781,12 +1782,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-209-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Planning Officer",
@@ -1819,12 +1820,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-210-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Research Officer",
@@ -1860,12 +1861,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-211-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Architect",
@@ -1901,12 +1902,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-212-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Director",
@@ -1941,12 +1942,12 @@
       "fee_pkr": 1500,
       "gender": null,
       "id": "fpsc-ad04-213-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Psychologist",
@@ -1979,12 +1980,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-214-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Nurse",
@@ -2020,12 +2021,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-215-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Director Legal",
@@ -2061,12 +2062,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-216-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Statistical Officer",
@@ -2099,12 +2100,12 @@
       "fee_pkr": 600,
       "gender": "Female",
       "id": "fpsc-ad04-217-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Assistant Warden Girls Hostel (Female)",
@@ -2140,12 +2141,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-218-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Store Officer",
@@ -2181,12 +2182,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-219-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Junior Ordnance Management Officer",
@@ -2222,12 +2223,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-220-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Junior Civilian Security Officer",
@@ -2260,12 +2261,12 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-221-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Junior Establishment and Finance Officer",
@@ -2301,60 +2302,18 @@
       "fee_pkr": 600,
       "gender": null,
       "id": "fpsc-ad04-222-2026",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-16",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf",
       "status": "open",
-      "syllabus": null,
+      "syllabus": "https://www.fpsc.gov.pk/uploads/content/1794394110603_Combined_Ad_No_4_2026.pdf.pdf",
       "test_date": null,
       "test_info": "Screening/written test comprising objective-type MCQs, tentatively from 2 January 2027. Test schedule and syllabus to be issued on fpsc.gov.pk after publication of this advertisement.",
       "title": "Superintendent",
       "total_posts": 1,
       "verify_flags": [
         "No post-qualification experience is stated for the Master's/4-year Bachelor's route — experience left null (5 years applies only to the plain Bachelor's route)."
-      ]
-    },
-    {
-      "adv_date": null,
-      "adv_no": "INF(P) 5234/26",
-      "age": {
-        "max_effective": 30,
-        "max_printed": 30,
-        "min": 25,
-        "note": "Age 25-30 years as on 01.01.2026. Relaxation per Government rules."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": "16",
-      "closing_date": "2026-11-15",
-      "department": "Peshawar High Court (Abbottabad Bench)",
-      "domicile": {
-        "detail": "Merit quota; no separate domicile stated in the advertisement",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "bachelor14",
-        "text": "LLB degree from a recognised university."
-      },
-      "experience": null,
-      "fee_note": "Amount not printed in the advertisement — prescribed test fee shown on the ETEA deposit slip; pay via OneLink after generating the slip. CNIC verification via NADRA E-Sahulat required before applying.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "etea-phc-abbottabad-2026",
-      "last_updated": "2026-11-09",
-      "organization": "Peshawar High Court, Abbottabad Bench",
-      "result_info": null,
-      "source_url": "https://etea.online/advertisement/876_peshawar_high_court_2026.jpg",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Judicial Assistant (BPS-16) — Abbottabad Bench",
-      "total_posts": 1,
-      "verify_flags": [
-        "The advertisement image prints the last date as '15/11/2020' — apparent typo; ETEA's current-projects list gives 15-November-2026, which is used here.",
-        "education level needs editor re-check: LLB may be 16 years of education; mapped to bachelor14 (lower) per the seed rule."
       ]
     },
     {
@@ -2675,7 +2634,7 @@
       "apply_url": "https://njp.gov.pk",
       "body": "NJP",
       "bps": "01-14",
-      "closing_date": "2026-11-16",
+      "closing_date": "2026-11-18",
       "department": "Ministry of Planning, Development & Special Initiatives — Balochistan quota",
       "domicile": {
         "detail": "Balochistan domicile / local certificate only",
@@ -2690,7 +2649,7 @@
       "fee_pkr": null,
       "gender": "Not stated in the ad",
       "id": "njp-planning-2026",
-      "last_updated": "2026-11-09",
+      "last_updated": "2026-11-16",
       "organization": "Ministry of Planning, Development & Special Initiatives",
       "posts_detail": [
         {
@@ -2757,71 +2716,10 @@
       "test_date": null,
       "test_info": null,
       "title": "Stenotypist, Clerk, Driver, Naib Qasid and others (Balochistan quota)",
-      "total_posts": 77
-    },
-    {
-      "adv_date": "2026-11-01",
-      "adv_no": "PID K.1476/26",
-      "age": {
-        "max_effective": 35,
-        "max_printed": 35,
-        "min": 18,
-        "note": "18-35 years for every post; Federal Age Relaxation Rules applied (per NJP listings)."
-      },
-      "apply_url": "https://njp.gov.pk",
-      "body": "NJP",
-      "bps": "09-15",
-      "closing_date": "2026-11-15",
-      "department": "Marine Fisheries Department — Balochistan quota",
-      "domicile": {
-        "detail": "Balochistan domicile / local certificate only",
-        "province": "Balochistan"
-      },
-      "education": {
-        "level": "matric",
-        "text": "See posts_detail — Matric (LDC) to Graduate (Assistant)."
-      },
-      "experience": null,
-      "fee_note": "No fee shown on the NJP listing.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "njp-marine-fisheries-2026",
-      "last_updated": "2026-11-09",
-      "organization": "Marine Fisheries Department, Ministry of Maritime Affairs",
-      "posts_detail": [
-        {
-          "bps": "15",
-          "education": "Graduate",
-          "posts": 1,
-          "title": "Assistant"
-        },
-        {
-          "bps": "15",
-          "education": "BSc with Zoology / Chemistry",
-          "posts": 1,
-          "title": "Senior Research Assistant"
-        },
-        {
-          "bps": "11",
-          "education": "Matric; typing 30 wpm; 3-week basic IT course (incl MS Office) by NITB mandatory after selection",
-          "posts": 1,
-          "title": "Lower Division Clerk"
-        },
-        {
-          "bps": "09",
-          "education": "FSc (Pre-Medical)",
-          "posts": 1,
-          "title": "Assistant Inspector"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://www.njp.gov.pk/jobs/10402",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Assistant, Senior Research Assistant, LDC, Assistant Inspector (Balochistan quota)",
-      "total_posts": 4
+      "total_posts": 77,
+      "verify_flags": [
+        "Closing date extended 16 Nov -> 18 Nov 2026 — verified 16 Nov 2026 on the official NJP portal (all 9 postings show 'Available Till Nov 18, 2026')."
+      ]
     },
     {
       "adv_date": "2026-11-05",
@@ -3598,125 +3496,6 @@
     },
     {
       "adv_date": null,
-      "adv_no": "INF(P) 5320/26",
-      "age": {
-        "max_effective": null,
-        "max_printed": null,
-        "min": null,
-        "note": "No age limit stated in the advertisement for any post."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": null,
-      "closing_date": "2026-11-15",
-      "department": "Medical Teaching Institution Hayatabad Medical Complex",
-      "domicile": {
-        "detail": "Candidates from all over Pakistan are eligible.",
-        "province": "All Pakistan"
-      },
-      "education": {
-        "level": "bachelor16",
-        "text": "See posts_detail — CA / ACCA / M.Com / MBA Finance / MSc Economics (Finance Officer); Master or Bachelor (16 years) in Total Quality Management / Business Administration / Hospital Administration / MPH + 1 year experience, or BS/MS in Social/Environmental Sciences + 4 years experience (Quality Assurance Officer); MSc HRM / MBA HRM (16 years) + 2 years HR experience (HR Officer); Diploma in relevant field from Medical Faculty + 3 years experience, or 2 years experience (Speech Therapist); Diploma in relevant field from Medical Faculty or BS / equivalence in relevant Technology (Junior Clinical Technician/Technologist)."
-      },
-      "experience": "Post-specific (see posts_detail).",
-      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via Easypaisa or 1Link. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "etea-kgmc-mti-2026",
-      "last_updated": "2026-11-12",
-      "organization": "Medical & Teaching Institution Hayatabad Medical Complex / Khyber Girls Medical College (KGMC), Peshawar",
-      "posts_detail": [
-        {
-          "bps": null,
-          "education": "CA / ACCA / M.Com / MBA Finance / MSc Economics or equivalent, HEC-recognised",
-          "experience": "5 years in Audit, Accounts & Finance in a semi-autonomous / autonomous or private sector organisation (MTI experience preferred); no experience required for CA",
-          "posts": 11,
-          "title": "Finance Officer"
-        },
-        {
-          "bps": null,
-          "education": "Master or Bachelor (16 years) in Total Quality Management / Business Administration / Hospital Administration / MPH + at least 1 year relevant experience, OR BS/MS in Social/Environmental Sciences + 4 years relevant experience",
-          "posts": 10,
-          "title": "Quality Assurance Officer"
-        },
-        {
-          "bps": null,
-          "education": "MSc HRM / MBA HRM (16 years) or equivalent degree in HRM/HRD, HEC-recognised",
-          "experience": "At least 2 years HR experience in a reputed hospital / health-care industry",
-          "posts": 10,
-          "title": "Human Resource Officer"
-        },
-        {
-          "bps": null,
-          "education": "Diploma in relevant field from Medical Faculty",
-          "experience": "At least 3 years relevant experience in a public / semi-autonomous / autonomous or private sector organisation (the ad's 'OR' alternative repeats the same sectors with 2 years)",
-          "posts": 9,
-          "title": "Speech Therapist"
-        },
-        {
-          "bps": null,
-          "education": "Diploma in relevant field from Medical Faculty OR BS or equivalence qualification in relevant Technology from an HEC-recognised university; relevant experience in a reputable public/private hospital/institution preferred",
-          "note": "One row covering Ophthalmology, Neurology and Pulmonology — split of the 8 posts across sub-fields not stated",
-          "posts": 8,
-          "title": "Junior Clinical Technician/Technologist"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://etea.online/advertisement/885_kgmc_2026.jpg",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Finance, Quality Assurance & HR Officers, Speech Therapist, Junior Clinical Technicians — MTI Hayatabad Medical Complex / KGMC",
-      "total_posts": 48,
-      "verify_flags": [
-        "All posts contractual, extendable 3 years. BPS and age limit not stated in the ad for any post."
-      ]
-    },
-    {
-      "adv_date": null,
-      "adv_no": "INF(P) 5276/26",
-      "age": {
-        "max_effective": 30,
-        "max_printed": 30,
-        "min": 18,
-        "note": "Age 18-30 years; age relaxation admissible as per existing Government rules."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": "14",
-      "closing_date": "2026-11-15",
-      "department": "Malakand Wildlife Circle, Swat",
-      "domicile": {
-        "detail": "District Swat only.",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "intermediate",
-        "text": "At least Intermediate or equivalent from a recognised Board; shorthand speed 50 wpm in English and typing 30 wpm; knowledge of computer in using MS Word and MS Excel."
-      },
-      "experience": null,
-      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "etea-conservator-malakand-2026",
-      "last_updated": "2026-11-12",
-      "organization": "Conservator Wildlife, Malakand Wildlife Circle, Swat",
-      "posts_detail": null,
-      "result_info": null,
-      "source_url": "https://etea.online/advertisement/884_conservator_malakand_wildlife_2026.jpg",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Junior Scale Stenographer — Conservator Wildlife, Malakand Wildlife Circle, Swat",
-      "total_posts": 1,
-      "verify_flags": [
-        "The ad's point 8 says the closing date 'will be announced by ETEA', while point 2 prints 15/11/2026 — 15 Nov used (also the ETEA live listing date)."
-      ]
-    },
-    {
-      "adv_date": null,
       "adv_no": "INF(P)5199/26",
       "age": {
         "max_effective": 30,
@@ -3935,106 +3714,6 @@
       ]
     },
     {
-      "adv_date": "2026-10-30",
-      "adv_no": "IPB-745",
-      "age": {
-        "max_effective": 25,
-        "max_printed": 25,
-        "min": 18,
-        "note": "Age differs per post — see posts_detail. Age relaxation in the upper age limit per the latest Punjab S&GAD notification / Recruitment Policy 2022."
-      },
-      "apply_url": "https://www.nts.org.pk",
-      "body": "NTS",
-      "bps": "15 / 09 / 05",
-      "closing_date": "2026-11-15",
-      "department": "Hub & Spoke Model at Zahir Pir, R.Y. Khan",
-      "domicile": {
-        "detail": "Punjab domicile (male & female).",
-        "province": "Punjab"
-      },
-      "education": {
-        "level": "matric",
-        "text": "See posts_detail — Intermediate + shorthand 80 wpm / typing 35 wpm (Stenographer); F.Sc (2nd Division) + 1-2 year allied-health diploma recognised by Punjab Medical Faculty, or Matric (2nd Division) + diploma if no F.Sc candidate available (Junior Technicians); Matric + 1 year experience (Plumber); Middle + LTV licence + 5 years experience (Driver)."
-      },
-      "experience": "Post-specific (see posts_detail).",
-      "fee_note": "Rs 450 + Rs 10 service charges, via the NTS payment system (1Link 1Bill).",
-      "fee_pkr": 450,
-      "gender": "Male & female",
-      "id": "nts-hubspoke-szmc-2026",
-      "last_updated": "2026-11-12",
-      "organization": "Sheikh Zayed Medical College/Hospital, Rahim Yar Khan (Specialized Healthcare & Medical Education Department, Government of Punjab)",
-      "posts_detail": [
-        {
-          "age": "20-25",
-          "bps": "15",
-          "education": "Intermediate from a recognised board + shorthand 80 WPM and typing 35 WPM",
-          "posts": 1,
-          "title": "Stenographer"
-        },
-        {
-          "age": "18-25",
-          "bps": "09",
-          "education": "F.Sc (2nd Division) from a recognised board + 1 or 2 year diploma in Anesthesia recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + 1 or 2 year diploma",
-          "posts": 4,
-          "title": "Junior Technician — Anesthesia"
-        },
-        {
-          "age": "18-25",
-          "bps": "09",
-          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in MCH recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
-          "posts": 1,
-          "title": "Junior Technician — MCH"
-        },
-        {
-          "age": "18-25",
-          "bps": "09",
-          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in Cardiac Technology recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
-          "posts": 3,
-          "title": "Junior Technician — Cardiac"
-        },
-        {
-          "age": "18-25",
-          "bps": "09",
-          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in Pathology recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
-          "note": "01 post reserved for Minority Quota",
-          "posts": 2,
-          "title": "Junior Technician — Pathology"
-        },
-        {
-          "age": "18-25",
-          "bps": "09",
-          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in Surgical Technology recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
-          "posts": 2,
-          "title": "Junior Technician — Surgical"
-        },
-        {
-          "age": "18-25",
-          "bps": "05",
-          "education": "Matric or equivalent from a recognised board + one year experience in the relevant field",
-          "posts": 1,
-          "title": "Plumber"
-        },
-        {
-          "age": "18-25",
-          "bps": "05",
-          "education": "Middle school certificate from a recognised school + LTV driving licence from the licensing authority + at least 5 years experience; higher technical qualification holder preferred",
-          "posts": 1,
-          "title": "Driver"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://portal.nts.org.pk/Alldetail/MTAxMzky",
-      "status": "open",
-      "syllabus": null,
-      "test_date": "2026-11-29",
-      "test_info": "Tentative test date 29 November 2026 (NTS portal). At least 50% marks in the NTS test required to pass.",
-      "title": "Stenographer, Junior Technicians, Plumber, Driver — Hub & Spoke Model, Zahir Pir (SZMC Rahim Yar Khan)",
-      "total_posts": 15,
-      "verify_flags": [
-        "Contract basis under the Contract Appointment Policy 2004, initially 3 years, extendable on good performance."
-      ]
-    },
-    {
       "adv_date": "2026-11-05",
       "adv_no": "No.Admn/D&SJ/-/2026 (INF-KRY 5060/26)",
       "age": {
@@ -4097,14 +3776,818 @@
       "verify_flags": [
         "Junior Clerk applies online via NTS; Naib Qasid and Lift Operator apply on the prescribed form by post/by hand — candidates who applied earlier to this office must apply afresh."
       ]
+    },
+    {
+      "adv_date": "2026-08-19",
+      "adv_no": "Consolidated Ad 04/2026, modified by Ad 06/2026 and Corrigendum Ad 08/2026",
+      "age": {
+        "max_effective": 33,
+        "max_printed": 30,
+        "min": 21,
+        "note": "Corrigendum Ad 08/2026 (13 Nov 2026): upper age limit relaxed to 33 years for ALL candidates; age now reckoned on 23 Oct 2026 (revised from 11 Nov 2026 per Ad 06/2026). Sindh's general 5-year relaxation does NOT apply to CCE. Earlier category limits: up to 31 for Scheduled Caste candidates; up to 35 for Sindh/Federal government employees with 4+ years continuous regular service."
+      },
+      "apply_url": "https://spsc.gov.pk",
+      "body": "SPSC",
+      "bps": "17 (principally)",
+      "closing_date": "2026-11-23",
+      "department": "Provincial civil services — Assistant Commissioner, Section Officer and allied cadres",
+      "domicile": {
+        "detail": "Sindh domicile required; Urban/Rural allocation applies at allocation stage per SPSC rules",
+        "province": "Sindh"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "Bachelor's degree, at least Second Division, from an HEC-recognised university. Foreign degrees need HEC equivalence before the closing date."
+      },
+      "experience": "None",
+      "fee_note": "Online via PSID through the 1Bill invoice option (any online channel). Non-refundable.",
+      "fee_pkr": 1000,
+      "gender": "Male, female, minority and differently-abled candidates",
+      "id": "spsc-cce-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Government of Sindh (various departments)",
+      "result_info": null,
+      "source_url": "https://spsc.gov.pk/advertisement/2026/adv-08-2026.pdf",
+      "status": "open",
+      "syllabus": null,
+      "test_date": "2026-11-28",
+      "test_info": "Screening test: Saturday 28 November 2026 (confirmed by Ad 08/2026). Pass mark 33% (66/200). Negative marking 0.25 per wrong answer. Attempts allowed: 5 (for three years). Candidates who applied under Ad 04/2026 do NOT need to re-apply and may upload deficient documents through the online portal on or before 23 Nov 2026; portal open until 1700 hrs on 23 Nov 2026.",
+      "title": "Combined Competitive Examination (CCE-2026)",
+      "total_posts": null,
+      "verify_flags": [
+        "RESOLVED 2026-11-04 against official PDF Ad 06/2026 (23 Oct 2026): upper age 33 reckoned on 11 November 2026, the extended closing date; the '11 January 2026' secondary report was incorrect.",
+        "REVISED 2026-11-16 per official SPSC Ad 08/2026 (13 Nov 2026, read from the official PDF): closing date extended 11 Nov -> 23 Nov 2026; age reckoning date revised 11 Nov 2026 -> 23 Oct 2026. Record moved back from recently_closed to open."
+      ]
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5476/26",
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": 18,
+        "note": "Age 18-35 years; relaxation per Government of KP rules."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "09",
+      "closing_date": "2026-11-30",
+      "department": "Office of the Deputy Commissioner, District Dir Upper",
+      "domicile": {
+        "detail": "District Dir Upper ONLY (permanent residents)",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "intermediate",
+        "text": "Intermediate or equivalent, PLUS Patwari exam passed and name registered in the Patwari candidates register of the District Collector office."
+      },
+      "experience": null,
+      "fee_note": "Not stated in the ad — ETEA deposit slip after online application (NADRA E-Sahulat CNIC verification required before applying).",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-dc-dir-upper-patwari-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Deputy Commissioner, District Dir Upper",
+      "posts_detail": [
+        {
+          "bps": "09",
+          "education": "Intermediate or equivalent; Patwari exam passed; name in the Patwari candidates register of the District Collector office",
+          "posts": 2,
+          "title": "Patwari (Admin Merit)"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/896_dc_dir_upper_2026.jpg",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Patwari (BPS-09) — District Dir Upper",
+      "total_posts": 2,
+      "verify_flags": [
+        "Online form available from 16 Nov 2026 per the ad; no advertisement date printed on the ad image."
+      ]
+    },
+    {
+      "adv_date": "2026-11-06",
+      "adv_no": "INF(P)5486/26",
+      "age": {
+        "max_effective": null,
+        "max_printed": null,
+        "min": null,
+        "note": "No age limit stated in the ad; relaxation of age admissible as per existing Govt. rules."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "G-12 to G-18",
+      "closing_date": "2026-12-10",
+      "department": "MTI Khyber College of Dentistry, Peshawar",
+      "domicile": {
+        "detail": "Not stated in the ad",
+        "province": null
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — SSC with Science + diploma (G-12 technicians) to MBBS + Level IIb/III + 2 research papers (Assistant Professor)."
+      },
+      "experience": "Post-specific (see posts_detail); all posts 3-year contract, performance-based extendable under MTI Act 2015.",
+      "fee_note": "Posts 1-2 (Assistant Professor): Rs 2,500 processing fee to 'Dean Khyber College of Dentistry, Peshawar', Bank of Khyber A/C PK84KHYB0121003005443554. Posts 3-21: prescribed ETEA test fee via OneLink deposit slip (amount not stated in the ad).",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-kcd-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Khyber College of Dentistry (MTI), Peshawar",
+      "posts_detail": [
+        {
+          "bps": "G-18",
+          "education": "MBBS or equivalent recognised/registered by PM&DC; Level IIb/III or equivalent in the specialty; 2 research papers (first or corresponding author)",
+          "experience": "2 years after postgraduate qualification from a PM&DC-recognised institution",
+          "title": "Assistant Professor, Basic Medical Sciences — Pharmacology"
+        },
+        {
+          "bps": "G-18",
+          "education": "MBBS or equivalent recognised/registered by PM&DC; Level IIb/III or equivalent in the specialty; 2 research papers (first or corresponding author)",
+          "experience": "2 years after postgraduate qualification from a PM&DC-recognised institution",
+          "title": "Assistant Professor, Basic Medical Sciences — General Pathology"
+        },
+        {
+          "bps": "G-18",
+          "education": "MPhil Epidemiology and Bio-Statistics from an HEC-recognised university",
+          "experience": "3 years practical experience in any recognised Medical/Dental institution",
+          "title": "Assistant Professor, Bio-statistics"
+        },
+        {
+          "bps": "G-17",
+          "education": "BS (Hons)/Master's degree or equivalent in the relevant technology from an HEC-recognised university/institution",
+          "experience": "At least 3 years post-qualification clinical experience in Radiology in a reputed public/private hospital/organization/Medical Institution",
+          "title": "Clinical Technologist — Radiology"
+        },
+        {
+          "bps": "G-17",
+          "education": "MSc Computer Science/MCS or equivalent; OR BSc Computer Science/BCS or equivalent",
+          "experience": "5 years practical experience in computer programming (MSc route) or 7 years (BSc route)",
+          "title": "Computer Programmer"
+        },
+        {
+          "bps": "G-17",
+          "education": "M.Sc/M.A with at least 2nd Division from an HEC-recognised university/institution",
+          "experience": "At least 3 years post-qualification relevant administrative experience in public/private sector/Hospitals/Universities/Colleges hostels",
+          "title": "Warden (Female)"
+        },
+        {
+          "bps": "G-16",
+          "education": "BS/MS in TQM or Master's degree (16 years) in Business Administration/Commerce/Management from an HEC-recognised university/institution; certification in hospital management or healthcare quality an added advantage",
+          "experience": "At least 3 years' relevant experience in Quality Assurance/Improvement Department in a reputed organization",
+          "title": "Quality Assurance Officer"
+        },
+        {
+          "bps": "G-16",
+          "education": "BCS/MCS/BE (Computer systems or software) or relevant equivalent from an HEC-recognised university/institution; IT certifications (Oracle, Linux, Microsoft) an added advantage",
+          "experience": "At least 5 years relevant practical experience in the same position (IT equipment, firewall servers, network/system administration, security, storage, disaster recovery)",
+          "title": "Associate System Administrator"
+        },
+        {
+          "bps": "G-16",
+          "education": "Bachelor (4 years) in Computer Science or Master Degree in Computer Science or relevant equivalent from an HEC-recognised university/institution",
+          "experience": "Minimum 3 years' experience in the relevant field",
+          "title": "Associate Web Developer"
+        },
+        {
+          "bps": "G-16",
+          "education": "Bachelor (4 years) in Computer Science or Master Degree in Computer Science or relevant equivalent; Oracle OCP certification an added advantage",
+          "experience": "Minimum 3 years' experience in Oracle Database management of cluster computer network of ERP or HMIS",
+          "title": "Associate Database Administrator"
+        },
+        {
+          "bps": "G-16",
+          "education": "Bachelor of Library and Information Science from an HEC-recognised university/institution",
+          "experience": "At least 3 years relevant experience in a reputed public/private institution/organization",
+          "title": "Cataloger"
+        },
+        {
+          "bps": "G-14",
+          "education": "BBA (Hons)/MBA (HR, equivalent to 16 years education) or equivalent relevant qualification from an HEC-recognised university/institution",
+          "experience": "At least 1 year relevant post-qualification experience in HR department in healthcare industry/reputed public or private organization (tertiary care/teaching hospitals preferred)",
+          "title": "HR Assistant"
+        },
+        {
+          "bps": "G-14",
+          "education": "Bachelor (4 years) Degree in Computer Science or equivalent relevant qualification from an HEC-recognised university/institute",
+          "experience": "At least 2 years' experience in the relevant field (HMIS experience in a reputed hospital preferred)",
+          "title": "HMIS Support Assistant"
+        },
+        {
+          "bps": "G-12",
+          "education": "At least 2nd Division SSC with Science + 2 years Diploma in the relevant Technology from KP Medical Faculty or any other recognised paramedical faculty",
+          "experience": "3 years' post-qualification experience in removable cast partial, denture, wax up and casting",
+          "title": "Prosthodontics Lab Technician (Clinical Technician)"
+        },
+        {
+          "bps": "G-12",
+          "education": "At least 2nd Division SSC with Science + 2 years Diploma in the relevant Technology from KP Medical Faculty or any other recognised paramedical faculty",
+          "experience": "3 years' experience in crown and bridge ceramic work",
+          "title": "Ceramists (Clinical Technician)"
+        },
+        {
+          "bps": "G-12",
+          "education": "At least 2nd Division Intermediate Certificate with Science + Diploma in Surgical Technology from KP Medical Faculty or any other recognised paramedical faculty",
+          "experience": "At least 2 years' experience in central sterilization services department as Autoclave Operator",
+          "title": "Sterilization Assistant"
+        },
+        {
+          "bps": "G-12",
+          "education": "At least 2nd Division Intermediate Certificate with Science + Diploma in Surgical Technology from KP Medical Faculty or any other recognised paramedical faculty",
+          "experience": "At least 1 year's experience in central sterilization services department as Autoclave Operator",
+          "title": "Autoclave Operator"
+        },
+        {
+          "bps": "G-12",
+          "education": "FA/FSC with Diploma in Information Technology from Board of Technical Education",
+          "experience": "At least 2 years' experience as Network Technician",
+          "title": "Network Technician"
+        },
+        {
+          "bps": "G-12",
+          "education": "Bachelor Degree from an HEC-recognised university/institution; Diploma in Graphic Designing/Fine Arts an added advantage",
+          "experience": "At least 3 years' experience in the relevant field in a reputed public/private organization/institution",
+          "title": "Graphic Designer"
+        },
+        {
+          "bps": "G-12",
+          "education": "At least 2nd Division SSC with Science + Diploma in Pathology from KP Medical Faculty or any other recognised paramedical faculty",
+          "experience": "At least 1-year post-qualification practical experience in a reputed public/private hospital/laboratory",
+          "title": "Phlebotomist"
+        },
+        {
+          "bps": "G-12",
+          "education": "BBA (Hons)/B.Com/B.A degree from an HEC-recognised university/institute",
+          "experience": "At least 2 years' experience as cashier in a reputed hospital operation; must handle cash and have strong computing skills",
+          "title": "Cashier"
+        },
+        {
+          "bps": "G-12",
+          "education": "DAE (Electrical/Electronics/Bio Medical) from a recognised technical board",
+          "experience": "At least 2 years relevant experience; must be well conversant with repair of biomedical equipment",
+          "title": "Biomedical Technician"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/894_kcd_2026.jpg",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Faculty, medical, technical & support posts — MTI Khyber College of Dentistry (3-year contract)",
+      "total_posts": null,
+      "verify_flags": [
+        "Corrigendum dated 10 Nov 2026 (Dean KCD) removes Clinical Technologist Pathology (G-17) from the advertisement — the record lists Radiology only for that post.",
+        "The ad states no vacancy counts and no age limit; total_posts is null and age fields are null by design, not by omission.",
+        "Posts 1-2 (Assistant Professor) apply directly to KCD (www.kcd.edu.pk / www.jobs.kcd.edu.pk, hard copy to Dean's office within 15 days of publication); posts 3-21 apply via ETEA. Online ETEA form available from 10 Nov 2026 per the ad."
+      ]
+    },
+    {
+      "adv_date": "2026-11-14",
+      "adv_no": "IPL No. 11929",
+      "age": {
+        "max_effective": 25,
+        "max_printed": 25,
+        "min": 18,
+        "note": "Advertisement states 18-25 years for every post; the NTS portal states 18-30 years. Age relaxation as per latest Punjab S&GAD notification & Recruitment Policy 2022; age and experience calculated on the last date of submission. Record uses the advertisement's 18-25."
+      },
+      "apply_url": "https://portal.nts.org.pk/Alldetail/MTAxNDA2",
+      "body": "NTS",
+      "bps": "15 / 09",
+      "closing_date": "2026-12-04",
+      "department": "Sahiwal Institute of Cardiology, Sahiwal",
+      "domicile": {
+        "detail": "Punjab domicile only (male & female); quotas per Recruitment Policy 2022",
+        "province": "Punjab"
+      },
+      "education": {
+        "level": "intermediate",
+        "text": "See posts_detail — HSC (2nd Division) + shorthand 80 wpm / typing 35 wpm (Stenographer); F.Sc. (2nd Division) + 1-2 year Allied Health diploma recognised by Punjab Medical Faculty (Junior Technicians); Matric with Science (2nd Division) + diploma accepted for Technician posts if no F.Sc. candidate is available."
+      },
+      "experience": "None stated — experience certificate (if any) to be sent with the application.",
+      "fee_note": "Rs 450 + Rs 10 service charges per post (NTS portal; the advertisement states no fee amount, only 'deposit slip of prescribed fee').",
+      "fee_pkr": 460,
+      "gender": "Male & female",
+      "id": "nts-sahiwal-cardiology-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Sahiwal Institute of Cardiology, Sahiwal (Office of the Medical Superintendent)",
+      "posts_detail": [
+        {
+          "bps": "15",
+          "education": "HSC (at least 2nd Division); shorthand 80 wpm English + typing 35 wpm on computer; computer literate in MS Office (preference: Urdu shorthand 60 wpm + Urdu typing 25 wpm)",
+          "posts": 4,
+          "title": "Stenographer"
+        },
+        {
+          "bps": "09",
+          "education": "F.Sc. (2nd Division) + 1-2 year Diploma in the relevant Allied Health discipline duly recognised by Punjab Medical Faculty",
+          "posts": 4,
+          "title": "Junior Technician (Anesthesia)"
+        },
+        {
+          "bps": "09",
+          "education": "F.Sc. (2nd Division) + 1-2 year Diploma in the relevant Allied Health discipline duly recognised by Punjab Medical Faculty; if none available, Matric with Science (2nd Division) + 1-2 year diploma in the relevant discipline",
+          "posts": 20,
+          "title": "Junior Technician (Cardiac)"
+        },
+        {
+          "bps": "09",
+          "education": "F.Sc. (2nd Division) + 1-2 year Diploma in the relevant Allied Health discipline duly recognised by Punjab Medical Faculty; if none available, Matric with Science (2nd Division) + 1-2 year diploma in the relevant discipline",
+          "posts": 1,
+          "title": "Junior Technician (Pathology)"
+        },
+        {
+          "bps": "09",
+          "education": "F.Sc. (2nd Division) + 1-2 year Diploma in the relevant Allied Health discipline duly recognised by Punjab Medical Faculty; if none available, Matric with Science (2nd Division) + 1-2 year diploma in the relevant discipline",
+          "posts": 2,
+          "title": "Junior Technician (Surgical)"
+        },
+        {
+          "bps": "09",
+          "education": "F.Sc. (2nd Division) + 1-2 year Diploma in the relevant Allied Health discipline duly recognised by Punjab Medical Faculty; if none available, Matric with Science (2nd Division) + 1-2 year diploma in the relevant discipline",
+          "posts": 2,
+          "title": "Junior Technician (Physiotherapy)"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://portal.nts.org.pk/Alldetail/MTAxNDA2",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "At least 50% marks in NTS to pass the test (the department/institution may reduce the criteria if the required pool is not obtained, per Recruitment Policy 2022). Contract appointments under Contract Appointment Policy 2004 (amended), initially 3 years, extendable on good performance.",
+      "title": "Stenographer & Junior Technicians — Sahiwal Institute of Cardiology (3-year contract)",
+      "total_posts": 33,
+      "verify_flags": [
+        "AGE DISCREPANCY: advertisement says 18-25 for every post; NTS portal says 18-30. Record uses the advertisement (18-25).",
+        "COUNT DISCREPANCY: Junior Technician (Cardiac) is 20 posts per the advertisement but 4 per the NTS portal; advertisement total 33 used (portal total would be 17).",
+        "Advertisement date: no date printed on the ad itself; 2026-11-14 is the NTS portal announce date."
+      ]
+    },
+    {
+      "adv_date": null,
+      "adv_no": "Situations Vacant Batch-E-2026",
+      "age": {
+        "max_effective": 40,
+        "max_printed": 40,
+        "min": null,
+        "note": "Age limit per post (see posts_detail): 40 years (specialists), 35+5 (Medical Officer), 28+5 (Optometrist), 25+5 (all other posts). The +5 is the 5-year Government of Pakistan relaxation already included in the limit. Further relaxations per How to Apply point 7: scheduled castes/Buddhist/tribal areas/AJK/Northern Areas 3 years; Sindh (R)/Balochistan 3 years (BPS-15 & below); government servants 10 years; deceased/retired armed forces personnel 15 years; disabled persons 10 years (BPS-15 & below); widows/children of deceased civil servants 5 years."
+      },
+      "apply_url": "https://nts.org.pk/Test&Products/Announced/11_26/PAC_Nov2026_Online/PAC.php",
+      "body": "NTS",
+      "bps": "19 / 18 / 16 / 14 / 12 / 11 / 10 / 06",
+      "closing_date": "2026-11-30",
+      "department": "Pakistan Aeronautical Complex, Kamra (APF S&A, APF JF-17, PAC Hospital)",
+      "domicile": {
+        "detail": "Pakistani citizens (no separate provincial domicile requirement); quota per post — see posts_detail; 2% disabled quota per Govt. rules",
+        "province": "All Pakistan"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — MBBS + PMDC Level-III (FCPS/MD/MS) + 3 years clinical experience (specialists) to Matric + 1 year experience/certificate (BPS-06 trades)."
+      },
+      "experience": "Post-specific (see posts_detail); post-qualification experience in a regular full-time paid job.",
+      "fee_note": "Not stated in the advertisement or How to Apply sheet — fee appears only on the fee challan/online form. Deposit via 1Link 1Bill (banks/ATMs/internet & mobile banking/Easypaisa/TCS Express Counters).",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "nts-pac-kamra-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Pakistan Aeronautical Complex (PAC), Kamra",
+      "posts_detail": [
+        {
+          "age": "40",
+          "bps": "Eqvt 19",
+          "education": "MBBS or equivalent recognised by PMDC/PMC; PMDC Level-III qualification in the specialty (FCPS/MD/MS or equivalent)",
+          "experience": "3 years clinical experience in the relevant specialty",
+          "note": "Quota: Merit; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Urologist"
+        },
+        {
+          "age": "40",
+          "bps": "Eqvt 19",
+          "education": "MBBS or equivalent recognised by PMDC/PMC; PMDC Level-III qualification in the specialty (FCPS/MD/MS or equivalent)",
+          "experience": "3 years clinical experience in the relevant specialty",
+          "note": "Quota: Merit; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Cardiologist"
+        },
+        {
+          "age": "40",
+          "bps": "Eqvt 19",
+          "education": "MBBS or equivalent recognised by PMDC/PMC; PMDC Level-III qualification in the specialty (FCPS/MD/MS or equivalent)",
+          "experience": "3 years clinical experience in the relevant specialty",
+          "note": "Quota: Merit; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Pulmonologist"
+        },
+        {
+          "age": "40",
+          "bps": "Eqvt 19",
+          "education": "MBBS or equivalent recognised by PMDC/PMC; PMDC Level-III qualification in the specialty (FCPS/MD/MS or equivalent)",
+          "experience": "3 years clinical experience in the relevant specialty",
+          "note": "Quota: Merit; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Orthopedic Surgeon"
+        },
+        {
+          "age": "35+5",
+          "bps": "18",
+          "education": "MBBS with 1 year house job",
+          "experience": "7 years in the relevant branch from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: 0 (as printed); Unit: APF (JF-17)",
+          "posts": 1,
+          "title": "Medical Officer"
+        },
+        {
+          "age": "28+5",
+          "bps": "16",
+          "education": "Bachelor's degree in Optometry/Ophthalmology/Vision Sciences from a recognised university or institute",
+          "experience": "5 years practical experience in the relevant field from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: Merit; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Optometrist"
+        },
+        {
+          "age": "25+5",
+          "bps": "14",
+          "education": "Matric; Diploma in Nursing from a recognised institute",
+          "experience": "3 years in the relevant trade from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: Merit; Unit: PAC Hospital",
+          "posts": 4,
+          "title": "Nursing Sister"
+        },
+        {
+          "age": "25+5",
+          "bps": "14",
+          "education": "FSc; 2 years Diploma of Medical Imaging Technology (MIT)/Radiographer from a recognised institute/hospital",
+          "experience": "3 years in the relevant field from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: Sindh (U); Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Radiographer"
+        },
+        {
+          "age": "25+5",
+          "bps": "12",
+          "education": "FSc; 2 years Diploma of Medical Imaging Technology (MIT)/Radiographer from a recognised institute/hospital",
+          "experience": "2 years in the relevant field from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: Merit 1, FATA 1; Unit: PAC Hospital",
+          "posts": 2,
+          "title": "Radiographer"
+        },
+        {
+          "age": "25+5",
+          "bps": "12",
+          "education": "Matric; 3 years diploma in Nursing",
+          "experience": "2 years in the relevant trade from Govt./Semi Govt organization or firm of repute; ex-serviceman of medical trade",
+          "note": "Quota: Sindh (R) 1, KPK 1; Unit: PAC Hospital",
+          "posts": 2,
+          "title": "Medical Assistant / Nursing Staff"
+        },
+        {
+          "age": "25+5",
+          "bps": "11",
+          "education": "Matric Science + 3 years DAE in Electronics Technology from a recognised technical training/polytechnic institute (1 year experience); OR B.Tech in Electronics Technology; OR ex-servicemen of the relevant field",
+          "experience": "1 year in the relevant field (DAE route)",
+          "note": "Quota: Merit; Unit: APF (S&A)",
+          "posts": 4,
+          "title": "Junior Charge Hand Avionics"
+        },
+        {
+          "age": "25+5",
+          "bps": "10",
+          "education": "FA/FSc; 1 year Diploma/certificate of Radiographer from a recognised institute",
+          "experience": "3 years in any hospital in the relevant field from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: Punjab; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Radiographer"
+        },
+        {
+          "age": "25+5",
+          "bps": "10",
+          "education": "FSc + 1 year TTC in Electronics (2 years post-qualification experience); OR Matric (Science) + DAE/higher qualification in Electronics Technology; OR Matric (Science) + 1 year TTC in Electronics with 2 years experience; OR experienced ex-servicemen of Radar/Avionics trade",
+          "experience": "2 years post-qualification (TTC route)",
+          "note": "Quota: Merit; Unit: APF (JF-17)",
+          "posts": 34,
+          "title": "HSM Radar Fitter"
+        },
+        {
+          "age": "25+5",
+          "bps": "10",
+          "education": "Matric Science + 3 years DAE in Avionics/Electronics; OR Matric Science + 1 year TTC in Avionics/Electronics (2 years experience); OR ex-servicemen of the relevant trade",
+          "experience": "2 years in Avionics/Electronics (TTC route)",
+          "note": "Quota: Merit; Unit: APF (S&A)",
+          "posts": 35,
+          "title": "HSW Avionics"
+        },
+        {
+          "age": "25+5",
+          "bps": "06",
+          "education": "Matric; certificate of plumber training",
+          "experience": "2 years in the relevant field from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: FATA; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Plumber"
+        },
+        {
+          "age": "25+5",
+          "bps": "06",
+          "education": "Matric; diploma/certificate of Radiographer from a recognised institute",
+          "experience": "1 year in any X-Ray Deptt/Hospital",
+          "note": "Quota: Sindh (R); Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Radiographer"
+        },
+        {
+          "age": "25+5",
+          "bps": "06",
+          "education": "Matric (1 year experience); OR Matric + TTC in the relevant field",
+          "experience": "1 year practical experience in the relevant field",
+          "note": "Quota: KPK; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Painter"
+        },
+        {
+          "age": "25+5",
+          "bps": "06",
+          "education": "Matric; HTV driving licence",
+          "experience": "3 years practical experience from Govt./Semi Govt organization or firm of repute; OR ex-serviceman of MTD trade",
+          "note": "Quota: Punjab; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "MTD"
+        },
+        {
+          "age": "25+5",
+          "bps": "06",
+          "education": "Matric",
+          "experience": "1 year practical experience in the relevant field from Govt./Semi Govt organization or firm of repute",
+          "note": "Quota: KPK; Unit: PAC Hospital",
+          "posts": 1,
+          "title": "Carpenter"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://nts.org.pk/Test&Products/Announced/11_26/PAC_Nov2026_Online/PAC.php",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Test & interview for all posts (per advertisement). Shortlisted applicants submit data on https://careers.pac.org.pk/ within 5 days of the NTS result announcement. Medical/doctor posts must be registered with PM&DC.",
+      "title": "Situations Vacant Batch-E-2026 — Specialists, Medical, Technical & Trades (contract)",
+      "total_posts": 94,
+      "verify_flags": [
+        "No advertisement date and no fee amount are printed in the official NTS documents — both fields left null; do not fill from other sources.",
+        "Announcement date not printed; the project is in NTS's November (11_26) folder and closes 30 Nov 2026. Unit-wise distribution: APF (S&A) 39, APF (JF-17) 35, PAC Hospital 20."
+      ]
+    },
+    {
+      "adv_date": "2026-11-13",
+      "adv_no": "PID(I)4146/26",
+      "age": {
+        "max_effective": 30,
+        "max_printed": 30,
+        "min": 18,
+        "note": "Base age limits per post: mostly 18-25 years; Assistant (Ministerial) 18-28; Driver 18-30. Five years' general age relaxation + five years' additional relaxation for Balochistan candidates apply. NJP listings show the post-wise maximum including the 5-year general relaxation (Statistical Assistant Max 30; Assistant (Ministerial) Max 33)."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "01-15",
+      "closing_date": "2026-11-27",
+      "department": "Pakistan Bureau of Statistics (PBS) — FBS and PCO Wings",
+      "domicile": {
+        "detail": "Balochistan domicile / local certificate only",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "primary",
+        "text": "See posts_detail — Primary (Chowkidar, Sanitary Worker) to Bachelor's (Statistical Assistant, Data Entry Operator)."
+      },
+      "experience": "Post-specific (see posts_detail); Telephone Operator, Driver and Dark Room Assistant require 2 years' experience.",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "njp-pbs-fbs-pco-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Pakistan Bureau of Statistics (PBS), Ministry of Planning, Development & Special Initiatives",
+      "posts_detail": [
+        {
+          "bps": "15",
+          "education": "Bachelor's degree in Statistics, Economics, Mathematics, Sociology, Business Administration, Geography, Commerce or any other Social or Physical Science involving the use of statistical methods",
+          "note": "Quota: Open Merit 26, Persons with Disabilities 3, Women 3, Minorities 2",
+          "posts": 34,
+          "title": "Statistical Assistant (FBS Wing)"
+        },
+        {
+          "bps": "15",
+          "education": "Bachelor's degree in Statistics, Economics, Mathematics or Sociology",
+          "note": "Quota: Open Merit 4, Persons with Disabilities 2, Women 1",
+          "posts": 7,
+          "title": "Statistical Assistant (PCO Wing)"
+        },
+        {
+          "bps": "15",
+          "education": "Graduate; six-week Basic IT Training Course (including MS Office) conducted by NITB mandatory after selection and before completion of probation",
+          "note": "Quota: Open Merit 2",
+          "posts": 2,
+          "title": "Assistant (Ministerial) (FBS Wing)"
+        },
+        {
+          "bps": "14",
+          "education": "Intermediate; shorthand 80 wpm / typing 40 wpm; computer literate",
+          "note": "Quota: Open Merit 2, Persons with Disabilities 1",
+          "posts": 3,
+          "title": "Stenotypist (FBS Wing)"
+        },
+        {
+          "bps": "14",
+          "education": "Bachelor's degree in Physics, Mathematics, Statistics or Economics; data-entry speed of 10,000 key depressions per hour",
+          "note": "Quota: Open Merit 5, Persons with Disabilities 3, Women 1",
+          "posts": 9,
+          "title": "Data Entry Operator (FBS Wing)"
+        },
+        {
+          "bps": "13",
+          "education": "Intermediate; 3-week Basic IT Training Course (including MS Office) conducted by NITB mandatory after selection and before completion of probation",
+          "note": "Quota: Open Merit 1",
+          "posts": 1,
+          "title": "Upper Division Clerk (PCO Wing)"
+        },
+        {
+          "bps": "11",
+          "education": "Matric; typing 30 wpm; 3-week Basic IT Training Course (including MS Office) conducted by NITB mandatory after selection and before completion of probation",
+          "note": "Quota: Open Merit 1",
+          "posts": 1,
+          "title": "Lower Division Clerk (FBS Wing)"
+        },
+        {
+          "bps": "09",
+          "education": "Intermediate with two years' experience",
+          "note": "Quota: Open Merit 1",
+          "posts": 1,
+          "title": "Telephone Operator (FBS Wing)"
+        },
+        {
+          "bps": "04",
+          "education": "Able to read simple Urdu; competent licensed driver with at least 2 years' experience of operational vehicles for field duty, well versed in traffic rules; working knowledge of vehicle mechanism and engines",
+          "note": "Quota: Open Merit 3",
+          "posts": 3,
+          "title": "Driver (FBS Wing)"
+        },
+        {
+          "bps": "03",
+          "education": "Able to read and write Urdu; two years' experience in processing and developing of photographs",
+          "note": "Quota: Open Merit 2",
+          "posts": 2,
+          "title": "Dark Room Assistant (FBS Wing)"
+        },
+        {
+          "bps": "01",
+          "education": "Primary; ex-serviceman preferred",
+          "note": "Quota: Open Merit 2",
+          "posts": 2,
+          "title": "Chowkidar (FBS Wing)"
+        },
+        {
+          "bps": "01",
+          "education": "Primary",
+          "note": "Quota: Open Merit 2; 1 post in FBS Wing, 1 in PCO Wing",
+          "posts": 2,
+          "title": "Sanitary Worker (FBS Wing / PCO Wing)"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://www.njp.gov.pk/jobs/10642",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Walk-in interview at district level through Employment Cells in Balochistan; no entry or written test. Only shortlisted candidates will be called.",
+      "title": "Statistical Assistant, Stenotypist, Data Entry Operator and others — PBS FBS & PCO Wings (Balochistan quota)",
+      "total_posts": 67,
+      "verify_flags": [
+        "NJP listing PTID is PID(I)4146/26; the newspaper advertisement (Nawaiwaqt, 13 Nov 2026) is cited by secondary sources as PID(1)4388/26 — NJP value used as adv_no.",
+        "NJP listings show Job Type: Regular, but the official advertisement states the posts are temporary (walk-in interview basis) — the advertisement's wording is used in test_info; re-check at next watch.",
+        "Advertisement states applications within 15 days of publication (13 Nov 2026); NJP listings show the deadline as 27 Nov 2026 — NJP value used."
+      ]
+    },
+    {
+      "adv_date": "2026-11-15",
+      "adv_no": null,
+      "age": {
+        "max_effective": 45,
+        "max_printed": 45,
+        "min": null,
+        "note": "Maximum 45 years (including 5 years' general age relaxation) per the NJP listing; no minimum age stated."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "PPS-05",
+      "closing_date": "2026-11-30",
+      "department": "National Telecommunication and Information Security Board (NTISB) — project 'Cyber Security for Digital Pakistan, Phase-I' (National CERT)",
+      "domicile": {
+        "detail": "Not stated in the NJP listing",
+        "province": null
+      },
+      "education": {
+        "level": "bachelor14",
+        "text": "Minimum 14 years of education in any discipline; certification will be preferable."
+      },
+      "experience": "Minimum 4 years of experience; presentation skills, computer skills, administrative skills, flexible attitude, honesty and punctuality required.",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "njp-ntisb-assistant-2026",
+      "last_updated": "2026-11-16",
+      "organization": "National Telecommunication and Information Security Board (NTISB)",
+      "posts_detail": [
+        {
+          "bps": "PPS-05",
+          "education": "Minimum 14 years of education in any discipline; certification preferable",
+          "experience": "Minimum 4 years",
+          "posts": 1,
+          "title": "Assistant"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10641",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Assistant (PPS-05) — NTISB, Cyber Security for Digital Pakistan (contract)",
+      "total_posts": 1,
+      "verify_flags": [
+        "PPS-05 grade and contract basis per the live NJP check of 16 Nov 2026 and the project advertisement (Daily Express, 15 Nov 2026); the NJP detail-page crawl shows only the ToR text — re-verify the grade on the live listing at the next watch.",
+        "Project: 'Cyber Security for Digital Pakistan, Phase-I' (National CERT), Ministry of Information Technology & Telecommunications; contract extendable till completion of the project after performance evaluation (per the advertisement)."
+      ]
+    },
+    {
+      "adv_date": "2026-11-15",
+      "adv_no": null,
+      "age": {
+        "max_effective": 62,
+        "max_printed": 62,
+        "min": null,
+        "note": "Maximum 62 years as on the closing date of submission of application (per NJP listings)."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "MP-I / MP-II",
+      "closing_date": "2026-11-29",
+      "department": "Prime Minister's Office (Public) — Secretariat of the Trade Facilitation Board (TFB), Islamabad",
+      "domicile": {
+        "detail": "Not stated in the NJP listings",
+        "province": null
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — PhD or Master's in International Trade, Economics, Public Policy, Law, Business Administration or another relevant subject (MP-I); PhD or LLM in Law (MP-II)."
+      },
+      "experience": "MP-I: PhD + 7 years or Master's + 9 years in trade policy/customs/trade facilitation; MP-II: PhD + 5 years or LLM + 7 years in legal/regulatory matters incl. 3 years on PPP. See posts_detail.",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "njp-pmo-mp-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Prime Minister's Office (Public), Islamabad",
+      "posts_detail": [
+        {
+          "age": "Max 62",
+          "bps": "MP-I",
+          "education": "PhD in International Trade, Economics, Public Policy, Law, Business Administration or another relevant subject with at least 7 years' professional experience; OR Master's degree in a relevant subject with at least 9 years' experience. Professional training in trade facilitation, customs, WTO agreements or supply chain management desirable",
+          "experience": "At least 7 years (PhD) or 9 years (Master's) in trade policy, customs, trade facilitation or related public/private-sector work; more than 5 years in senior management or team leadership desirable",
+          "posts": 1,
+          "title": "Team Leader / Deputy Coordinator / Executive Secretary"
+        },
+        {
+          "age": "Max 62",
+          "bps": "MP-II",
+          "education": "PhD in Law with at least 5 years' professional experience; OR Master's degree in Law (LLM) with at least 7 years' professional experience. Enrolment as an advocate desirable",
+          "experience": "5 years (PhD) or 7 years (LLM) in legal/regulatory matters relating to trade, customs, transport, logistics or allied fields; 3 years managing or advising on public-private partnerships or public-private dialogue desirable",
+          "posts": 1,
+          "title": "Senior Associate / Legal Adviser and Public Private Partnership (PPP) Manager"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10654",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Shortlisting criteria and ToRs under MP Scales Policy 2020 on www.pmo.gov.pk/career (per NJP listing).",
+      "title": "Team Leader & Senior Associate / Legal Adviser — PM Office (MP-I / MP-II, contract)",
+      "total_posts": 2,
+      "verify_flags": [
+        "Closing date 29 Nov 2026 per the live NJP check of 16 Nov 2026; the advertisement states applications within 15 days of publication (15 Nov 2026), which some sources compute as 30 Nov — NJP listing value used; re-check at next watch.",
+        "Contract: initially 3 years, extendable for another 2 years on yearly basis per MP Scales Policy 2020 (per NJP listing)."
+      ]
     }
   ],
   "meta": {
     "app": "Naukri Check",
-    "data_version": 7,
-    "generated": "2026-11-13",
+    "data_version": 8,
+    "generated": "2026-11-16",
     "hosting": "This file is bundled in the app as an asset AND hosted at a remote URL (GitHub Pages) so new ads can be added without an app rebuild. The app uses whichever copy has the higher data_version.",
-    "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf). Correction 2026-11-07: the three vacancy counts left null in v2 (F.4-189, F.4-193, F.4-212) were resolved by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2 - FPSC Ad 04/2026 total is now 278 posts. No other record changed; data_version stays 2 (v2 not yet consumed by any build). v3 (2026-11-08): scholarships[] populated for the first time — 13 records (3 open, 10 closed/annual cycles), every record verified by Muse against its official source page only (HEC, SEF, SEEF, BEEF, USEFP, Campus France, EACEA, Chevening, Türkiye Burslari, Australia Awards); no deadlines or amounts invented — where the official page states no closing date the field is null and cycle_note explains the annual rhythm. Jobs data unchanged from v2. v4 (2026-11-09): CSS 2027 written-exam notice confirmed from the official FPSC PDF (fee Rs 2,200, test from 27 Jan 2027, age 21-30 on 31 Dec 2026) — record now open; 9 new job records verified from official sources only: 3 ETEA (PHC Abbottabad Judicial Assistant, LG&RDD KP 11 posts, EPA KP 6 posts) and 6 NJP drives (NHMP 94, Navy civilian 69, Bait-ul-Mal 125, Ministry of Planning 77, Marine Fisheries 4, NASTP 14) — 383 NJP posts; scholarships: HEC US-Pakistan Knowledge Corridor PhD 2027 added (Fall intake closes 30 Mar 2027), SEF SSESP 2026-27 moved to closed (cycle ended 28 Feb 2026). PPSC Advertisement No. 12/2026 (PMS/CCE) NOT added — ppsc.gop.pk was unreachable from the browser and curl on 2026-11-09; retry at the next watch. National Grid Pakistan drive NOT added — not found on NJP. v5 (2026-11-11, DRAFT — publish only after midnight 11 Nov 2026 / Thu 12 Nov morning, once CCE + Railways Balochistan quota have actually closed): SPSC CCE-2026 (closing 11 Nov 2026, screening test Sat 28 Nov 2026) and Pakistan Railways Balochistan quota (closing 11 Nov 2026, 829 posts) moved from jobs[] to recently_closed[] with status closed — full records preserved, including CCE test_date/test_info so the Tracker still shows the 28 Nov screening. Open jobs 67 -> 65. PPSC Advertisement No. 12/2026 (PMS/CCE, 48 BS-17 posts, closing 30 Nov 2026) STILL NOT added — ppsc.gop.pk still only shows the stale 1 Mar 2026 crawl (checked 11 Nov 2026); 8 aggregators now agree on the ad text but seed policy needs the official PDF; retry at the Thu 12 Nov watch. NOT moved yet (still open until midnight of their closing dates): NJP NHMP (94 posts) and Navy civilian (69 posts), both closing 12 Nov 2026 — move them in v6 at the Thu watch. v6 (2026-11-12): SPSC Consolidated Ad 07/2026 added (36 posts / 68 vacancies, closing 14 Dec 2026) — read from the official PDF, every count/age visually verified. 9 new ETEA records (Khyber SCJ 14 posts, KP-RIISP Database Developer 2, Dir Lower DSJ 22, DHO Kohistan Lower 26, Karak SCJ 8, KGMC/MTI 48, Conservator Malakand 1, Chitral DSJ 8, Bannu SCJ 5) and 4 new NTS records (FESCO JE/SDO 5, GEPCO Balochistan quota 5, Hub & Spoke SZMC 15, DSJ Hyderabad 4) — all from the official ETEA/NTS advertisements. KPEF Merit-cum-Inaffordability Scholarship 2026–27 added (closing 31 Dec 2026, verified on the official KPEF page). Corrections: NTS Dadu courts closing 15 Nov -> 16 Nov 2026 (official NTS project page); ZamungKor corrigendum INF(P) 5421/26 confirms PST Teacher age 21-35 and closing 20 Nov 2026 (no change). FPSC: Ad 04/2026 still the latest (checked live 12 Nov 2026); no corrigendum/test schedule for it; an unconfirmed 'CORRIGENDUM to Public Notice: CSS-CE-2027' seen once in the FPSC homepage notices popup — re-check next watch. PPSC Ad 12/2026 STILL NOT added — ppsc.gop.pk unreachable from curl, text fetch (stale 1 Mar 2026 crawl only) AND live browser (ERR_CONNECTION_RESET, 5 attempts 10:37-10:42 PKT 12 Nov 2026); retry next watch. Honhaar Scholarship Phase IV NOT added — portal unreachable (ERR_CONNECTION_RESET, 3 tries 12 Nov 2026) and aggregator dates conflict (9 Nov vs 19 Nov); re-check next watch. NJP NHMP (94 posts) and Navy civilian (69 posts) close TODAY 12 Nov 2026 — NOT moved yet: closing date has not passed (applications open until midnight); move at the Mon 16 Nov watch. Open jobs 65 -> 79. Scholarships 14 -> 15 (4 open). v7 (2026-11-13): NJP NHMP (94 posts, Balochistan quota) and Pakistan Navy civilian (69 posts, Balochistan quota), both closing 12 Nov 2026, moved from jobs[] to recently_closed[] with status closed — full records preserved. Open jobs 79 -> 77.",
+    "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf). Correction 2026-11-07: the three vacancy counts left null in v2 (F.4-189, F.4-193, F.4-212) were resolved by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2 - FPSC Ad 04/2026 total is now 278 posts. No other record changed; data_version stays 2 (v2 not yet consumed by any build). v3 (2026-11-08): scholarships[] populated for the first time — 13 records (3 open, 10 closed/annual cycles), every record verified by Muse against its official source page only (HEC, SEF, SEEF, BEEF, USEFP, Campus France, EACEA, Chevening, Türkiye Burslari, Australia Awards); no deadlines or amounts invented — where the official page states no closing date the field is null and cycle_note explains the annual rhythm. Jobs data unchanged from v2. v4 (2026-11-09): CSS 2027 written-exam notice confirmed from the official FPSC PDF (fee Rs 2,200, test from 27 Jan 2027, age 21-30 on 31 Dec 2026) — record now open; 9 new job records verified from official sources only: 3 ETEA (PHC Abbottabad Judicial Assistant, LG&RDD KP 11 posts, EPA KP 6 posts) and 6 NJP drives (NHMP 94, Navy civilian 69, Bait-ul-Mal 125, Ministry of Planning 77, Marine Fisheries 4, NASTP 14) — 383 NJP posts; scholarships: HEC US-Pakistan Knowledge Corridor PhD 2027 added (Fall intake closes 30 Mar 2027), SEF SSESP 2026-27 moved to closed (cycle ended 28 Feb 2026). PPSC Advertisement No. 12/2026 (PMS/CCE) NOT added — ppsc.gop.pk was unreachable from the browser and curl on 2026-11-09; retry at the next watch. National Grid Pakistan drive NOT added — not found on NJP. v5 (2026-11-11, DRAFT — publish only after midnight 11 Nov 2026 / Thu 12 Nov morning, once CCE + Railways Balochistan quota have actually closed): SPSC CCE-2026 (closing 11 Nov 2026, screening test Sat 28 Nov 2026) and Pakistan Railways Balochistan quota (closing 11 Nov 2026, 829 posts) moved from jobs[] to recently_closed[] with status closed — full records preserved, including CCE test_date/test_info so the Tracker still shows the 28 Nov screening. Open jobs 67 -> 65. PPSC Advertisement No. 12/2026 (PMS/CCE, 48 BS-17 posts, closing 30 Nov 2026) STILL NOT added — ppsc.gop.pk still only shows the stale 1 Mar 2026 crawl (checked 11 Nov 2026); 8 aggregators now agree on the ad text but seed policy needs the official PDF; retry at the Thu 12 Nov watch. NOT moved yet (still open until midnight of their closing dates): NJP NHMP (94 posts) and Navy civilian (69 posts), both closing 12 Nov 2026 — move them in v6 at the Thu watch. v6 (2026-11-12): SPSC Consolidated Ad 07/2026 added (36 posts / 68 vacancies, closing 14 Dec 2026) — read from the official PDF, every count/age visually verified. 9 new ETEA records (Khyber SCJ 14 posts, KP-RIISP Database Developer 2, Dir Lower DSJ 22, DHO Kohistan Lower 26, Karak SCJ 8, KGMC/MTI 48, Conservator Malakand 1, Chitral DSJ 8, Bannu SCJ 5) and 4 new NTS records (FESCO JE/SDO 5, GEPCO Balochistan quota 5, Hub & Spoke SZMC 15, DSJ Hyderabad 4) — all from the official ETEA/NTS advertisements. KPEF Merit-cum-Inaffordability Scholarship 2026–27 added (closing 31 Dec 2026, verified on the official KPEF page). Corrections: NTS Dadu courts closing 15 Nov -> 16 Nov 2026 (official NTS project page); ZamungKor corrigendum INF(P) 5421/26 confirms PST Teacher age 21-35 and closing 20 Nov 2026 (no change). FPSC: Ad 04/2026 still the latest (checked live 12 Nov 2026); no corrigendum/test schedule for it; an unconfirmed 'CORRIGENDUM to Public Notice: CSS-CE-2027' seen once in the FPSC homepage notices popup — re-check next watch. PPSC Ad 12/2026 STILL NOT added — ppsc.gop.pk unreachable from curl, text fetch (stale 1 Mar 2026 crawl only) AND live browser (ERR_CONNECTION_RESET, 5 attempts 10:37-10:42 PKT 12 Nov 2026); retry next watch. Honhaar Scholarship Phase IV NOT added — portal unreachable (ERR_CONNECTION_RESET, 3 tries 12 Nov 2026) and aggregator dates conflict (9 Nov vs 19 Nov); re-check next watch. NJP NHMP (94 posts) and Navy civilian (69 posts) close TODAY 12 Nov 2026 — NOT moved yet: closing date has not passed (applications open until midnight); move at the Mon 16 Nov watch. Open jobs 65 -> 79. Scholarships 14 -> 15 (4 open). v7 (2026-11-13): NJP NHMP (94 posts, Balochistan quota) and Pakistan Navy civilian (69 posts, Balochistan quota), both closing 12 Nov 2026, moved from jobs[] to recently_closed[] with status closed — full records preserved. Open jobs 79 -> 77. v8 (2026-11-16): SPSC CCE-2026 REOPENED — Corrigendum Ad 08/2026 (13 Nov) extends closing to 23 Nov 2026 and revises the age reckoning date to 23 Oct 2026 (record moved back from recently_closed to open). 5 records closed 15 Nov moved to recently_closed (ETEA PHC Abbottabad, NJP Marine Fisheries, ETEA KGMC/MTI, ETEA Conservator Malakand, NTS Hub & Spoke SZMC — its 29 Nov test date removed, unconfirmed on NTS pages). NJP Planning (77 posts) closing extended to 18 Nov 2026. FPSC Ad 04/2026 syllabus issued 11 Nov 2026 (URL on all 48 records); no Ad 05/2026. CSS 2027: corrigendum dated 14 Nov 2026 exists on FPSC Latest News, contents unread — re-check next watch. New: ETEA DC Dir Upper Patwari (2, closes 30 Nov), ETEA Khyber College of Dentistry (22 post types, closes 10 Dec; Clinical Technologist Pathology removed by 10 Nov corrigendum), NTS Sahiwal Institute of Cardiology (33, closes 4 Dec), NTS PAC Kamra Batch-E-2026 (94, closes 30 Nov), NJP Planning FBS/PCO (67, closes 27 Nov), NJP NTISB Assistant (1, closes 30 Nov), NJP PM Office (2, closes 29 Nov). Scholarship: HEC Balochistan & erstwhile FATA Phase-III Batch-V added (closes 14 Dec 2026, verified on official HEC page). NOT added: PPSC Ad 12/2026 — ppsc.gop.pk unreachable again (7 attempts, ERR_CONNECTION_RESET); Honhaar Phase IV — official portal unreachable, reported 19 Nov deadline unverified. NOT moved yet (close today 16 Nov, open until midnight): NTS Dadu courts, NJP Bait-ul-Mal. Open jobs 77 -> 80; scholarships 15 -> 16 (5 open).",
     "optional_fields_note": "Every job record may also carry test_date, syllabus and result_info (null until announced). The app must display and alert on these when they appear in a data update, and ignore them gracefully while null."
   },
   "recently_closed": [
@@ -4459,47 +4942,6 @@
       "total_posts": 94
     },
     {
-      "adv_date": "2026-08-19",
-      "adv_no": "Consolidated Ad 04/2026, modified by Ad 06/2026",
-      "age": {
-        "max_effective": 33,
-        "max_printed": 30,
-        "min": 21,
-        "note": "Corrigendum (Ad 06/2026, Sindh Cabinet decision 20 Oct 2026): upper age limit relaxed to 33 years for ALL candidates. Sindh's general 5-year relaxation does NOT apply to CCE. Age reckoned on 11 Nov 2026 per Ad 06/2026 (verified 2026-11-04). Earlier category limits: up to 31 for Scheduled Caste candidates; up to 35 for Sindh/Federal government employees with 4+ years continuous regular service."
-      },
-      "apply_url": "https://spsc.gov.pk",
-      "body": "SPSC",
-      "bps": "17 (principally)",
-      "closing_date": "2026-11-11",
-      "department": "Provincial civil services — Assistant Commissioner, Section Officer and allied cadres",
-      "domicile": {
-        "detail": "Sindh domicile required; Urban/Rural allocation applies at allocation stage per SPSC rules",
-        "province": "Sindh"
-      },
-      "education": {
-        "level": "bachelor16",
-        "text": "Bachelor's degree, at least Second Division, from an HEC-recognised university. Foreign degrees need HEC equivalence before the closing date."
-      },
-      "experience": "None",
-      "fee_note": "Online via PSID through the 1Bill invoice option (any online channel). Non-refundable.",
-      "fee_pkr": 1000,
-      "gender": "Male, female, minority and differently-abled candidates",
-      "id": "spsc-cce-2026",
-      "last_updated": "2026-11-11",
-      "organization": "Government of Sindh (various departments)",
-      "result_info": null,
-      "source_url": "https://spsc.gov.pk/advertisement/2026/adv-06-2026.pdf",
-      "status": "closed",
-      "syllabus": null,
-      "test_date": "2026-11-28",
-      "test_info": "Screening test: Saturday 28 November 2026 (moved twice by official notices). Pass mark 33% (66/200). Negative marking 0.25 per wrong answer. Attempts allowed: 5 (for three years). Candidates who applied under Ad 04/2026 do NOT need to re-apply and may correct applications / upload documents until 11 Nov 2026.",
-      "title": "Combined Competitive Examination (CCE-2026)",
-      "total_posts": null,
-      "verify_flags": [
-        "RESOLVED 2026-11-04 against official PDF Ad 06/2026 (23 Oct 2026): upper age 33 reckoned on 11 November 2026, the extended closing date; the '11 January 2026' secondary report was incorrect."
-      ]
-    },
-    {
       "adv_date": "2026-10-27",
       "adv_no": null,
       "age": {
@@ -4759,6 +5201,332 @@
       "status": "closed",
       "title": "Junior Ophthalmic Technician (BPS-09)",
       "total_posts": 3
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5234/26",
+      "age": {
+        "max_effective": 30,
+        "max_printed": 30,
+        "min": 25,
+        "note": "Age 25-30 years as on 01.01.2026. Relaxation per Government rules."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "16",
+      "closing_date": "2026-11-15",
+      "department": "Peshawar High Court (Abbottabad Bench)",
+      "domicile": {
+        "detail": "Merit quota; no separate domicile stated in the advertisement",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "bachelor14",
+        "text": "LLB degree from a recognised university."
+      },
+      "experience": null,
+      "fee_note": "Amount not printed in the advertisement — prescribed test fee shown on the ETEA deposit slip; pay via OneLink after generating the slip. CNIC verification via NADRA E-Sahulat required before applying.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-phc-abbottabad-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Peshawar High Court, Abbottabad Bench",
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/876_peshawar_high_court_2026.jpg",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Judicial Assistant (BPS-16) — Abbottabad Bench",
+      "total_posts": 1,
+      "verify_flags": [
+        "The advertisement image prints the last date as '15/11/2020' — apparent typo; ETEA's current-projects list gives 15-November-2026, which is used here.",
+        "education level needs editor re-check: LLB may be 16 years of education; mapped to bachelor14 (lower) per the seed rule."
+      ]
+    },
+    {
+      "adv_date": "2026-11-01",
+      "adv_no": "PID K.1476/26",
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": 18,
+        "note": "18-35 years for every post; Federal Age Relaxation Rules applied (per NJP listings)."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "09-15",
+      "closing_date": "2026-11-15",
+      "department": "Marine Fisheries Department — Balochistan quota",
+      "domicile": {
+        "detail": "Balochistan domicile / local certificate only",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Matric (LDC) to Graduate (Assistant)."
+      },
+      "experience": null,
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "njp-marine-fisheries-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Marine Fisheries Department, Ministry of Maritime Affairs",
+      "posts_detail": [
+        {
+          "bps": "15",
+          "education": "Graduate",
+          "posts": 1,
+          "title": "Assistant"
+        },
+        {
+          "bps": "15",
+          "education": "BSc with Zoology / Chemistry",
+          "posts": 1,
+          "title": "Senior Research Assistant"
+        },
+        {
+          "bps": "11",
+          "education": "Matric; typing 30 wpm; 3-week basic IT course (incl MS Office) by NITB mandatory after selection",
+          "posts": 1,
+          "title": "Lower Division Clerk"
+        },
+        {
+          "bps": "09",
+          "education": "FSc (Pre-Medical)",
+          "posts": 1,
+          "title": "Assistant Inspector"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://www.njp.gov.pk/jobs/10402",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Assistant, Senior Research Assistant, LDC, Assistant Inspector (Balochistan quota)",
+      "total_posts": 4
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5320/26",
+      "age": {
+        "max_effective": null,
+        "max_printed": null,
+        "min": null,
+        "note": "No age limit stated in the advertisement for any post."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": null,
+      "closing_date": "2026-11-15",
+      "department": "Medical Teaching Institution Hayatabad Medical Complex",
+      "domicile": {
+        "detail": "Candidates from all over Pakistan are eligible.",
+        "province": "All Pakistan"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — CA / ACCA / M.Com / MBA Finance / MSc Economics (Finance Officer); Master or Bachelor (16 years) in Total Quality Management / Business Administration / Hospital Administration / MPH + 1 year experience, or BS/MS in Social/Environmental Sciences + 4 years experience (Quality Assurance Officer); MSc HRM / MBA HRM (16 years) + 2 years HR experience (HR Officer); Diploma in relevant field from Medical Faculty + 3 years experience, or 2 years experience (Speech Therapist); Diploma in relevant field from Medical Faculty or BS / equivalence in relevant Technology (Junior Clinical Technician/Technologist)."
+      },
+      "experience": "Post-specific (see posts_detail).",
+      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via Easypaisa or 1Link. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-kgmc-mti-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Medical & Teaching Institution Hayatabad Medical Complex / Khyber Girls Medical College (KGMC), Peshawar",
+      "posts_detail": [
+        {
+          "bps": null,
+          "education": "CA / ACCA / M.Com / MBA Finance / MSc Economics or equivalent, HEC-recognised",
+          "experience": "5 years in Audit, Accounts & Finance in a semi-autonomous / autonomous or private sector organisation (MTI experience preferred); no experience required for CA",
+          "posts": 11,
+          "title": "Finance Officer"
+        },
+        {
+          "bps": null,
+          "education": "Master or Bachelor (16 years) in Total Quality Management / Business Administration / Hospital Administration / MPH + at least 1 year relevant experience, OR BS/MS in Social/Environmental Sciences + 4 years relevant experience",
+          "posts": 10,
+          "title": "Quality Assurance Officer"
+        },
+        {
+          "bps": null,
+          "education": "MSc HRM / MBA HRM (16 years) or equivalent degree in HRM/HRD, HEC-recognised",
+          "experience": "At least 2 years HR experience in a reputed hospital / health-care industry",
+          "posts": 10,
+          "title": "Human Resource Officer"
+        },
+        {
+          "bps": null,
+          "education": "Diploma in relevant field from Medical Faculty",
+          "experience": "At least 3 years relevant experience in a public / semi-autonomous / autonomous or private sector organisation (the ad's 'OR' alternative repeats the same sectors with 2 years)",
+          "posts": 9,
+          "title": "Speech Therapist"
+        },
+        {
+          "bps": null,
+          "education": "Diploma in relevant field from Medical Faculty OR BS or equivalence qualification in relevant Technology from an HEC-recognised university; relevant experience in a reputable public/private hospital/institution preferred",
+          "note": "One row covering Ophthalmology, Neurology and Pulmonology — split of the 8 posts across sub-fields not stated",
+          "posts": 8,
+          "title": "Junior Clinical Technician/Technologist"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/885_kgmc_2026.jpg",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Finance, Quality Assurance & HR Officers, Speech Therapist, Junior Clinical Technicians — MTI Hayatabad Medical Complex / KGMC",
+      "total_posts": 48,
+      "verify_flags": [
+        "All posts contractual, extendable 3 years. BPS and age limit not stated in the ad for any post."
+      ]
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5276/26",
+      "age": {
+        "max_effective": 30,
+        "max_printed": 30,
+        "min": 18,
+        "note": "Age 18-30 years; age relaxation admissible as per existing Government rules."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "14",
+      "closing_date": "2026-11-15",
+      "department": "Malakand Wildlife Circle, Swat",
+      "domicile": {
+        "detail": "District Swat only.",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "intermediate",
+        "text": "At least Intermediate or equivalent from a recognised Board; shorthand speed 50 wpm in English and typing 30 wpm; knowledge of computer in using MS Word and MS Excel."
+      },
+      "experience": null,
+      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-conservator-malakand-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Conservator Wildlife, Malakand Wildlife Circle, Swat",
+      "posts_detail": null,
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/884_conservator_malakand_wildlife_2026.jpg",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Junior Scale Stenographer — Conservator Wildlife, Malakand Wildlife Circle, Swat",
+      "total_posts": 1,
+      "verify_flags": [
+        "The ad's point 8 says the closing date 'will be announced by ETEA', while point 2 prints 15/11/2026 — 15 Nov used (also the ETEA live listing date)."
+      ]
+    },
+    {
+      "adv_date": "2026-10-30",
+      "adv_no": "IPB-745",
+      "age": {
+        "max_effective": 25,
+        "max_printed": 25,
+        "min": 18,
+        "note": "Age differs per post — see posts_detail. Age relaxation in the upper age limit per the latest Punjab S&GAD notification / Recruitment Policy 2022."
+      },
+      "apply_url": "https://www.nts.org.pk",
+      "body": "NTS",
+      "bps": "15 / 09 / 05",
+      "closing_date": "2026-11-15",
+      "department": "Hub & Spoke Model at Zahir Pir, R.Y. Khan",
+      "domicile": {
+        "detail": "Punjab domicile (male & female).",
+        "province": "Punjab"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Intermediate + shorthand 80 wpm / typing 35 wpm (Stenographer); F.Sc (2nd Division) + 1-2 year allied-health diploma recognised by Punjab Medical Faculty, or Matric (2nd Division) + diploma if no F.Sc candidate available (Junior Technicians); Matric + 1 year experience (Plumber); Middle + LTV licence + 5 years experience (Driver)."
+      },
+      "experience": "Post-specific (see posts_detail).",
+      "fee_note": "Rs 450 + Rs 10 service charges, via the NTS payment system (1Link 1Bill).",
+      "fee_pkr": 450,
+      "gender": "Male & female",
+      "id": "nts-hubspoke-szmc-2026",
+      "last_updated": "2026-11-16",
+      "organization": "Sheikh Zayed Medical College/Hospital, Rahim Yar Khan (Specialized Healthcare & Medical Education Department, Government of Punjab)",
+      "posts_detail": [
+        {
+          "age": "20-25",
+          "bps": "15",
+          "education": "Intermediate from a recognised board + shorthand 80 WPM and typing 35 WPM",
+          "posts": 1,
+          "title": "Stenographer"
+        },
+        {
+          "age": "18-25",
+          "bps": "09",
+          "education": "F.Sc (2nd Division) from a recognised board + 1 or 2 year diploma in Anesthesia recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + 1 or 2 year diploma",
+          "posts": 4,
+          "title": "Junior Technician — Anesthesia"
+        },
+        {
+          "age": "18-25",
+          "bps": "09",
+          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in MCH recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
+          "posts": 1,
+          "title": "Junior Technician — MCH"
+        },
+        {
+          "age": "18-25",
+          "bps": "09",
+          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in Cardiac Technology recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
+          "posts": 3,
+          "title": "Junior Technician — Cardiac"
+        },
+        {
+          "age": "18-25",
+          "bps": "09",
+          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in Pathology recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
+          "note": "01 post reserved for Minority Quota",
+          "posts": 2,
+          "title": "Junior Technician — Pathology"
+        },
+        {
+          "age": "18-25",
+          "bps": "09",
+          "education": "F.Sc (2nd Division) + 1 or 2 year diploma in Surgical Technology recognised by Punjab Medical Faculty; if none available, Matric (2nd Division) + diploma",
+          "posts": 2,
+          "title": "Junior Technician — Surgical"
+        },
+        {
+          "age": "18-25",
+          "bps": "05",
+          "education": "Matric or equivalent from a recognised board + one year experience in the relevant field",
+          "posts": 1,
+          "title": "Plumber"
+        },
+        {
+          "age": "18-25",
+          "bps": "05",
+          "education": "Middle school certificate from a recognised school + LTV driving licence from the licensing authority + at least 5 years experience; higher technical qualification holder preferred",
+          "posts": 1,
+          "title": "Driver"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://portal.nts.org.pk/Alldetail/MTAxMzky",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Stenographer, Junior Technicians, Plumber, Driver — Hub & Spoke Model, Zahir Pir (SZMC Rahim Yar Khan)",
+      "total_posts": 15,
+      "verify_flags": [
+        "Contract basis under the Contract Appointment Policy 2004, initially 3 years, extendable on good performance.",
+        "Test date 29 Nov 2026 was listed in v6 as tentative from the NTS portal; re-checked 16 Nov 2026 — neither the NTS portal pages nor the advertisements state a test date (ads say the date will be communicated to shortlisted candidates). Removed from the record; re-add only from an official NTS notice."
+      ]
     }
   ],
   "recently_closed_note": "The records below closed within the last 30 days. They stay in the data because thousands of candidates have live applications in them (test dates, slips and results still to come) and the Tracker covers them. The app labels them CLOSED — never show them as open.",
@@ -5184,6 +5952,25 @@
       "source_url": "https://ef.kp.gov.pk/scholarship/merit_cum_inaffordability",
       "status": "open",
       "title": "KPEF Merit-cum-Inaffordability Scholarship Scheme 2026–27"
+    },
+    {
+      "apply_url": "https://scholarship.hec.gov.pk",
+      "category": "Local",
+      "closing_date": "2026-12-14",
+      "cycle_note": "Batch-V call for academic year 2026-27; apply online via hec.gov.pk/site/bf3 before Monday 14 Dec 2026. Verified 16 Nov 2026 from the official HEC page and advertisement image.",
+      "domicile_scope": "Balochistan & erstwhile FATA (own and father's domicile/local certificate, verified by district administration)",
+      "eligibility_note": "Age 22 years or under on the closing date (no relaxation); own and father's valid domicile/local certificate of Balochistan/erstwhile FATA duly verified by district administration; 12 years of education with at least 60% marks in FA/FSc/ICOM/ICS/DAE or equivalent; not already availing any HEC/Government or other scholarship; qualifications must have been acquired on or before the closing date — students awaiting result are NOT eligible. Shortlisting by HEC/ETC aptitude test (at least 50% to qualify) and academic credentials; 50:50 Balochistan:FATA distribution; students already enrolled in a Bachelor's programme may also apply.",
+      "funding_note": "Undergraduate scholarships for academic year 2026-27 in all areas of study/disciplines at HEC-recognised public/private universities and degree-awarding institutions across Pakistan, under the project 'Provision of Higher Education Opportunities for Students of Balochistan & Erstwhile FATA (Phase-III)', Batch-V; awarded on merit and district quota. Test fee Rs 2,000 (non-refundable, via 1Link 1Bill). (The advertisement states no award amounts.)",
+      "gender_scope": "All",
+      "id": "hec-bf3-batch-v-2026",
+      "levels": [
+        "Undergraduate"
+      ],
+      "min_percentage": 60,
+      "provider": "Higher Education Commission (HEC), Pakistan",
+      "source_url": "https://www.hec.gov.pk/english/scholarshipsgrants/BF-III/Pages/default.aspx",
+      "status": "open",
+      "title": "HEC Undergraduate Scholarships for Balochistan & Erstwhile FATA — Phase-III, Batch-V"
     }
   ]
 }
