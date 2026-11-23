@@ -1,5 +1,5 @@
 {
-  "fpsc_status_note": "FPSC Consolidated Advertisement No. 04/2026 (Phase-4/2026), dated 6 November 2026, is OPEN — 48 cases, closing Monday 23 November 2026. Cases F.4-176/2026-R to F.4-222/2026-R plus re-advertised F.4-152/2026-R (Professor, PIMS). Total posts counted from the advertisement: 278 across all 48 cases. The 3 vacancy counts the OCR could not read (F.4-189, F.4-193, F.4-212) were resolved 2026-11-07 by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2. Written test (MCQs) tentatively from 2 January 2027. Syllabus for all 48 cases issued 11 Nov 2026 (official FPSC PDF, linked in each record's syllabus field); no separate written-test schedule issued yet. No Ad 05/2026 as of 19 Nov 2026 (FPSC site search returns only Ad 04/2026). Note: the FPSC home list shows the ad as [05 Nov 2026] (website posting date); the advertisement itself is dated 6 Nov 2026.",
+  "fpsc_status_note": "FPSC Consolidated Advertisement No. 04/2026 (Phase-4/2026), dated 6 November 2026, closes TODAY, Monday 23 November 2026 (last day) — 48 cases, F.4-176/2026-R to F.4-222/2026-R plus re-advertised F.4-152/2026-R (Professor, PIMS); 278 posts. No Consolidated Advertisement No. 05/2026 as of 23 Nov 2026 (Jobs/GR page lists only Ad 04/2026). No written-test schedule for Ad 04/2026 issued yet (Schedule/Exams/GR: 'No active Schedule available'); the ad says the MCQ test will be held tentatively from 2 January 2027. Syllabus for all 48 cases issued 11 Nov 2026 (official FPSC PDF, linked in each record's syllabus field). CSS-CE-2027: the corrigendum dated 14 Nov 2026 was re-checked 23 Nov 2026 and still NOT found on fpsc.gov.pk — closing 25 Nov 2026 and written test from 27 Jan 2027 unchanged.",
   "jobs": [
     {
       "adv_date": null,
@@ -37,55 +37,6 @@
       "test_date": null,
       "title": "Field Production Trainee Programme 2026",
       "total_posts": null
-    },
-    {
-      "adv_date": null,
-      "adv_no": null,
-      "age": {
-        "max_effective": 40,
-        "max_printed": 40,
-        "min": 21,
-        "note": "General relaxation per Government of Sindh rules."
-      },
-      "apply_url": "https://apply.sts.net.pk",
-      "body": "STS_SIBA",
-      "bps": null,
-      "closing_date": "2026-11-20",
-      "department": "Sindh Multiple Indicator Cluster Survey",
-      "domicile": {
-        "detail": "All 30 districts of Sindh",
-        "province": "Sindh"
-      },
-      "education": {
-        "level": "intermediate",
-        "text": "Minimum Intermediate, PLUS at least 1 year post-qualification field-survey experience in maternal & child health (ANC/PNC, immunisation, household surveys) with certificates."
-      },
-      "experience": "1 year field-survey experience (see education)",
-      "fee_note": "Non-refundable; system-generated challan via any ABL branch, MyABL app, or 1Bill internet banking.",
-      "fee_pkr": 1500,
-      "gender": "Gender-specific posts — see posts_detail",
-      "id": "sts-siba-smics-2026",
-      "last_updated": "2026-11-03",
-      "organization": "Sindh Bureau of Statistics, Planning & Development Department, Govt of Sindh (UNICEF-supported)",
-      "posts_detail": [
-        {
-          "gender": "Female only",
-          "posts": 140,
-          "title": "Enumerator / Measurer"
-        },
-        {
-          "gender": "Male only",
-          "posts": 35,
-          "title": "Enumerator"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://apply.sts.net.pk",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "title": "Sindh MICS 2026-27 — Enumerators / Measurers (short-term contract)",
-      "total_posts": 175
     },
     {
       "adv_date": "2026-10-17",
@@ -175,126 +126,6 @@
       ]
     },
     {
-      "adv_date": null,
-      "adv_no": null,
-      "age": {
-        "max_effective": 35,
-        "max_printed": 35,
-        "min": 21,
-        "note": "Generally 21-35, varying by post; relaxation per Project Implementation Policy."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": null,
-      "closing_date": "2026-11-20",
-      "department": "ADP project: Establishment of New Campuses of Model Institute for State Children (incl. Girls campuses)",
-      "domicile": {
-        "detail": "KP & Merged Districts only",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "bachelor16",
-        "text": "Post-specific, from recognised institutions: Master's / Bachelor's (BS/BA/BSc) / B.Ed / Clinical Psychology diploma / IT-CS degrees / FA-FSc / Shahadatul Alamia / technical diplomas."
-      },
-      "experience": "Post-specific",
-      "fee_note": "Not stated in the sources read. ETEA profile + CNIC verification via NADRA E-Sahulat is required before applying.",
-      "fee_pkr": null,
-      "gender": "Male & female",
-      "id": "etea-zamungkor-2026",
-      "last_updated": "2026-11-12",
-      "organization": "Model Institute for State Children (ZamungKor), Government of Khyber Pakhtunkhwa",
-      "posts_detail": [
-        {
-          "title": "Assistant Director, Psychologist, Social Welfare Organizer, Admin & Accounts Assistant, Computer Operator, SET Teacher, Computer Instructor, Hostel Warden, Certified Teacher, PST Teacher, Fine Arts/Vocational Teacher, PTI/Sports Incharge, Theology Teacher, Junior Clerk, Qari/Imam Masjid, Medical Technician"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://etea.edu.pk",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "title": "Teaching & admin posts — new campuses (1-year contract, extendable)",
-      "total_posts": 30,
-      "verify_flags": [
-        "Corrigendum INF(P) 5421/26 (Daily Mashriq, 5 Nov 2026) confirms: PST Teacher (S.No. 10) age limit 21-35 years; closing date 20/11/2026 — both already match this record, no change."
-      ]
-    },
-    {
-      "adv_date": null,
-      "adv_no": "INF(P) 5226/26",
-      "age": {
-        "max_effective": 35,
-        "max_printed": 35,
-        "min": 18,
-        "note": "Age differs per post — see posts_detail. NOTE: earlier advertisements for these posts were CANCELLED — fresh applications are required."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": "16 / 12 / 11 / 06",
-      "closing_date": "2026-11-20",
-      "department": "Peshawar High Court",
-      "domicile": {
-        "detail": "Permanent residents of KP",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "bachelor16",
-        "text": "See posts_detail — Bachelor's/BS/Master's for BPS-16 posts; Intermediate for Junior Clerk."
-      },
-      "experience": "CCTV Operator: experience preferred",
-      "fee_note": "Not stated in the sources read — check etea.edu.pk.",
-      "fee_pkr": null,
-      "gender": "Not stated (women/minority/disabled quotas noted in one listing)",
-      "id": "etea-phc-2026",
-      "last_updated": "2026-11-03",
-      "organization": "Peshawar High Court, Peshawar",
-      "posts_detail": [
-        {
-          "age": "25-30",
-          "education": "Bachelor's degree",
-          "posts": 8,
-          "title": "Assistant (BPS-16)"
-        },
-        {
-          "age": "25-35",
-          "education": "4-year BS or equivalent in CS/IT",
-          "posts": 7,
-          "title": "Computer Operator (BPS-16)"
-        },
-        {
-          "age": "25-30",
-          "education": "Master's in Library Science",
-          "posts": 1,
-          "title": "Assistant Librarian (BPS-16)"
-        },
-        {
-          "age": "25-30",
-          "education": "Relevant technical qualification in Electrical/Electronics (experience preferred)",
-          "posts": 6,
-          "title": "CCTV Camera Operator (BPS-12)"
-        },
-        {
-          "age": "18-30",
-          "education": "Intermediate + computer skills + typing 30 wpm or more",
-          "posts": 7,
-          "title": "Junior Clerk (BPS-11)"
-        },
-        {
-          "age": "25-35",
-          "education": "Not stated in the sources read",
-          "posts": 12,
-          "title": "Driver (BPS-06)"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://etea.edu.pk",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "title": "Assistant / Computer Operator / Clerk / Driver and others",
-      "total_posts": 41
-    },
-    {
       "adv_date": "2026-11-08",
       "adv_no": "Public Notice No. F.2/1/2026-CE",
       "age": {
@@ -321,7 +152,7 @@
       "fee_pkr": 2200,
       "gender": "Per CSS rules",
       "id": "fpsc-css-2027",
-      "last_updated": "2026-11-19",
+      "last_updated": "2026-11-23",
       "organization": "Federal Public Service Commission",
       "result_info": null,
       "source_url": "https://www.fpsc.gov.pk/uploads/content/1794127244067_CSS_2027_Advertisement.pdf",
@@ -333,7 +164,8 @@
       "verify_flags": [
         "Verified 2026-11-09 against the official FPSC public notice No. F.2/1/2026-CE dated 8 Nov 2026 (PDF).",
         "Corrigendum to Public Notice: CSS-CE-2027 dated 14 Nov 2026 EXISTS on FPSC's Latest News feed (seen 16 Nov 2026) but its PDF link/contents could not be captured — FPSC news tabs show nothing and /latestNews returns 404. Re-check next watch; do NOT change closing date (25 Nov 2026) or test date (27 Jan 2027) until the corrigendum text is read.",
-        "Re-checked 19 Nov 2026: the 'CORRIGENDUM to Public Notice: CSS-CE-2027' dated 14 Nov 2026 could NOT be found on fpsc.gov.pk (home Latest Updates, Latest News ticker, public notices, site search for 'CORRIGENDUM CSS-CE-2027' and 'Corrigendum', /Jobs/101) — no change to closing date (25 Nov 2026) or test date (27 Jan 2027); the original Public Notice No. F.2/1/2026-CE remains as shown on /Jobs/101. Re-check next watch."
+        "Re-checked 19 Nov 2026: the 'CORRIGENDUM to Public Notice: CSS-CE-2027' dated 14 Nov 2026 could NOT be found on fpsc.gov.pk (home Latest Updates, Latest News ticker, public notices, site search for 'CORRIGENDUM CSS-CE-2027' and 'Corrigendum', /Jobs/101) — no change to closing date (25 Nov 2026) or test date (27 Jan 2027); the original Public Notice No. F.2/1/2026-CE remains as shown on /Jobs/101. Re-check next watch.",
+        "Re-checked 23 Nov 2026: the 'CORRIGENDUM to Public Notice: CSS-CE-2027' dated 14 Nov 2026 STILL could not be found on fpsc.gov.pk (Jobs/CSS section and site search for 'CORRIGENDUM' / 'CSS-CE-2027' return no CSS item) — closing date (25 Nov 2026) and test date (27 Jan 2027) unchanged."
       ],
       "test_info": "Written examination tentatively from Wednesday 27 January 2027 in 19 cities, under the CSS Competitive Examination Rules, 2019. Admission Certificates will be uploaded on fpsc.gov.pk by 8 January 2027."
     },
@@ -2258,261 +2090,6 @@
       ]
     },
     {
-      "adv_date": null,
-      "adv_no": "INF(P) 5378/26",
-      "age": {
-        "max_effective": 30,
-        "max_printed": 30,
-        "min": 18,
-        "note": "Age differs per post — see posts_detail. Relaxation per Government rules."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": "16 / 12",
-      "closing_date": "2026-11-20",
-      "department": "Directorate General Local Government & Rural Development Department",
-      "domicile": {
-        "detail": "Khyber Pakhtunkhwa domicile; ALL 11 posts are allocated to the Minority quota",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "matric",
-        "text": "See posts_detail — Bachelor's degree for Assistant and AutoCAD Operator; SSC (2nd Division) + 3-year Civil Engineering diploma for Sub Engineer."
-      },
-      "experience": null,
-      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "etea-lgrd-2026",
-      "last_updated": "2026-11-09",
-      "organization": "Directorate General Local Government & Rural Development Department, Government of Khyber Pakhtunkhwa",
-      "posts_detail": [
-        {
-          "age": "21-30",
-          "bps": "16",
-          "education": "At least Second Class Bachelor's Degree or equivalent from an HEC-recognised university",
-          "posts": 1,
-          "title": "Assistant"
-        },
-        {
-          "age": "21-28",
-          "bps": "12",
-          "education": "At least Second Division SSC or equivalent from a recognised Board, plus 3-year Diploma in Civil Engineering from a recognised institute",
-          "posts": 8,
-          "title": "Sub Engineer"
-        },
-        {
-          "age": "18-30",
-          "bps": "12",
-          "education": "At least Second Class Bachelor's Degree from a recognised university, plus 1-year Diploma in Civil AutoCAD from a recognised technical institute",
-          "posts": 2,
-          "title": "AutoCAD Operator"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://etea.online/advertisement/889_lgrd_2026.jpg",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": "Screening weightage (per the advertisement): Educational Criteria 70 marks, ETEA Test 20 marks, Interview 10 marks.",
-      "title": "Assistant / Sub Engineer / AutoCAD Operator (Minority quota)",
-      "total_posts": 11
-    },
-    {
-      "adv_date": null,
-      "adv_no": "INF(P) 5389/26",
-      "age": {
-        "max_effective": 35,
-        "max_printed": 35,
-        "min": 18,
-        "note": "Age differs per post — see posts_detail. Relaxation per Government rules."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": "17 / 16",
-      "closing_date": "2026-11-20",
-      "department": "ADP Project: Updating Environmental Profile and Development of Inventory of Industrial Pollution in KP",
-      "domicile": {
-        "detail": "Khyber Pakhtunkhwa domicile, including merged districts",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "bachelor14",
-        "text": "See posts_detail — Master's degree for BPS-17 posts; Master's or Bachelor's degree for BPS-16 posts."
-      },
-      "experience": "Post-specific (see posts_detail)",
-      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
-      "fee_pkr": null,
-      "gender": "Male & female",
-      "id": "etea-epa-2026",
-      "last_updated": "2026-11-09",
-      "organization": "Environmental Protection Agency (EPA), Government of Khyber Pakhtunkhwa",
-      "posts_detail": [
-        {
-          "age": "21-35",
-          "bps": "17",
-          "education": "Master's or equivalent in Chemistry from an HEC-recognised university",
-          "posts": 2,
-          "title": "Chemist"
-        },
-        {
-          "age": "21-35",
-          "bps": "17",
-          "education": "Master's or equivalent in Environmental Engineering from an HEC-recognised university",
-          "experience": "2 years in the relevant field",
-          "posts": 1,
-          "title": "Environmental Engineer"
-        },
-        {
-          "age": "21-35",
-          "bps": "16",
-          "education": "Master's or equivalent from an HEC-recognised university in Economics, Statistics, Business Administration, Development Studies or Project Management",
-          "posts": 1,
-          "title": "Planning Assistant"
-        },
-        {
-          "age": "18-30",
-          "bps": "16",
-          "education": "Bachelor's Degree from a recognised university",
-          "posts": 1,
-          "title": "Office Assistant"
-        },
-        {
-          "age": "21-35",
-          "bps": "16",
-          "education": "At least 2nd Class Bachelor's in Computer Science / IT (BCS/BIT, 4-year) OR Bachelor's degree with 1-year Diploma in IT (DIT) from a recognised Board of Technical Education",
-          "posts": 1,
-          "title": "Computer Operator"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://etea.online/advertisement/890_epa_2026.jpg",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Chemist / Environmental Engineer / Planning Assistant and others (contract, ADP project)",
-      "total_posts": 6,
-      "verify_flags": [
-        "Previous advertisement INF(P) 2282/26 is withdrawn by this advertisement; candidates who applied under it for Driver and Naib Qasid need not reapply — all other posts must apply fresh.",
-        "Posts are project-based on contract till completion of the project (Project Policy 2022) and stand abolished on project completion."
-      ]
-    },
-    {
-      "adv_date": "2026-11-05",
-      "adv_no": null,
-      "age": {
-        "max_effective": 45,
-        "max_printed": 45,
-        "min": null,
-        "note": "Maximum age 45 years for all posts; no minimum age shown on NJP listings. Posts are on PPS scales, not BPS."
-      },
-      "apply_url": "https://njp.gov.pk",
-      "body": "NJP",
-      "bps": "PPS-1 to PPS-9",
-      "closing_date": "2026-11-20",
-      "department": "High End Skill Development Centre in Aerospace Industry (PSDP project)",
-      "domicile": {
-        "detail": "AJK, ICT, Khyber Pakhtunkhwa, Punjab and Sindh (Urban) — Balochistan NOT included (per NJP listings)",
-        "province": "AJK / ICT / KP / Punjab / Sindh (Urban)"
-      },
-      "education": {
-        "level": "primary",
-        "text": "See posts_detail — basic literacy (Support Staff) to Bachelor's/Master's in Engineering, Finance, Law or Management."
-      },
-      "experience": "Post-specific (see posts_detail)",
-      "fee_note": "No fee shown on the NJP listing.",
-      "fee_pkr": null,
-      "gender": "Male & female (post-specific — see posts_detail)",
-      "id": "njp-nastp-2026",
-      "last_updated": "2026-11-09",
-      "organization": "National Aerospace Science & Technology Park (NASTP), Ministry of Defence",
-      "posts_detail": [
-        {
-          "age": "Max 45",
-          "bps": "PPS-9",
-          "education": "Bachelor's in Civil Engineering, Construction Management, Project Management or related discipline (Master's preferred)",
-          "experience": "Minimum 15 years",
-          "gender": "Male",
-          "posts": 1,
-          "title": "Project Manager"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-7",
-          "education": "Bachelor's in Civil, Electrical, Mechanical or related engineering discipline",
-          "experience": "Minimum 7 years in construction / industrial / building-services / multidisciplinary project execution",
-          "posts": 1,
-          "title": "Assistant Project Manager"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-7",
-          "education": "Bachelor's in Law, Engineering, Construction Management, Business Administration or related discipline",
-          "experience": "Minimum 8 years in procurement, tendering or contract administration",
-          "posts": 1,
-          "title": "Manager Contracts"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-7",
-          "education": "Professional degree in Finance, Accounting, Commerce, Business Administration or related discipline",
-          "experience": "Minimum 8 years in project finance, cost control, construction accounting or financial management",
-          "gender": "Male & female",
-          "posts": 1,
-          "title": "Manager Finance"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-7",
-          "education": "Bachelor's or diploma in Quantity Surveying, Civil Engineering or related discipline",
-          "experience": "Minimum 4 years in quantity take-off, cost estimation, measurement and construction valuation",
-          "gender": "Male & female",
-          "posts": 1,
-          "title": "Quantity Surveyor"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-5",
-          "education": "Intermediate or Bachelor's in Administration, Commerce, Business, Office Management or related discipline",
-          "experience": "Minimum 3 years",
-          "gender": "Male",
-          "posts": 3,
-          "title": "Assistant"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-5",
-          "education": "Intermediate or Bachelor's with relevant computer / IT / office automation training",
-          "experience": "Minimum 3 years in data entry, computer operations, reporting or digital record management",
-          "gender": "Male",
-          "posts": 3,
-          "title": "Computer Operator"
-        },
-        {
-          "age": "Max 45",
-          "bps": "PPS-1",
-          "education": "Basic literacy and physical fitness for field and office support duties",
-          "experience": "Relevant practical experience preferred",
-          "gender": "Male",
-          "posts": 3,
-          "title": "Support Staff (Lascar)"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://www.njp.gov.pk/jobs/10505",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Project Manager, Manager, Quantity Surveyor and others (NASTP, contract)",
-      "total_posts": 14,
-      "verify_flags": [
-        "Secondary coverage cited PID(I) 4151/26 and a Balochistan domicile; NJP's own listings show PTID: NA and domicile AJK/ICT/KP/Punjab/Sindh (Urban) with no Balochistan — NJP values are used.",
-        "NJP description headcounts conflict with listed vacancy counts on several posts (e.g. Assistant 'Five incumbents' vs 3 vacancies) — listed vacancy counts are used."
-      ]
-    },
-    {
       "adv_no": "Consolidated Ad 07/2026 (12 Nov 2026)",
       "body": "SPSC",
       "closing_date": "2026-12-14",
@@ -3172,67 +2749,6 @@
       "total_posts": 8
     },
     {
-      "adv_date": null,
-      "adv_no": "INF(P)5199/26",
-      "age": {
-        "max_effective": 30,
-        "max_printed": 30,
-        "min": 18,
-        "note": "Age 18-30 for all posts, as on 01/01/2026."
-      },
-      "apply_url": "https://etea.edu.pk",
-      "body": "ETEA",
-      "bps": "16 / 14 / 11",
-      "closing_date": "2026-11-20",
-      "department": "District Judiciary, Upper Chitral",
-      "domicile": {
-        "detail": "Permanent domicile holders of District Upper Chitral. All posts on open merit.",
-        "province": "Khyber Pakhtunkhwa"
-      },
-      "education": {
-        "level": "matric",
-        "text": "See posts_detail — Bachelor's degree (Assistant); Intermediate + shorthand 50 wpm + English typing 30 wpm, Urdu typing 30 wpm and MS Office proficiency preferred (Stenotypist/Stenographer); Matric + English typing at least 30 wpm (Junior Clerk)."
-      },
-      "experience": null,
-      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "etea-chitral-dsj-2026",
-      "last_updated": "2026-11-12",
-      "organization": "Office of the District & Sessions Judge, Upper Chitral",
-      "posts_detail": [
-        {
-          "age": "18-30",
-          "bps": "16",
-          "education": "Bachelor's degree from any recognised university",
-          "posts": 1,
-          "title": "Assistant"
-        },
-        {
-          "age": "18-30",
-          "bps": "14",
-          "education": "Intermediate or equivalent from a recognised board; shorthand 50 wpm; English typing 30 wpm; preference: Urdu typing 30 wpm and MS Office proficiency",
-          "posts": 5,
-          "title": "Stenotypist / Stenographer"
-        },
-        {
-          "age": "18-30",
-          "bps": "11",
-          "education": "Matric certificate or equivalent from a recognised board; English typing speed at least 30 wpm",
-          "posts": 2,
-          "title": "Junior Clerk"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://etea.online/advertisement/881_district_session_judge_chitral_2026.jpg",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Assistant, Stenotypist/Stenographer, Junior Clerk — District & Sessions Judge, Upper Chitral",
-      "total_posts": 8
-    },
-    {
       "adv_date": "2026-09-25",
       "adv_no": "INF(P)4814/26",
       "age": {
@@ -3302,21 +2818,22 @@
       "fee_pkr": 270,
       "gender": "Not stated in the ad",
       "id": "nts-fesco-je-sdo-2026",
-      "last_updated": "2026-11-12",
+      "last_updated": "2026-11-23",
       "organization": "Faisalabad Electric Supply Company Limited (FESCO)",
       "posts_detail": null,
       "result_info": null,
       "source_url": "https://portal.nts.org.pk/Alldetail/MTAxMzk5",
       "status": "open",
       "syllabus": null,
-      "test_date": "2026-12-12",
-      "test_info": "Tentative test date 12 December 2026 (NTS portal).",
+      "test_date": null,
+      "test_info": "Test date not announced yet — no test date is shown on the NTS project pages checked 23 Nov 2026.",
       "title": "Junior Engineer / SDO (Balochistan quota)",
       "total_posts": 5,
       "verify_flags": [
         "NTS portal gives last application date 23 Nov 2026; the ad text says applications must reach the NTS office up to 25.11.2026 — portal date used (online portal closes 23 Nov).",
         "BPS not stated in the ad or portal — left null.",
-        "Contract appointment on a lump-sum pay package of Rs 150,000/month; 6 months probation, then confirmed; never regularised or pensionable."
+        "Contract appointment on a lump-sum pay package of Rs 150,000/month; 6 months probation, then confirmed; never regularised or pensionable.",
+        "12 Dec 2026 test date carried in v6-v9 could NOT be confirmed on the NTS project pages (portal.nts.org.pk detail pages show no test date) — removed 23 Nov 2026; re-add only if the NTS portal announces it."
       ]
     },
     {
@@ -3346,7 +2863,7 @@
       "fee_pkr": 270,
       "gender": "Not stated in the ad",
       "id": "nts-gepco-balochistan-2026",
-      "last_updated": "2026-11-12",
+      "last_updated": "2026-11-23",
       "organization": "Gujranwala Electric Power Company Limited (GEPCO)",
       "posts_detail": [
         {
@@ -3382,12 +2899,13 @@
       "source_url": "https://portal.nts.org.pk/Alldetail/MTAxNDAx",
       "status": "open",
       "syllabus": null,
-      "test_date": "2026-12-12",
-      "test_info": "Tentative test date 12 December 2026 (NTS portal).",
+      "test_date": null,
+      "test_info": "Test date not announced yet — no test date is shown on the NTS project pages checked 23 Nov 2026.",
       "title": "Junior Engineer (Electrical) / SDO, Assistant Managers (Balochistan quota)",
       "total_posts": 5,
       "verify_flags": [
-        "Posts are on contract with a lump-sum pay package for 3 years (extendable on satisfactory performance); services will not be regularised."
+        "Posts are on contract with a lump-sum pay package for 3 years (extendable on satisfactory performance); services will not be regularised.",
+        "12 Dec 2026 test date carried in v6-v9 could NOT be confirmed on the NTS project pages (portal.nts.org.pk detail pages show no test date) — removed 23 Nov 2026; re-add only if the NTS portal announces it."
       ]
     },
     {
@@ -4174,7 +3692,7 @@
       "fee_pkr": null,
       "gender": "Not stated in the ad",
       "id": "njp-ntisb-assistant-2026",
-      "last_updated": "2026-11-16",
+      "last_updated": "2026-11-23",
       "organization": "National Telecommunication and Information Security Board (NTISB)",
       "posts_detail": [
         {
@@ -4194,7 +3712,7 @@
       "title": "Assistant (PPS-05) — NTISB, Cyber Security for Digital Pakistan (contract)",
       "total_posts": 1,
       "verify_flags": [
-        "PPS-05 grade and contract basis per the live NJP check of 16 Nov 2026 and the project advertisement (Daily Express, 15 Nov 2026); the NJP detail-page crawl shows only the ToR text — re-verify the grade on the live listing at the next watch.",
+        "PPS-05 grade and contract basis CONFIRMED 23 Nov 2026 on the live NJP list (Assistant, PPS-5, 1 vacancy, 'Available Till Nov 30, 2026').",
         "Project: 'Cyber Security for Digital Pakistan, Phase-I' (National CERT), Ministry of Information Technology & Telecommunications; contract extendable till completion of the project after performance evaluation (per the advertisement)."
       ]
     },
@@ -4561,75 +4079,6 @@
       ]
     },
     {
-      "adv_date": "2026-11-13",
-      "adv_no": null,
-      "age": {
-        "max_effective": null,
-        "max_printed": 28,
-        "min": 18,
-        "note": "Age limits per post (see posts_detail): Assistant 18-28, Stenotypist 18-25, Data Entry Operator 18-25 (FPSC notice). NJP panels show Max 33/30/30 with federal relaxation applied. Plus 5 years' general age relaxation for Balochistan domicile per the FPSC notice. The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
-      },
-      "apply_url": "https://njp.gov.pk",
-      "body": "FPSC",
-      "bps": "15 / 14",
-      "closing_date": "2026-11-20",
-      "department": "Federal Public Service Commission (Secretariat)",
-      "domicile": {
-        "detail": "Balochistan domicile / local certificate only",
-        "province": "Balochistan"
-      },
-      "education": {
-        "level": "bachelor16",
-        "text": "See posts_detail — Graduate (Assistant); Intermediate + shorthand 80 wpm / typing 40 wpm, computer literate (Stenotypist); Bachelor's with Physics / Mathematics / Statistics / Economics / Computer Science / IT + 10,000 key depressions per hour (Data Entry Operator)."
-      },
-      "experience": null,
-      "fee_note": "Not stated in the sources read — check njp.gov.pk.",
-      "fee_pkr": null,
-      "gender": "Female (Assistant post — women quota); not stated for other posts",
-      "id": "fpsc-secretariat-balochistan-2026",
-      "last_updated": "2026-11-19",
-      "organization": "Federal Public Service Commission",
-      "posts_detail": [
-        {
-          "age": "18-28",
-          "bps": "15",
-          "education": "Graduate; 6 Weeks Basic IT Training course (including MS Office) by NITB before completion of probation",
-          "note": "Quota: Balochistan, Women Quota 01; Regular",
-          "posts": 1,
-          "title": "Assistant"
-        },
-        {
-          "age": "18-25",
-          "bps": "14",
-          "education": "Intermediate; minimum speed 80/40 wpm shorthand/typing; must be computer literate",
-          "note": "Quota: Balochistan (open merit); Regular",
-          "posts": 1,
-          "title": "Stenotypist"
-        },
-        {
-          "age": "18-25",
-          "bps": "14",
-          "education": "Bachelor's degree with Physics / Mathematics / Statistics / Economics / Computer Science / IT from an HEC-recognised university; minimum 10,000 key depressions per hour",
-          "note": "Quota: Balochistan (open merit); Regular",
-          "posts": 1,
-          "title": "Data Entry Operator"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://www.fpsc.gov.pk/uploads/content/1794565915478_FPSC_Ministerial_Posts_-_Balochistan_Quota_-_13-11-2026.pdf",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": "Apply through the National Job Portal (njp.gov.pk) within fifteen days from the date of advertisement; NJP deadline 20 Nov 2026 is the operative date for applying.",
-      "title": "Assistant, Stenotypist & Data Entry Operator — FPSC Secretariat (Balochistan quota, 3 posts)",
-      "total_posts": 3,
-      "verify_flags": [
-        "PID(I)4217/26 cited by aggregators could NOT be verified — it appears on no NJP detail page and no PID number is printed on the FPSC PDF. adv_no left null; do not fill from aggregators.",
-        "CLOSING-DATE ARITHMETIC INCONSISTENT: NJP deadline 20 Nov 2026; 15 days from NJP posting (6 Nov) = 21 Nov; 15 days from the FPSC page date (13 Nov) = 28 Nov. The NJP 20 Nov deadline is used as operative.",
-        "NJP detail pages: Assistant https://njp.gov.pk/jobs/10559, Stenotypist https://njp.gov.pk/jobs/10570, Data Entry Operator https://njp.gov.pk/jobs/10571. FPSC page: https://www.fpsc.gov.pk/Jobs/103 (13 Nov 2026)."
-      ]
-    },
-    {
       "adv_date": null,
       "adv_no": null,
       "age": {
@@ -4833,98 +4282,6 @@
     },
     {
       "adv_date": "2026-11-08",
-      "adv_no": null,
-      "age": {
-        "max_effective": 35,
-        "max_printed": 35,
-        "min": null,
-        "note": "Maximum age 35 years per the NJP listing (all posts); no minimum age shown."
-      },
-      "apply_url": "https://njp.gov.pk",
-      "body": "NJP",
-      "bps": "16 / 14 / 04 / 01",
-      "closing_date": "2026-11-20",
-      "department": "Pakistan Council of Scientific & Industrial Research (PCSIR), Quetta",
-      "domicile": {
-        "detail": "Balochistan domicile only",
-        "province": "Balochistan"
-      },
-      "education": {
-        "level": "bachelor16",
-        "text": "See posts_detail — B.S./B.Sc (Sciences/Engineering) or B.Tech/M.Tech, 16 years (Instructor); B.Sc. Natural Sciences (14 years) or DAE (Research/Technical Assistant); Primary + licence (Driver); Matric/SSC (Naib Qasid); Primary (Gardener, Cook)."
-      },
-      "experience": "Post-specific (see posts_detail): Driver needs a valid driving licence; Gardener/Cook — relevant experience an added advantage.",
-      "fee_note": "No fee shown on the NJP listing.",
-      "fee_pkr": null,
-      "gender": "Not stated in the ad",
-      "id": "njp-pcsir-2026",
-      "last_updated": "2026-11-19",
-      "organization": "Pakistan Council of Scientific & Industrial Research (PCSIR)",
-      "posts_detail": [
-        {
-          "age": "Max 35",
-          "bps": "16",
-          "education": "B.S./B.Sc (Sciences/Engineering) or B.Tech/M.Tech or equivalent (16 years), degree from an HEC-recognised institution/university",
-          "note": "Location: PCSIR Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
-          "posts": 1,
-          "title": "Instructor"
-        },
-        {
-          "age": "Max 35",
-          "bps": "14",
-          "education": "B.Sc. (Natural Sciences) or equivalent 14 years education, or DAE in Mechanical/Electrical/Electronic Engineering from a recognised institution; DAE must be from a TEVTA-recognised institution",
-          "note": "Location: PCSIR Laboratories, Mastung Road, Mian Ghundi, Quetta",
-          "posts": 1,
-          "title": "Research/Technical Assistant"
-        },
-        {
-          "age": "Max 35",
-          "bps": "04",
-          "education": "Primary Pass + valid driving licence, well versed with traffic rules",
-          "note": "Location: PCSIR Laboratories / Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
-          "posts": 2,
-          "title": "Driver"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Matric/SSC or equivalent",
-          "note": "Location: PCSIR Laboratories, Mastung Road, Mian Ghundi, Quetta",
-          "posts": 1,
-          "title": "Naib Qasid"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Primary Pass; relevant experience would be an added advantage",
-          "note": "Location: PCSIR Laboratories / Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
-          "posts": 3,
-          "title": "Gardener"
-        },
-        {
-          "age": "Max 35",
-          "bps": "01",
-          "education": "Primary Pass; relevant experience would be an added advantage",
-          "note": "Location: PCSIR Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
-          "posts": 1,
-          "title": "Cook"
-        }
-      ],
-      "result_info": null,
-      "source_url": "https://njp.gov.pk/jobs/10600",
-      "status": "open",
-      "syllabus": null,
-      "test_date": null,
-      "test_info": null,
-      "title": "Instructor, Research/Technical Assistant, Driver, Naib Qasid, Gardener & Cook — Balochistan Initiative (9 posts)",
-      "total_posts": 9,
-      "verify_flags": [
-        "Posted 8 Nov 2026 on NJP; no PTID/PID shown on the NJP detail pages.",
-        "Age minimum not shown on the NJP listing — min left null. Other detail pages: Research/Technical Assistant /jobs/10601, Driver /jobs/10602, Naib Qasid /jobs/10603, Gardener /jobs/10604, Cook /jobs/10605."
-      ]
-    },
-    {
-      "adv_date": "2026-11-08",
       "adv_no": "PID(I)4295/26",
       "age": {
         "max_effective": 45,
@@ -5039,7 +4396,7 @@
       "apply_url": "https://njp.gov.pk",
       "body": "NJP",
       "bps": "01",
-      "closing_date": "2026-11-23",
+      "closing_date": "2026-11-24",
       "department": "Wafaqi Mohtasib (Ombudsman) Secretariat — Regional Office, Quetta",
       "domicile": {
         "detail": "Balochistan (6% share); place of posting Quetta, Balochistan",
@@ -5054,7 +4411,7 @@
       "fee_pkr": null,
       "gender": "Not stated in the ad",
       "id": "njp-wafaqi-mohtasib-chowkidar-2026",
-      "last_updated": "2026-11-19",
+      "last_updated": "2026-11-23",
       "organization": "Wafaqi Mohtasib (Ombudsman) Secretariat",
       "posts_detail": [
         {
@@ -5076,7 +4433,8 @@
       "total_posts": 1,
       "verify_flags": [
         "Posted 10 Nov 2026 on NJP; no PTID/PID shown on the NJP detail page.",
-        "Age discrepancy between the Job Description (18-35) and the Eligibility Criteria box (Max 30) — see age note; record uses Max 30."
+        "Age discrepancy between the Job Description (18-35) and the Eligibility Criteria box (Max 30) — see age note; record uses Max 30.",
+        "Closing date corrected 23 Nov 2026: v9 said 23 Nov 2026, but the live NJP listing shows 'Available Till Nov 24, 2026' — NJP value used."
       ]
     },
     {
@@ -5184,6 +4542,1238 @@
       ]
     },
     {
+      "adv_date": "2026-11-04",
+      "adv_no": "PID K.1448/26",
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": null,
+        "note": "Maximum 35 years (NJP detail pages); minimum not stated. High School Teacher: no age limit stated on its detail page."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "15 / 12 / 10 / 08 / 06",
+      "closing_date": "2026-11-25",
+      "department": "Karachi Port Trust",
+      "domicile": {
+        "detail": "Balochistan domicile (per NJP detail pages); Cook post: domicile not stated on its detail page.",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Matric to Bachelor's (post-specific: DAE/diplomas, marine certificates, B.A/B.Sc/B.Ed)."
+      },
+      "experience": "Post-specific — see posts_detail (1 to 10 years; Drawing Master and clerical posts: none stated).",
+      "fee_note": "Not stated on the NJP detail pages.",
+      "fee_pkr": null,
+      "gender": null,
+      "id": "njp-kpt-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Karachi Port Trust",
+      "posts_detail": [
+        {
+          "title": "Engine Room Assistant",
+          "posts": 2,
+          "bps": "BPS-15 (KPT PS-08)",
+          "education": "Intermediate A-Class Marine Engineer Apprenticeship; FSc Pre-Engineering / DAE Mechanical / DAE Auto & Diesel Technology",
+          "experience": "5 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "GP-I (ABUL)",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-08)",
+          "education": "Matric, attended GP course; Secondary School Certificate/Matriculation",
+          "experience": "3 years worked on board ship / marine craft as GP / AB (Seaman)",
+          "age": "Max 35"
+        },
+        {
+          "title": "Master Instructor",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-08)",
+          "education": "Matriculate having Master 1st Class Certificate from MMD; Secondary School Certificate/Matriculation",
+          "experience": "10 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Head X-Ray Technician",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-08)",
+          "education": "3 years Diploma of X-Ray",
+          "experience": "5 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Electrical Supervisor (ABUL)",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-08)",
+          "education": "1st Class Electrical Supervisor Certificate issued under authority of Government; computer literacy / operating skill mandatory",
+          "experience": "5 years experience on board",
+          "age": "Max 35"
+        },
+        {
+          "title": "Pipe Operator",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-08)",
+          "education": "Certificate of Competency (Nautical or Diesel) recognized by MMD or DAE (Mech. / Elect.); DAE Mechanical / DAE Electrical Engineering",
+          "experience": "5 years on board floating craft (deck machinery, steering, ship keeping)",
+          "age": "Max 35"
+        },
+        {
+          "title": "Drawing Master",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-07)",
+          "education": "Diploma in Drawing Teaching from a recognized institute with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Pesh Imam",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-07)",
+          "education": "Molvi Fazil / Farighul Tahsil of any reputed Islamic Institution",
+          "experience": "1 year with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "X-Ray Technician",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "3 years Diploma of X-Ray",
+          "experience": "3 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Sisters/Male Nurse",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "4 years Diploma in General Nursing",
+          "experience": "2 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "ICU Technician",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "1 year Certificate / Diploma of ICU Technician",
+          "experience": "5 years as ICU Technician",
+          "age": "Max 35"
+        },
+        {
+          "title": "GP-II Deck",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "Matric, attended GP course; Secondary School Certificate/Matriculation",
+          "experience": "3 years worked on board ship / marine craft as GP / AB (Seaman)",
+          "age": "Max 35"
+        },
+        {
+          "title": "Assistant Physiotherapist",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "Diploma of Physiotherapist; DAE Physiotherapy",
+          "experience": "2 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "GP-I Engine",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "DAE (Mechanical) Trade Apprenticeship (Diesel Mechanic, Fitter)",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Sub Engineer-III (Electrical)",
+          "posts": 2,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "Diploma of Associate Engineer in Electrical Technology from a recognized institute",
+          "experience": "5 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "A/C Mechanic",
+          "posts": 1,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "Diploma in Air Conditioning; DAE Refrigeration and Air Conditioning (RACT)",
+          "experience": "4 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Sub Engineer-III (Civil)",
+          "posts": 2,
+          "bps": "BPS-12 (KPT PS-06)",
+          "education": "Diploma in Civil Engineering from a recognized institute",
+          "experience": "2 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Nurse Aid",
+          "posts": 1,
+          "bps": "BPS-10 (KPT PS-05)",
+          "education": "Nurse Aid Course from Govt. or recognized institute",
+          "experience": "1 year in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Midwife",
+          "posts": 1,
+          "bps": "BPS-10 (KPT PS-05)",
+          "education": "Diploma in Midwifery from a recognized institute",
+          "experience": "1 year in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Telephone Operator",
+          "posts": 1,
+          "bps": "BPS-10 (KPT PS-05)",
+          "education": "Intermediate (page text is an incomplete sentence — see verify_flags)",
+          "experience": "1 year in office work with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Junior Out Door Clerk",
+          "posts": 7,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Intermediate with one year Diploma in Information Technology (DIT)",
+          "age": "Max 35"
+        },
+        {
+          "title": "Junior Clerk",
+          "posts": 5,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Intermediate with one year Diploma in Information Technology (DIT)",
+          "age": "Max 35"
+        },
+        {
+          "title": "Auto Electrician",
+          "posts": 1,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Certificate Course in relevant field; subject to passing Trade Test",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Engine Driver-II",
+          "posts": 1,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Intermediate having Certificate of Inland Engineer Class-II from MMD",
+          "experience": "2 years as Greaser with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Repair Maintenance Assistant",
+          "posts": 1,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Matriculate having Engine Driver Certificate / Welder Certificate from a recognized institute",
+          "experience": "2 years in relevant field with Basic Computer Literacy",
+          "age": "Max 35"
+        },
+        {
+          "title": "Driver 2nd Class",
+          "posts": 2,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Matriculate having COC 2nd Class Driver; Secondary School Certificate/Matriculation",
+          "experience": "1 year in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Mistry",
+          "posts": 2,
+          "bps": "BPS-08 (KPT PS-04)",
+          "education": "Matriculate; Secondary School Certificate/Matriculation",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Male Nursing Attendant",
+          "posts": 1,
+          "bps": "BPS-06 (KPT PS-03)",
+          "education": "Matriculate in Science having Nursing Certificate",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Mason",
+          "posts": 1,
+          "bps": "BPS-06 (KPT PS-03)",
+          "education": "Matriculate; must pass Trade Test",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Carpenter",
+          "posts": 2,
+          "bps": "BPS-06 (KPT PS-03)",
+          "education": "Matriculate; must pass Trade Test",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Hydraulic Fitter",
+          "posts": 1,
+          "bps": "BPS-06 (KPT PS-03)",
+          "education": "Diploma in relevant trade",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "Cook",
+          "posts": 2,
+          "bps": "BPS-06 (KPT PS-03)",
+          "education": "Matriculate; must pass Trade Test",
+          "experience": "2 years in relevant field",
+          "age": "Max 35"
+        },
+        {
+          "title": "High School Teacher",
+          "posts": 1,
+          "bps": "BPS-15 (KPT PS-07)",
+          "education": "B.A / B.Sc / B.Ed; Bachelor of Arts (4 years) / B.Tech (Hons) / Bachelor of Science (4 years)",
+          "experience": "3 years in relevant field with Basic Computer Literacy",
+          "age": "Not stated"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10472",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Karachi Port Trust — 33 posts (contract, Balochistan quota)",
+      "total_posts": 50,
+      "verify_flags": [
+        "High School Teacher: no age limit stated on its NJP detail page (verified by re-reading).",
+        "Cook: domicile not stated on its NJP detail page (verified); all other posts Balochistan domicile.",
+        "Telephone Operator: the NJP page's qualification text is an incomplete sentence ('Intermediate having ...') — not completed by guessing.",
+        "Grades are BPS equivalents of KPT PS grades (e.g. BPS-15 = KPT PS-08) per the NJP detail pages.",
+        "Detail pages: njp.gov.pk/jobs/10472 to /jobs/10504."
+      ]
+    },
+    {
+      "adv_date": "2026-11-11",
+      "adv_no": "PID(I) 4187/26",
+      "age": {
+        "max_effective": 55,
+        "max_printed": 55,
+        "min": null,
+        "note": "Maximum age differs by post — see posts_detail (40 to 55 years); minimum not stated on any detail page."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "PPS-10 / PPS-08 / PPS-07 / PPS-03 / PPS-01",
+      "closing_date": "2026-11-28",
+      "department": "Office of the Controller General of Accounts",
+      "domicile": {
+        "detail": "Not stated in the ad (domicile/quota not printed on the NJP detail pages)",
+        "province": "All Pakistan"
+      },
+      "education": {
+        "level": "primary",
+        "text": "See posts_detail — Minimum Middle (Handyman) to 16 years of education (Project Manager, SAP consultants)."
+      },
+      "experience": "Post-specific — see posts_detail (1 to 10 years; SAP life-cycle implementation for Technical Consultants).",
+      "fee_note": "Not stated on the NJP detail pages.",
+      "fee_pkr": null,
+      "gender": null,
+      "id": "njp-cga-sap-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Office of the Controller General of Accounts",
+      "posts_detail": [
+        {
+          "title": "PROJECT MANAGER",
+          "posts": 1,
+          "bps": "PPS-10",
+          "education": "Advanced degree, 16 years of education in Finance or Accounting or Economics or Public Administration or Business Administration or Human Resource or Development Studies; Project Management certification preferred; lump-sum pay PPS-10, travel/medical entitlement equivalent to BPS-20",
+          "experience": "10 years",
+          "age": "Max 55"
+        },
+        {
+          "title": "SAC SAP Analytics Cloud Planning Analyst",
+          "posts": 1,
+          "bps": "PPS-10",
+          "education": "Bachelor's degree in Finance, Accounting, Business Analytics, Computer Science, or a related field; hands-on SAP Analytics Cloud (SAC) and SAP S/4HANA; SAC certification preferred; travel entitlement equivalent to BPS-20",
+          "experience": "3+ years",
+          "age": "Max 50"
+        },
+        {
+          "title": "Team Lead Senior Consultant Financial Accounting FI",
+          "posts": 1,
+          "bps": "PPS-10",
+          "education": "16 years of education from an HEC recognized university; SAP FI certified; travel/medical entitlement equivalent to BPS-20",
+          "experience": "5 years",
+          "age": "Max 50"
+        },
+        {
+          "title": "TECHNICAL CONSULTANT FI",
+          "posts": 1,
+          "bps": "PPS-8",
+          "education": "14 or 16 years education from an HEC recognized university; SAP FI certified; travel/medical entitlement equivalent to BPS-18",
+          "experience": "1 SAP life-cycle implementation",
+          "age": "Max 50"
+        },
+        {
+          "title": "TECHNICAL CONSULTANT HR",
+          "posts": 1,
+          "bps": "PPS-8",
+          "education": "14 or 16 years education from an HEC recognized university; SAP HCM/HR certified; travel/medical entitlement equivalent to BPS-18",
+          "experience": "1 SAP life-cycle implementation",
+          "age": "Max 50"
+        },
+        {
+          "title": "DATABASE ADMINISTRATOR",
+          "posts": 1,
+          "bps": "PPS-7",
+          "education": "14 years of education from an HEC recognized university in Information Technology or related field; setting up Database, proficiency SQL, UNIX, Linux and data analytics; travel entitlement equivalent to BPS-17",
+          "experience": "2 years",
+          "age": "Max 45"
+        },
+        {
+          "title": "Network Support Consultant",
+          "posts": 1,
+          "bps": "PPS-7",
+          "education": "Suitable discipline; CCNA, Diploma of Associate Engineer or equivalent; CCNA / CompTIA Network+ / Juniper JNCIA-Junos / Aruba ACMA / VMware VCTA-NV or equivalent preferred; travel/medical entitlement equivalent to BPS-17",
+          "experience": "Minimum 5 years",
+          "age": "Max 45"
+        },
+        {
+          "title": "Office Assistant / Cashier",
+          "posts": 1,
+          "bps": "PPS-3",
+          "education": "Minimum Graduation, preferably B.Com / BS Commerce / BBA; conversant with MS Office applications",
+          "experience": "3 years in the same position (see verify_flags)",
+          "age": "Max 40"
+        },
+        {
+          "title": "Handyman",
+          "posts": 2,
+          "bps": "PPS-1",
+          "education": "Minimum Middle",
+          "experience": "1 year",
+          "age": "Max 40"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10572",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Contract: initial appointment 1 year, extendable yearly on satisfactory performance or until project completion. Location/test city: Islamabad.",
+      "title": "SAP / IT consultants, Project Manager & support posts (contract, Islamabad)",
+      "total_posts": 10,
+      "verify_flags": [
+        "The 9 posts actually on NJP are SAP/IT consultants, Project Manager, Office Assistant/Cashier and Handyman — the 9-name list in the first browser check (Assistant Project Manager, Accountant, IT Support Officer, Data Entry Operator, IT Support Assistant, Assistant Manager, Financial Analyst, Driver) does NOT match NJP and was not used.",
+        "Office Assistant/Cashier: the NJP page says 'At least five (3) years' experience' — words and figure disagree; the Eligibility section and Quick Overview both say 3 years, so 3 years is used.",
+        "Technical Consultant FI/HR: experience is '1 SAP life-cycle implementation' (Eligibility: 1 Year).",
+        "NJP job ID 10580 returns 404 — not a post in this drive.",
+        "Domicile/quota and fee are not stated on any NJP detail page for this drive.",
+        "Detail pages: njp.gov.pk/jobs/10572-10579 and /jobs/10581."
+      ]
+    },
+    {
+      "adv_date": "2026-11-22",
+      "adv_no": null,
+      "age": {
+        "max_effective": 50,
+        "max_printed": 50,
+        "min": null,
+        "note": "Maximum 50 years as on the closing date; age relaxation not applicable; minimum not stated."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "Consultant",
+      "closing_date": "2026-12-06",
+      "department": "Pakistan Reinsurance Company Limited",
+      "domicile": {
+        "detail": "Not stated in the ad (domicile/quota not printed on the NJP detail page)",
+        "province": "All Pakistan"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "Minimum MBBS from a recognized and well reputed institute recognized by HEC; MCPS in Family Medicine or equivalent foreign qualification, or higher qualification in Internal Medicine or Family Medicine, will be a plus."
+      },
+      "experience": "Healthcare administration experience in a corporate set-up (see verify_flags — the NJP page's words and figure disagree).",
+      "fee_note": "No application fee stated on the NJP detail page. (Consultancy fee Rs 250,000-300,000 is the pay, not a fee — see verify_flags.)",
+      "fee_pkr": null,
+      "gender": null,
+      "id": "njp-prcl-cmo-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Pakistan Reinsurance Company Limited",
+      "posts_detail": null,
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10662",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Contract 2 years, extendable further as per need by mutual agreement. Place of posting: Karachi Head Office.",
+      "title": "Chief Medical Officer (Consultant)",
+      "total_posts": 1,
+      "verify_flags": [
+        "Experience discrepancy on the NJP detail page: the description says 'Minimum three (10) years' experience in healthcare administration in a corporate set up' (words vs figure disagree); the Eligibility section says 'Maximum Experience: Max: 10 Years'.",
+        "Consultancy fee Rs 250,000-300,000 is the pay (per NJP listing), not an application fee; no application fee is stated.",
+        "Not the same post as the Pakistan Reinsurance Company Executive Director Underwriting (BPS-20, closes 26 Nov 2026) — separate record."
+      ]
+    },
+    {
+      "adv_date": "2026-11-21",
+      "adv_no": "PID(I)461B/26",
+      "age": {
+        "max_effective": 65,
+        "max_printed": 65,
+        "min": null,
+        "note": "Maximum 65 years; minimum not stated."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "SPPS-I",
+      "closing_date": "2026-12-06",
+      "department": "Ministry of Federal Education & Professional Training",
+      "domicile": {
+        "detail": "Not stated in the ad (domicile/quota not printed on the NJP detail page); the page carries a 'Balochistan Initiative' badge — see verify_flags.",
+        "province": "All Pakistan"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "Minimum Master's degree from an HEC-recognized national or foreign university; preference to a Master's in Finance, Public Administration, Business Administration, Management Sciences, Economics or Social Sciences."
+      },
+      "experience": "At least 17 years of professional experience in public or private sectors, including at least 2 years in educational organisations/institutions in a senior management position.",
+      "fee_note": "Not stated on the NJP detail page.",
+      "fee_pkr": null,
+      "gender": null,
+      "id": "njp-daanish-md-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Ministry of Federal Education & Professional Training",
+      "posts_detail": null,
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10663",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Contract 3 years. Duty station Islamabad, with frequent travel to Daanish Schools and project sites across Pakistan.",
+      "title": "Managing Director, Daanish Schools Authority (DSA)",
+      "total_posts": 1,
+      "verify_flags": [
+        "Grade is SPPS-I as shown on the NJP detail page (not BPS-22).",
+        "Domicile/quota not stated on the detail page; the page carries a 'Balochistan Initiative' badge."
+      ]
+    },
+    {
+      "adv_date": "2026-11-14",
+      "adv_no": "No/D&SJ/TMK/___/OF 2026",
+      "age": {
+        "max_effective": 28,
+        "max_printed": 28,
+        "min": 20,
+        "note": "Junior Clerk: 21-25 years. Bailiff: 20-28 years. Government servants with 3+ years' service (federal or Sindh): upper age limit 30 years."
+      },
+      "apply_url": "https://nts.org.pk/Test&Products/Announced/11_26/DSC_TMK_2026_Online/TMK.php",
+      "body": "NTS",
+      "bps": "11 / 05",
+      "closing_date": "2026-12-07",
+      "department": "Office of the District and Sessions Judge, Tando Muhammad Khan",
+      "domicile": {
+        "detail": "District Tando Muhammad Khan ONLY (domicile + PRC)",
+        "province": "Sindh"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Matric (Bailiff) and Intermediate (Junior Clerk)."
+      },
+      "experience": "None required (not stated in the ad)",
+      "fee_note": "Rs 900 (non-refundable) for the Junior Clerk post (online/NTS, via system-generated challan through 1Link 1Bill). No fee stated for the Bailiff post (offline form by post/by hand).",
+      "fee_pkr": 900,
+      "gender": "Male & female (equal opportunity for female candidates; special quotas — Women, Disabled/Special Persons, Minorities — as per rules/policy)",
+      "id": "nts-dsj-tmk-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Office of the District and Sessions Judge, Tando Muhammad Khan",
+      "posts_detail": [
+        {
+          "age": "21-25",
+          "bps": "11",
+          "education": "Intermediate from a recognized institute; proficiency in MS Office with certificate; typing speed 40 W.P.M with certificate from a reputed institution",
+          "posts": 1,
+          "title": "Junior Clerk"
+        },
+        {
+          "age": "20-28",
+          "bps": "05",
+          "education": "Matriculation from a recognized institute",
+          "posts": 1,
+          "title": "Bailiff"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://nts.org.pk/Test&Products/Announced/11_26/DSC_TMK_2026_Online/TMK.php",
+      "status": "open",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Junior Clerk: 40% marks in the screening test to qualify for the skill/typing test. Bailiff: 35% marks in the written test to qualify for interview.",
+      "title": "Junior Clerk & Bailiff — District & Sessions Judge, Tando Muhammad Khan",
+      "total_posts": 2,
+      "verify_flags": [
+        "Closing-date discrepancy: the NTS project page and open-applications list say 7 Dec 2026, but the advertisement itself says applications on or before 10 Dec 2026 (Junior Clerk online; Bailiff by 10 Dec till 03:00 PM) — the NTS page date (7 Dec) is used; re-check at next watch.",
+        "The advertisement's table numbers the posts Sr. 2 (Junior Clerk) and Sr. 3 (Bailiff) with no Sr. 1 row; its procedure/terms call them Sr. 01 and Sr. 02. Only these two posts exist.",
+        "Fee Rs 900 is stated for the Junior Clerk (online/NTS) post only; no fee is stated for the Bailiff post (offline form).",
+        "Advertisement number as printed contains a blank: No/D&SJ/TMK/___/OF 2026.",
+        "Advertisement: https://nts.org.pk/Test&Products/Announced/11_26/DSC_TMK_2026_Online/DS_TMK.pdf (dated 14 Nov 2026)."
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Naukri Check",
+    "data_version": 10,
+    "generated": "2026-11-23",
+    "hosting": "This file is bundled in the app as an asset AND hosted at a remote URL (GitHub Pages) so new ads can be added without an app rebuild. The app uses whichever copy has the higher data_version.",
+    "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf). Correction 2026-11-07: the three vacancy counts left null in v2 (F.4-189, F.4-193, F.4-212) were resolved by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2 - FPSC Ad 04/2026 total is now 278 posts. No other record changed; data_version stays 2 (v2 not yet consumed by any build). v3 (2026-11-08): scholarships[] populated for the first time — 13 records (3 open, 10 closed/annual cycles), every record verified by Muse against its official source page only (HEC, SEF, SEEF, BEEF, USEFP, Campus France, EACEA, Chevening, Türkiye Burslari, Australia Awards); no deadlines or amounts invented — where the official page states no closing date the field is null and cycle_note explains the annual rhythm. Jobs data unchanged from v2. v4 (2026-11-09): CSS 2027 written-exam notice confirmed from the official FPSC PDF (fee Rs 2,200, test from 27 Jan 2027, age 21-30 on 31 Dec 2026) — record now open; 9 new job records verified from official sources only: 3 ETEA (PHC Abbottabad Judicial Assistant, LG&RDD KP 11 posts, EPA KP 6 posts) and 6 NJP drives (NHMP 94, Navy civilian 69, Bait-ul-Mal 125, Ministry of Planning 77, Marine Fisheries 4, NASTP 14) — 383 NJP posts; scholarships: HEC US-Pakistan Knowledge Corridor PhD 2027 added (Fall intake closes 30 Mar 2027), SEF SSESP 2026-27 moved to closed (cycle ended 28 Feb 2026). PPSC Advertisement No. 12/2026 (PMS/CCE) NOT added — ppsc.gop.pk was unreachable from the browser and curl on 2026-11-09; retry at the next watch. National Grid Pakistan drive NOT added — not found on NJP. v5 (2026-11-11, DRAFT — publish only after midnight 11 Nov 2026 / Thu 12 Nov morning, once CCE + Railways Balochistan quota have actually closed): SPSC CCE-2026 (closing 11 Nov 2026, screening test Sat 28 Nov 2026) and Pakistan Railways Balochistan quota (closing 11 Nov 2026, 829 posts) moved from jobs[] to recently_closed[] with status closed — full records preserved, including CCE test_date/test_info so the Tracker still shows the 28 Nov screening. Open jobs 67 -> 65. PPSC Advertisement No. 12/2026 (PMS/CCE, 48 BS-17 posts, closing 30 Nov 2026) STILL NOT added — ppsc.gop.pk still only shows the stale 1 Mar 2026 crawl (checked 11 Nov 2026); 8 aggregators now agree on the ad text but seed policy needs the official PDF; retry at the Thu 12 Nov watch. NOT moved yet (still open until midnight of their closing dates): NJP NHMP (94 posts) and Navy civilian (69 posts), both closing 12 Nov 2026 — move them in v6 at the Thu watch. v6 (2026-11-12): SPSC Consolidated Ad 07/2026 added (36 posts / 68 vacancies, closing 14 Dec 2026) — read from the official PDF, every count/age visually verified. 9 new ETEA records (Khyber SCJ 14 posts, KP-RIISP Database Developer 2, Dir Lower DSJ 22, DHO Kohistan Lower 26, Karak SCJ 8, KGMC/MTI 48, Conservator Malakand 1, Chitral DSJ 8, Bannu SCJ 5) and 4 new NTS records (FESCO JE/SDO 5, GEPCO Balochistan quota 5, Hub & Spoke SZMC 15, DSJ Hyderabad 4) — all from the official ETEA/NTS advertisements. KPEF Merit-cum-Inaffordability Scholarship 2026–27 added (closing 31 Dec 2026, verified on the official KPEF page). Corrections: NTS Dadu courts closing 15 Nov -> 16 Nov 2026 (official NTS project page); ZamungKor corrigendum INF(P) 5421/26 confirms PST Teacher age 21-35 and closing 20 Nov 2026 (no change). FPSC: Ad 04/2026 still the latest (checked live 12 Nov 2026); no corrigendum/test schedule for it; an unconfirmed 'CORRIGENDUM to Public Notice: CSS-CE-2027' seen once in the FPSC homepage notices popup — re-check next watch. PPSC Ad 12/2026 STILL NOT added — ppsc.gop.pk unreachable from curl, text fetch (stale 1 Mar 2026 crawl only) AND live browser (ERR_CONNECTION_RESET, 5 attempts 10:37-10:42 PKT 12 Nov 2026); retry next watch. Honhaar Scholarship Phase IV NOT added — portal unreachable (ERR_CONNECTION_RESET, 3 tries 12 Nov 2026) and aggregator dates conflict (9 Nov vs 19 Nov); re-check next watch. NJP NHMP (94 posts) and Navy civilian (69 posts) close TODAY 12 Nov 2026 — NOT moved yet: closing date has not passed (applications open until midnight); move at the Mon 16 Nov watch. Open jobs 65 -> 79. Scholarships 14 -> 15 (4 open). v7 (2026-11-13): NJP NHMP (94 posts, Balochistan quota) and Pakistan Navy civilian (69 posts, Balochistan quota), both closing 12 Nov 2026, moved from jobs[] to recently_closed[] with status closed — full records preserved. Open jobs 79 -> 77. v8 (2026-11-16): SPSC CCE-2026 REOPENED — Corrigendum Ad 08/2026 (13 Nov) extends closing to 23 Nov 2026 and revises the age reckoning date to 23 Oct 2026 (record moved back from recently_closed to open). 5 records closed 15 Nov moved to recently_closed (ETEA PHC Abbottabad, NJP Marine Fisheries, ETEA KGMC/MTI, ETEA Conservator Malakand, NTS Hub & Spoke SZMC — its 29 Nov test date removed, unconfirmed on NTS pages). NJP Planning (77 posts) closing extended to 18 Nov 2026. FPSC Ad 04/2026 syllabus issued 11 Nov 2026 (URL on all 48 records); no Ad 05/2026. CSS 2027: corrigendum dated 14 Nov 2026 exists on FPSC Latest News, contents unread — re-check next watch. New: ETEA DC Dir Upper Patwari (2, closes 30 Nov), ETEA Khyber College of Dentistry (22 post types, closes 10 Dec; Clinical Technologist Pathology removed by 10 Nov corrigendum), NTS Sahiwal Institute of Cardiology (33, closes 4 Dec), NTS PAC Kamra Batch-E-2026 (94, closes 30 Nov), NJP Planning FBS/PCO (67, closes 27 Nov), NJP NTISB Assistant (1, closes 30 Nov), NJP PM Office (2, closes 29 Nov). Scholarship: HEC Balochistan & erstwhile FATA Phase-III Batch-V added (closes 14 Dec 2026, verified on official HEC page). NOT added: PPSC Ad 12/2026 — ppsc.gop.pk unreachable again (7 attempts, ERR_CONNECTION_RESET); Honhaar Phase IV — official portal unreachable, reported 19 Nov deadline unverified. NOT moved yet (close today 16 Nov, open until midnight): NTS Dadu courts, NJP Bait-ul-Mal. Open jobs 77 -> 80; scholarships 15 -> 16 (5 open). v9 (2026-11-19): moved to recently_closed: nts-dadu-courts-2026, njp-baitulmal-2026, njp-planning-2026 (closing dates passed; NTS Dadu confirmed on the official NTS list, Bait-ul-Mal and Planning listings expired/removed from the NJP live list with no extension shown). New ETEA records, all read from the official ETEA ad images: DG Fisheries KP (36 posts, minority quota, closes 10 Dec), Senior Civil Judge Peshawar — Process Server (6, closes 15 Dec), District & Sessions Judge Torghar (5, closes 15 Dec). New NTS: Health & Population Department Punjab (527 posts, lump sum, no BPS, closes 30 Nov; portal shows max age 40, ad shows 35 — ad used). New NJP/FPSC: FPSC Secretariat ministerial posts, Balochistan quota (3, closes 20 Nov 2026 — NJP deadline; PID(I)4217/26 unverified, left out); Pakistan Tobacco Board LDC (1, closes 1 Dec). New NJP drives verified from NJP detail pages: NationalGrid (41 posts, closes 23 Nov), Pakistan Sports Board (11, closes 23 Nov), PCSIR (9, closes 20 Nov), Engineering Development Board Analyst (lump-sum, closes 23 Nov), Institute of Strategic Studies Director Administration (closes 23 Nov), Wafaqi Mohtasib Chowkidar (closes 23 Nov; age discrepancy flagged), Pakistan Reinsurance Company Executive Director Underwriting (closes 26 Nov), Ignite Manager Corporate Finance (closes 27 Nov), Assistant Director BPS-17, Government of Pakistan (2, closes 20 Nov; department not named on NJP — NOT attributed to PBS). NOT added: Junior Auditors BPS-11 (39 posts, CGA, closes 19 Nov 2026) — the NJP detail page states no education/qualification at all, so no usable eligibility record; noted for the record only. HEC note: GRE Training under the US-Pakistan Knowledge Corridor opened 17 Nov 2026, closes 13 Dec 2026 (the PhD scholarship itself still closes 30 Mar 2027). FPSC: Ad 04/2026 still the latest, no Ad 05/2026 (checked 19 Nov); CSS-CE-2027 corrigendum dated 14 Nov 2026 NOT found on fpsc.gov.pk after a thorough check — closing 25 Nov 2026 and test 27 Jan 2027 unchanged. SPSC Ad 07/2026 unchanged (closes 14 Dec). NTS: FESCO/GEPCO test 12 Dec 2026 already in the seed; STS EPI Vaccinators still open to 30 Nov 2026. NOT added: PPSC Ad 12/2026 — ppsc.gop.pk timed out on 4 browser attempts, official PDF still unread; Honhaar Phase IV — official portal timed out on 4 attempts, reported 19 Nov deadline unverified from the portal. All NJP live-list drives seen on 19 Nov were verified from their detail pages and added above; the 'PBS Assistant Director BPS-17, closes 22 Nov' hint was WRONG — no PBS posting exists on NJP, only an unnamed 'Government of Pakistan' Assistant Director (2 posts, closes 20 Nov), added as such. Open jobs 80 -> 92; scholarships 16 (5 open). v10 (2026-11-23): 10 records closed 20 Nov 2026 moved to recently_closed (STS SMICS; ETEA ZamungKor, PHC, LG&RD, EPA, Chitral DSJ; NJP NASTP, PCSIR, Assistant Director BPS-17; FPSC Secretariat Balochistan). NJP Wafaqi Mohtasib Chowkidar closing corrected 23 Nov -> 24 Nov 2026 (live NJP list). NTS FESCO/GEPCO 12 Dec 2026 test date REMOVED — not confirmed on NTS project pages. NJP NTISB Assistant PPS-05 grade confirmed on live NJP list. FPSC: no Ad 05/2026 (checked 23 Nov); CSS-CE-2027 corrigendum (14 Nov) still not found after re-check; no test schedule for Ad 04/2026. SPSC Ad 07/2026 unchanged (closes 14 Dec); Ad 08/26 (CCE) closes 23 Nov 2026. Scholarships: PEEF Master FATA 2026-27 added (closes 30 Dec 2026, official ad INF(P) 5548/26); HEC Chinese Government Scholarship 2027-28 added (61 seats, closes 5 Jan 2027, verified on hec.gov.pk). NOT added: PPSC Ad 12/2026 — ppsc.gop.pk unreachable again (ERR_CONNECTION_RESET, 3 browser attempts + curl timeout); Honhaar Phase IV — portal DNS-unreachable, 19 Nov deadline only via aggregators; ETEA Forest Research Assistant — not on etea.online table (aggregator hint only; etea.edu.pk/pdf/forest2026.pdf is an unrelated old notice); PEEF Inter/Graduation KP — closed 15 Nov, official ad not read. Records closing TODAY 23 Nov 2026 (48 FPSC Ad 04/2026, SPSC CCE-2026, NTS FESCO/GEPCO, NJP NationalGrid, Sports Board, EDB Analyst, ISSI Director Administration) stay open until midnight — move at the Thu 26 Nov watch. New records added from the official NJP detail pages and the official NTS project page/advertisement: Karachi Port Trust (33 posts, 50 vacancies, closes 25 Nov); Controller General of Accounts SAP/IT posts (9 posts, 10 vacancies, closes 28 Nov); Pakistan Reinsurance Company Chief Medical Officer (Consultant, closes 6 Dec); Managing Director Daanish Schools Authority, SPPS-I (closes 6 Dec); NTS District & Sessions Judge Tando Muhammad Khan (Junior Clerk + Bailiff, closes 7 Dec per the NTS page — the ad itself says 10 Dec, flagged). Open jobs 92 -> 87; recently_closed 16 -> 26; scholarships 16 -> 18 (7 open).",
+    "optional_fields_note": "Every job record may also carry test_date, syllabus and result_info (null until announced). The app must display and alert on these when they appear in a data update, and ignore them gracefully while null."
+  },
+  "recently_closed": [
+    {
+      "adv_date": null,
+      "adv_no": null,
+      "age": {
+        "max_effective": 40,
+        "max_printed": 40,
+        "min": 21,
+        "note": "General relaxation per Government of Sindh rules."
+      },
+      "apply_url": "https://apply.sts.net.pk",
+      "body": "STS_SIBA",
+      "bps": null,
+      "closing_date": "2026-11-20",
+      "department": "Sindh Multiple Indicator Cluster Survey",
+      "domicile": {
+        "detail": "All 30 districts of Sindh",
+        "province": "Sindh"
+      },
+      "education": {
+        "level": "intermediate",
+        "text": "Minimum Intermediate, PLUS at least 1 year post-qualification field-survey experience in maternal & child health (ANC/PNC, immunisation, household surveys) with certificates."
+      },
+      "experience": "1 year field-survey experience (see education)",
+      "fee_note": "Non-refundable; system-generated challan via any ABL branch, MyABL app, or 1Bill internet banking.",
+      "fee_pkr": 1500,
+      "gender": "Gender-specific posts — see posts_detail",
+      "id": "sts-siba-smics-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Sindh Bureau of Statistics, Planning & Development Department, Govt of Sindh (UNICEF-supported)",
+      "posts_detail": [
+        {
+          "gender": "Female only",
+          "posts": 140,
+          "title": "Enumerator / Measurer"
+        },
+        {
+          "gender": "Male only",
+          "posts": 35,
+          "title": "Enumerator"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://apply.sts.net.pk",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "title": "Sindh MICS 2026-27 — Enumerators / Measurers (short-term contract)",
+      "total_posts": 175
+    },
+    {
+      "adv_date": null,
+      "adv_no": null,
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": 21,
+        "note": "Generally 21-35, varying by post; relaxation per Project Implementation Policy."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": null,
+      "closing_date": "2026-11-20",
+      "department": "ADP project: Establishment of New Campuses of Model Institute for State Children (incl. Girls campuses)",
+      "domicile": {
+        "detail": "KP & Merged Districts only",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "Post-specific, from recognised institutions: Master's / Bachelor's (BS/BA/BSc) / B.Ed / Clinical Psychology diploma / IT-CS degrees / FA-FSc / Shahadatul Alamia / technical diplomas."
+      },
+      "experience": "Post-specific",
+      "fee_note": "Not stated in the sources read. ETEA profile + CNIC verification via NADRA E-Sahulat is required before applying.",
+      "fee_pkr": null,
+      "gender": "Male & female",
+      "id": "etea-zamungkor-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Model Institute for State Children (ZamungKor), Government of Khyber Pakhtunkhwa",
+      "posts_detail": [
+        {
+          "title": "Assistant Director, Psychologist, Social Welfare Organizer, Admin & Accounts Assistant, Computer Operator, SET Teacher, Computer Instructor, Hostel Warden, Certified Teacher, PST Teacher, Fine Arts/Vocational Teacher, PTI/Sports Incharge, Theology Teacher, Junior Clerk, Qari/Imam Masjid, Medical Technician"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.edu.pk",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "title": "Teaching & admin posts — new campuses (1-year contract, extendable)",
+      "total_posts": 30,
+      "verify_flags": [
+        "Corrigendum INF(P) 5421/26 (Daily Mashriq, 5 Nov 2026) confirms: PST Teacher (S.No. 10) age limit 21-35 years; closing date 20/11/2026 — both already match this record, no change."
+      ]
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5226/26",
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": 18,
+        "note": "Age differs per post — see posts_detail. NOTE: earlier advertisements for these posts were CANCELLED — fresh applications are required."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "16 / 12 / 11 / 06",
+      "closing_date": "2026-11-20",
+      "department": "Peshawar High Court",
+      "domicile": {
+        "detail": "Permanent residents of KP",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — Bachelor's/BS/Master's for BPS-16 posts; Intermediate for Junior Clerk."
+      },
+      "experience": "CCTV Operator: experience preferred",
+      "fee_note": "Not stated in the sources read — check etea.edu.pk.",
+      "fee_pkr": null,
+      "gender": "Not stated (women/minority/disabled quotas noted in one listing)",
+      "id": "etea-phc-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Peshawar High Court, Peshawar",
+      "posts_detail": [
+        {
+          "age": "25-30",
+          "education": "Bachelor's degree",
+          "posts": 8,
+          "title": "Assistant (BPS-16)"
+        },
+        {
+          "age": "25-35",
+          "education": "4-year BS or equivalent in CS/IT",
+          "posts": 7,
+          "title": "Computer Operator (BPS-16)"
+        },
+        {
+          "age": "25-30",
+          "education": "Master's in Library Science",
+          "posts": 1,
+          "title": "Assistant Librarian (BPS-16)"
+        },
+        {
+          "age": "25-30",
+          "education": "Relevant technical qualification in Electrical/Electronics (experience preferred)",
+          "posts": 6,
+          "title": "CCTV Camera Operator (BPS-12)"
+        },
+        {
+          "age": "18-30",
+          "education": "Intermediate + computer skills + typing 30 wpm or more",
+          "posts": 7,
+          "title": "Junior Clerk (BPS-11)"
+        },
+        {
+          "age": "25-35",
+          "education": "Not stated in the sources read",
+          "posts": 12,
+          "title": "Driver (BPS-06)"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.edu.pk",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "title": "Assistant / Computer Operator / Clerk / Driver and others",
+      "total_posts": 41
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5378/26",
+      "age": {
+        "max_effective": 30,
+        "max_printed": 30,
+        "min": 18,
+        "note": "Age differs per post — see posts_detail. Relaxation per Government rules."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "16 / 12",
+      "closing_date": "2026-11-20",
+      "department": "Directorate General Local Government & Rural Development Department",
+      "domicile": {
+        "detail": "Khyber Pakhtunkhwa domicile; ALL 11 posts are allocated to the Minority quota",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Bachelor's degree for Assistant and AutoCAD Operator; SSC (2nd Division) + 3-year Civil Engineering diploma for Sub Engineer."
+      },
+      "experience": null,
+      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-lgrd-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Directorate General Local Government & Rural Development Department, Government of Khyber Pakhtunkhwa",
+      "posts_detail": [
+        {
+          "age": "21-30",
+          "bps": "16",
+          "education": "At least Second Class Bachelor's Degree or equivalent from an HEC-recognised university",
+          "posts": 1,
+          "title": "Assistant"
+        },
+        {
+          "age": "21-28",
+          "bps": "12",
+          "education": "At least Second Division SSC or equivalent from a recognised Board, plus 3-year Diploma in Civil Engineering from a recognised institute",
+          "posts": 8,
+          "title": "Sub Engineer"
+        },
+        {
+          "age": "18-30",
+          "bps": "12",
+          "education": "At least Second Class Bachelor's Degree from a recognised university, plus 1-year Diploma in Civil AutoCAD from a recognised technical institute",
+          "posts": 2,
+          "title": "AutoCAD Operator"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/889_lgrd_2026.jpg",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Screening weightage (per the advertisement): Educational Criteria 70 marks, ETEA Test 20 marks, Interview 10 marks.",
+      "title": "Assistant / Sub Engineer / AutoCAD Operator (Minority quota)",
+      "total_posts": 11
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P) 5389/26",
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": 18,
+        "note": "Age differs per post — see posts_detail. Relaxation per Government rules."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "17 / 16",
+      "closing_date": "2026-11-20",
+      "department": "ADP Project: Updating Environmental Profile and Development of Inventory of Industrial Pollution in KP",
+      "domicile": {
+        "detail": "Khyber Pakhtunkhwa domicile, including merged districts",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "bachelor14",
+        "text": "See posts_detail — Master's degree for BPS-17 posts; Master's or Bachelor's degree for BPS-16 posts."
+      },
+      "experience": "Post-specific (see posts_detail)",
+      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
+      "fee_pkr": null,
+      "gender": "Male & female",
+      "id": "etea-epa-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Environmental Protection Agency (EPA), Government of Khyber Pakhtunkhwa",
+      "posts_detail": [
+        {
+          "age": "21-35",
+          "bps": "17",
+          "education": "Master's or equivalent in Chemistry from an HEC-recognised university",
+          "posts": 2,
+          "title": "Chemist"
+        },
+        {
+          "age": "21-35",
+          "bps": "17",
+          "education": "Master's or equivalent in Environmental Engineering from an HEC-recognised university",
+          "experience": "2 years in the relevant field",
+          "posts": 1,
+          "title": "Environmental Engineer"
+        },
+        {
+          "age": "21-35",
+          "bps": "16",
+          "education": "Master's or equivalent from an HEC-recognised university in Economics, Statistics, Business Administration, Development Studies or Project Management",
+          "posts": 1,
+          "title": "Planning Assistant"
+        },
+        {
+          "age": "18-30",
+          "bps": "16",
+          "education": "Bachelor's Degree from a recognised university",
+          "posts": 1,
+          "title": "Office Assistant"
+        },
+        {
+          "age": "21-35",
+          "bps": "16",
+          "education": "At least 2nd Class Bachelor's in Computer Science / IT (BCS/BIT, 4-year) OR Bachelor's degree with 1-year Diploma in IT (DIT) from a recognised Board of Technical Education",
+          "posts": 1,
+          "title": "Computer Operator"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/890_epa_2026.jpg",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Chemist / Environmental Engineer / Planning Assistant and others (contract, ADP project)",
+      "total_posts": 6,
+      "verify_flags": [
+        "Previous advertisement INF(P) 2282/26 is withdrawn by this advertisement; candidates who applied under it for Driver and Naib Qasid need not reapply — all other posts must apply fresh.",
+        "Posts are project-based on contract till completion of the project (Project Policy 2022) and stand abolished on project completion."
+      ]
+    },
+    {
+      "adv_date": "2026-11-05",
+      "adv_no": null,
+      "age": {
+        "max_effective": 45,
+        "max_printed": 45,
+        "min": null,
+        "note": "Maximum age 45 years for all posts; no minimum age shown on NJP listings. Posts are on PPS scales, not BPS."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "PPS-1 to PPS-9",
+      "closing_date": "2026-11-20",
+      "department": "High End Skill Development Centre in Aerospace Industry (PSDP project)",
+      "domicile": {
+        "detail": "AJK, ICT, Khyber Pakhtunkhwa, Punjab and Sindh (Urban) — Balochistan NOT included (per NJP listings)",
+        "province": "AJK / ICT / KP / Punjab / Sindh (Urban)"
+      },
+      "education": {
+        "level": "primary",
+        "text": "See posts_detail — basic literacy (Support Staff) to Bachelor's/Master's in Engineering, Finance, Law or Management."
+      },
+      "experience": "Post-specific (see posts_detail)",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Male & female (post-specific — see posts_detail)",
+      "id": "njp-nastp-2026",
+      "last_updated": "2026-11-23",
+      "organization": "National Aerospace Science & Technology Park (NASTP), Ministry of Defence",
+      "posts_detail": [
+        {
+          "age": "Max 45",
+          "bps": "PPS-9",
+          "education": "Bachelor's in Civil Engineering, Construction Management, Project Management or related discipline (Master's preferred)",
+          "experience": "Minimum 15 years",
+          "gender": "Male",
+          "posts": 1,
+          "title": "Project Manager"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-7",
+          "education": "Bachelor's in Civil, Electrical, Mechanical or related engineering discipline",
+          "experience": "Minimum 7 years in construction / industrial / building-services / multidisciplinary project execution",
+          "posts": 1,
+          "title": "Assistant Project Manager"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-7",
+          "education": "Bachelor's in Law, Engineering, Construction Management, Business Administration or related discipline",
+          "experience": "Minimum 8 years in procurement, tendering or contract administration",
+          "posts": 1,
+          "title": "Manager Contracts"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-7",
+          "education": "Professional degree in Finance, Accounting, Commerce, Business Administration or related discipline",
+          "experience": "Minimum 8 years in project finance, cost control, construction accounting or financial management",
+          "gender": "Male & female",
+          "posts": 1,
+          "title": "Manager Finance"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-7",
+          "education": "Bachelor's or diploma in Quantity Surveying, Civil Engineering or related discipline",
+          "experience": "Minimum 4 years in quantity take-off, cost estimation, measurement and construction valuation",
+          "gender": "Male & female",
+          "posts": 1,
+          "title": "Quantity Surveyor"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-5",
+          "education": "Intermediate or Bachelor's in Administration, Commerce, Business, Office Management or related discipline",
+          "experience": "Minimum 3 years",
+          "gender": "Male",
+          "posts": 3,
+          "title": "Assistant"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-5",
+          "education": "Intermediate or Bachelor's with relevant computer / IT / office automation training",
+          "experience": "Minimum 3 years in data entry, computer operations, reporting or digital record management",
+          "gender": "Male",
+          "posts": 3,
+          "title": "Computer Operator"
+        },
+        {
+          "age": "Max 45",
+          "bps": "PPS-1",
+          "education": "Basic literacy and physical fitness for field and office support duties",
+          "experience": "Relevant practical experience preferred",
+          "gender": "Male",
+          "posts": 3,
+          "title": "Support Staff (Lascar)"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://www.njp.gov.pk/jobs/10505",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Project Manager, Manager, Quantity Surveyor and others (NASTP, contract)",
+      "total_posts": 14,
+      "verify_flags": [
+        "Secondary coverage cited PID(I) 4151/26 and a Balochistan domicile; NJP's own listings show PTID: NA and domicile AJK/ICT/KP/Punjab/Sindh (Urban) with no Balochistan — NJP values are used.",
+        "NJP description headcounts conflict with listed vacancy counts on several posts (e.g. Assistant 'Five incumbents' vs 3 vacancies) — listed vacancy counts are used."
+      ]
+    },
+    {
+      "adv_date": null,
+      "adv_no": "INF(P)5199/26",
+      "age": {
+        "max_effective": 30,
+        "max_printed": 30,
+        "min": 18,
+        "note": "Age 18-30 for all posts, as on 01/01/2026."
+      },
+      "apply_url": "https://etea.edu.pk",
+      "body": "ETEA",
+      "bps": "16 / 14 / 11",
+      "closing_date": "2026-11-20",
+      "department": "District Judiciary, Upper Chitral",
+      "domicile": {
+        "detail": "Permanent domicile holders of District Upper Chitral. All posts on open merit.",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "education": {
+        "level": "matric",
+        "text": "See posts_detail — Bachelor's degree (Assistant); Intermediate + shorthand 50 wpm + English typing 30 wpm, Urdu typing 30 wpm and MS Office proficiency preferred (Stenotypist/Stenographer); Matric + English typing at least 30 wpm (Junior Clerk)."
+      },
+      "experience": null,
+      "fee_note": "Amount not printed in the advertisement — prescribed test fee (non-refundable) shown on the ETEA deposit slip; pay via OneLink. CNIC verification via NADRA E-Sahulat required before applying; separate application and fee for each post.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "etea-chitral-dsj-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Office of the District & Sessions Judge, Upper Chitral",
+      "posts_detail": [
+        {
+          "age": "18-30",
+          "bps": "16",
+          "education": "Bachelor's degree from any recognised university",
+          "posts": 1,
+          "title": "Assistant"
+        },
+        {
+          "age": "18-30",
+          "bps": "14",
+          "education": "Intermediate or equivalent from a recognised board; shorthand 50 wpm; English typing 30 wpm; preference: Urdu typing 30 wpm and MS Office proficiency",
+          "posts": 5,
+          "title": "Stenotypist / Stenographer"
+        },
+        {
+          "age": "18-30",
+          "bps": "11",
+          "education": "Matric certificate or equivalent from a recognised board; English typing speed at least 30 wpm",
+          "posts": 2,
+          "title": "Junior Clerk"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://etea.online/advertisement/881_district_session_judge_chitral_2026.jpg",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Assistant, Stenotypist/Stenographer, Junior Clerk — District & Sessions Judge, Upper Chitral",
+      "total_posts": 8
+    },
+    {
+      "adv_date": "2026-11-13",
+      "adv_no": null,
+      "age": {
+        "max_effective": null,
+        "max_printed": 28,
+        "min": 18,
+        "note": "Age limits per post (see posts_detail): Assistant 18-28, Stenotypist 18-25, Data Entry Operator 18-25 (FPSC notice). NJP panels show Max 33/30/30 with federal relaxation applied. Plus 5 years' general age relaxation for Balochistan domicile per the FPSC notice. The eligibility engine adds the +5 general relaxation from rules.bodies.FPSC."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "FPSC",
+      "bps": "15 / 14",
+      "closing_date": "2026-11-20",
+      "department": "Federal Public Service Commission (Secretariat)",
+      "domicile": {
+        "detail": "Balochistan domicile / local certificate only",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — Graduate (Assistant); Intermediate + shorthand 80 wpm / typing 40 wpm, computer literate (Stenotypist); Bachelor's with Physics / Mathematics / Statistics / Economics / Computer Science / IT + 10,000 key depressions per hour (Data Entry Operator)."
+      },
+      "experience": null,
+      "fee_note": "Not stated in the sources read — check njp.gov.pk.",
+      "fee_pkr": null,
+      "gender": "Female (Assistant post — women quota); not stated for other posts",
+      "id": "fpsc-secretariat-balochistan-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Federal Public Service Commission",
+      "posts_detail": [
+        {
+          "age": "18-28",
+          "bps": "15",
+          "education": "Graduate; 6 Weeks Basic IT Training course (including MS Office) by NITB before completion of probation",
+          "note": "Quota: Balochistan, Women Quota 01; Regular",
+          "posts": 1,
+          "title": "Assistant"
+        },
+        {
+          "age": "18-25",
+          "bps": "14",
+          "education": "Intermediate; minimum speed 80/40 wpm shorthand/typing; must be computer literate",
+          "note": "Quota: Balochistan (open merit); Regular",
+          "posts": 1,
+          "title": "Stenotypist"
+        },
+        {
+          "age": "18-25",
+          "bps": "14",
+          "education": "Bachelor's degree with Physics / Mathematics / Statistics / Economics / Computer Science / IT from an HEC-recognised university; minimum 10,000 key depressions per hour",
+          "note": "Quota: Balochistan (open merit); Regular",
+          "posts": 1,
+          "title": "Data Entry Operator"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://www.fpsc.gov.pk/uploads/content/1794565915478_FPSC_Ministerial_Posts_-_Balochistan_Quota_-_13-11-2026.pdf",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": "Apply through the National Job Portal (njp.gov.pk) within fifteen days from the date of advertisement; NJP deadline 20 Nov 2026 is the operative date for applying.",
+      "title": "Assistant, Stenotypist & Data Entry Operator — FPSC Secretariat (Balochistan quota, 3 posts)",
+      "total_posts": 3,
+      "verify_flags": [
+        "PID(I)4217/26 cited by aggregators could NOT be verified — it appears on no NJP detail page and no PID number is printed on the FPSC PDF. adv_no left null; do not fill from aggregators.",
+        "CLOSING-DATE ARITHMETIC INCONSISTENT: NJP deadline 20 Nov 2026; 15 days from NJP posting (6 Nov) = 21 Nov; 15 days from the FPSC page date (13 Nov) = 28 Nov. The NJP 20 Nov deadline is used as operative.",
+        "NJP detail pages: Assistant https://njp.gov.pk/jobs/10559, Stenotypist https://njp.gov.pk/jobs/10570, Data Entry Operator https://njp.gov.pk/jobs/10571. FPSC page: https://www.fpsc.gov.pk/Jobs/103 (13 Nov 2026)."
+      ]
+    },
+    {
+      "adv_date": "2026-11-08",
+      "adv_no": null,
+      "age": {
+        "max_effective": 35,
+        "max_printed": 35,
+        "min": null,
+        "note": "Maximum age 35 years per the NJP listing (all posts); no minimum age shown."
+      },
+      "apply_url": "https://njp.gov.pk",
+      "body": "NJP",
+      "bps": "16 / 14 / 04 / 01",
+      "closing_date": "2026-11-20",
+      "department": "Pakistan Council of Scientific & Industrial Research (PCSIR), Quetta",
+      "domicile": {
+        "detail": "Balochistan domicile only",
+        "province": "Balochistan"
+      },
+      "education": {
+        "level": "bachelor16",
+        "text": "See posts_detail — B.S./B.Sc (Sciences/Engineering) or B.Tech/M.Tech, 16 years (Instructor); B.Sc. Natural Sciences (14 years) or DAE (Research/Technical Assistant); Primary + licence (Driver); Matric/SSC (Naib Qasid); Primary (Gardener, Cook)."
+      },
+      "experience": "Post-specific (see posts_detail): Driver needs a valid driving licence; Gardener/Cook — relevant experience an added advantage.",
+      "fee_note": "No fee shown on the NJP listing.",
+      "fee_pkr": null,
+      "gender": "Not stated in the ad",
+      "id": "njp-pcsir-2026",
+      "last_updated": "2026-11-23",
+      "organization": "Pakistan Council of Scientific & Industrial Research (PCSIR)",
+      "posts_detail": [
+        {
+          "age": "Max 35",
+          "bps": "16",
+          "education": "B.S./B.Sc (Sciences/Engineering) or B.Tech/M.Tech or equivalent (16 years), degree from an HEC-recognised institution/university",
+          "note": "Location: PCSIR Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
+          "posts": 1,
+          "title": "Instructor"
+        },
+        {
+          "age": "Max 35",
+          "bps": "14",
+          "education": "B.Sc. (Natural Sciences) or equivalent 14 years education, or DAE in Mechanical/Electrical/Electronic Engineering from a recognised institution; DAE must be from a TEVTA-recognised institution",
+          "note": "Location: PCSIR Laboratories, Mastung Road, Mian Ghundi, Quetta",
+          "posts": 1,
+          "title": "Research/Technical Assistant"
+        },
+        {
+          "age": "Max 35",
+          "bps": "04",
+          "education": "Primary Pass + valid driving licence, well versed with traffic rules",
+          "note": "Location: PCSIR Laboratories / Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
+          "posts": 2,
+          "title": "Driver"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Matric/SSC or equivalent",
+          "note": "Location: PCSIR Laboratories, Mastung Road, Mian Ghundi, Quetta",
+          "posts": 1,
+          "title": "Naib Qasid"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Primary Pass; relevant experience would be an added advantage",
+          "note": "Location: PCSIR Laboratories / Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
+          "posts": 3,
+          "title": "Gardener"
+        },
+        {
+          "age": "Max 35",
+          "bps": "01",
+          "education": "Primary Pass; relevant experience would be an added advantage",
+          "note": "Location: PCSIR Precision System Training Center, Mastung Road, Mian Ghundi, Quetta",
+          "posts": 1,
+          "title": "Cook"
+        }
+      ],
+      "result_info": null,
+      "source_url": "https://njp.gov.pk/jobs/10600",
+      "status": "closed",
+      "syllabus": null,
+      "test_date": null,
+      "test_info": null,
+      "title": "Instructor, Research/Technical Assistant, Driver, Naib Qasid, Gardener & Cook — Balochistan Initiative (9 posts)",
+      "total_posts": 9,
+      "verify_flags": [
+        "Posted 8 Nov 2026 on NJP; no PTID/PID shown on the NJP detail pages.",
+        "Age minimum not shown on the NJP listing — min left null. Other detail pages: Research/Technical Assistant /jobs/10601, Driver /jobs/10602, Naib Qasid /jobs/10603, Gardener /jobs/10604, Cook /jobs/10605."
+      ]
+    },
+    {
       "adv_date": "2026-11-08",
       "adv_no": "PID(I)4173/26",
       "age": {
@@ -5210,7 +5800,7 @@
       "fee_pkr": null,
       "gender": "Not stated in the ad",
       "id": "njp-assistant-director-2026",
-      "last_updated": "2026-11-19",
+      "last_updated": "2026-11-23",
       "organization": "Government of Pakistan",
       "posts_detail": [
         {
@@ -5224,7 +5814,7 @@
       ],
       "result_info": null,
       "source_url": "https://njp.gov.pk/jobs/10560",
-      "status": "open",
+      "status": "closed",
       "syllabus": null,
       "test_date": null,
       "test_info": null,
@@ -5234,17 +5824,7 @@
         "Employer/department NOT named on the NJP detail page — shown only as 'Government of Pakistan'. Do NOT attribute this posting to the Pakistan Bureau of Statistics: NJP searches for 'Pakistan Bureau of Statistics' / 'Statistics' / 'Bureau' returned 0 live jobs on 19 Nov 2026.",
         "Posted 8 Nov 2026 on NJP. Age minimum and domicile/quota not shown — left as not stated."
       ]
-    }
-  ],
-  "meta": {
-    "app": "Naukri Check",
-    "data_version": 9,
-    "generated": "2026-11-19",
-    "hosting": "This file is bundled in the app as an asset AND hosted at a remote URL (GitHub Pages) so new ads can be added without an app rebuild. The app uses whichever copy has the higher data_version.",
-    "note": "Seed data researched 2026-11-03 from official portals and independent full readings of the official advertisements. Every record carries its source_url. Fields the advertisement did not state are null and the app must display 'Not stated in the ad' — never guess. Records flagged in verify_flags must be re-checked against the official PDF by the editor before the next data_version. v2 (2026-11-07) adds the 48 FPSC Consolidated Advertisement No. 04/2026 records, read from the official FPSC PDF only (https://www.fpsc.gov.pk/uploads/content/1793976822925_consolidated-advertisement-04-2026.pdf). Correction 2026-11-07: the three vacancy counts left null in v2 (F.4-189, F.4-193, F.4-212) were resolved by visual reading of the official PDF page images (pages 10, 11, 18): 1, 1 and 2 - FPSC Ad 04/2026 total is now 278 posts. No other record changed; data_version stays 2 (v2 not yet consumed by any build). v3 (2026-11-08): scholarships[] populated for the first time — 13 records (3 open, 10 closed/annual cycles), every record verified by Muse against its official source page only (HEC, SEF, SEEF, BEEF, USEFP, Campus France, EACEA, Chevening, Türkiye Burslari, Australia Awards); no deadlines or amounts invented — where the official page states no closing date the field is null and cycle_note explains the annual rhythm. Jobs data unchanged from v2. v4 (2026-11-09): CSS 2027 written-exam notice confirmed from the official FPSC PDF (fee Rs 2,200, test from 27 Jan 2027, age 21-30 on 31 Dec 2026) — record now open; 9 new job records verified from official sources only: 3 ETEA (PHC Abbottabad Judicial Assistant, LG&RDD KP 11 posts, EPA KP 6 posts) and 6 NJP drives (NHMP 94, Navy civilian 69, Bait-ul-Mal 125, Ministry of Planning 77, Marine Fisheries 4, NASTP 14) — 383 NJP posts; scholarships: HEC US-Pakistan Knowledge Corridor PhD 2027 added (Fall intake closes 30 Mar 2027), SEF SSESP 2026-27 moved to closed (cycle ended 28 Feb 2026). PPSC Advertisement No. 12/2026 (PMS/CCE) NOT added — ppsc.gop.pk was unreachable from the browser and curl on 2026-11-09; retry at the next watch. National Grid Pakistan drive NOT added — not found on NJP. v5 (2026-11-11, DRAFT — publish only after midnight 11 Nov 2026 / Thu 12 Nov morning, once CCE + Railways Balochistan quota have actually closed): SPSC CCE-2026 (closing 11 Nov 2026, screening test Sat 28 Nov 2026) and Pakistan Railways Balochistan quota (closing 11 Nov 2026, 829 posts) moved from jobs[] to recently_closed[] with status closed — full records preserved, including CCE test_date/test_info so the Tracker still shows the 28 Nov screening. Open jobs 67 -> 65. PPSC Advertisement No. 12/2026 (PMS/CCE, 48 BS-17 posts, closing 30 Nov 2026) STILL NOT added — ppsc.gop.pk still only shows the stale 1 Mar 2026 crawl (checked 11 Nov 2026); 8 aggregators now agree on the ad text but seed policy needs the official PDF; retry at the Thu 12 Nov watch. NOT moved yet (still open until midnight of their closing dates): NJP NHMP (94 posts) and Navy civilian (69 posts), both closing 12 Nov 2026 — move them in v6 at the Thu watch. v6 (2026-11-12): SPSC Consolidated Ad 07/2026 added (36 posts / 68 vacancies, closing 14 Dec 2026) — read from the official PDF, every count/age visually verified. 9 new ETEA records (Khyber SCJ 14 posts, KP-RIISP Database Developer 2, Dir Lower DSJ 22, DHO Kohistan Lower 26, Karak SCJ 8, KGMC/MTI 48, Conservator Malakand 1, Chitral DSJ 8, Bannu SCJ 5) and 4 new NTS records (FESCO JE/SDO 5, GEPCO Balochistan quota 5, Hub & Spoke SZMC 15, DSJ Hyderabad 4) — all from the official ETEA/NTS advertisements. KPEF Merit-cum-Inaffordability Scholarship 2026–27 added (closing 31 Dec 2026, verified on the official KPEF page). Corrections: NTS Dadu courts closing 15 Nov -> 16 Nov 2026 (official NTS project page); ZamungKor corrigendum INF(P) 5421/26 confirms PST Teacher age 21-35 and closing 20 Nov 2026 (no change). FPSC: Ad 04/2026 still the latest (checked live 12 Nov 2026); no corrigendum/test schedule for it; an unconfirmed 'CORRIGENDUM to Public Notice: CSS-CE-2027' seen once in the FPSC homepage notices popup — re-check next watch. PPSC Ad 12/2026 STILL NOT added — ppsc.gop.pk unreachable from curl, text fetch (stale 1 Mar 2026 crawl only) AND live browser (ERR_CONNECTION_RESET, 5 attempts 10:37-10:42 PKT 12 Nov 2026); retry next watch. Honhaar Scholarship Phase IV NOT added — portal unreachable (ERR_CONNECTION_RESET, 3 tries 12 Nov 2026) and aggregator dates conflict (9 Nov vs 19 Nov); re-check next watch. NJP NHMP (94 posts) and Navy civilian (69 posts) close TODAY 12 Nov 2026 — NOT moved yet: closing date has not passed (applications open until midnight); move at the Mon 16 Nov watch. Open jobs 65 -> 79. Scholarships 14 -> 15 (4 open). v7 (2026-11-13): NJP NHMP (94 posts, Balochistan quota) and Pakistan Navy civilian (69 posts, Balochistan quota), both closing 12 Nov 2026, moved from jobs[] to recently_closed[] with status closed — full records preserved. Open jobs 79 -> 77. v8 (2026-11-16): SPSC CCE-2026 REOPENED — Corrigendum Ad 08/2026 (13 Nov) extends closing to 23 Nov 2026 and revises the age reckoning date to 23 Oct 2026 (record moved back from recently_closed to open). 5 records closed 15 Nov moved to recently_closed (ETEA PHC Abbottabad, NJP Marine Fisheries, ETEA KGMC/MTI, ETEA Conservator Malakand, NTS Hub & Spoke SZMC — its 29 Nov test date removed, unconfirmed on NTS pages). NJP Planning (77 posts) closing extended to 18 Nov 2026. FPSC Ad 04/2026 syllabus issued 11 Nov 2026 (URL on all 48 records); no Ad 05/2026. CSS 2027: corrigendum dated 14 Nov 2026 exists on FPSC Latest News, contents unread — re-check next watch. New: ETEA DC Dir Upper Patwari (2, closes 30 Nov), ETEA Khyber College of Dentistry (22 post types, closes 10 Dec; Clinical Technologist Pathology removed by 10 Nov corrigendum), NTS Sahiwal Institute of Cardiology (33, closes 4 Dec), NTS PAC Kamra Batch-E-2026 (94, closes 30 Nov), NJP Planning FBS/PCO (67, closes 27 Nov), NJP NTISB Assistant (1, closes 30 Nov), NJP PM Office (2, closes 29 Nov). Scholarship: HEC Balochistan & erstwhile FATA Phase-III Batch-V added (closes 14 Dec 2026, verified on official HEC page). NOT added: PPSC Ad 12/2026 — ppsc.gop.pk unreachable again (7 attempts, ERR_CONNECTION_RESET); Honhaar Phase IV — official portal unreachable, reported 19 Nov deadline unverified. NOT moved yet (close today 16 Nov, open until midnight): NTS Dadu courts, NJP Bait-ul-Mal. Open jobs 77 -> 80; scholarships 15 -> 16 (5 open). v9 (2026-11-19): moved to recently_closed: nts-dadu-courts-2026, njp-baitulmal-2026, njp-planning-2026 (closing dates passed; NTS Dadu confirmed on the official NTS list, Bait-ul-Mal and Planning listings expired/removed from the NJP live list with no extension shown). New ETEA records, all read from the official ETEA ad images: DG Fisheries KP (36 posts, minority quota, closes 10 Dec), Senior Civil Judge Peshawar — Process Server (6, closes 15 Dec), District & Sessions Judge Torghar (5, closes 15 Dec). New NTS: Health & Population Department Punjab (527 posts, lump sum, no BPS, closes 30 Nov; portal shows max age 40, ad shows 35 — ad used). New NJP/FPSC: FPSC Secretariat ministerial posts, Balochistan quota (3, closes 20 Nov 2026 — NJP deadline; PID(I)4217/26 unverified, left out); Pakistan Tobacco Board LDC (1, closes 1 Dec). New NJP drives verified from NJP detail pages: NationalGrid (41 posts, closes 23 Nov), Pakistan Sports Board (11, closes 23 Nov), PCSIR (9, closes 20 Nov), Engineering Development Board Analyst (lump-sum, closes 23 Nov), Institute of Strategic Studies Director Administration (closes 23 Nov), Wafaqi Mohtasib Chowkidar (closes 23 Nov; age discrepancy flagged), Pakistan Reinsurance Company Executive Director Underwriting (closes 26 Nov), Ignite Manager Corporate Finance (closes 27 Nov), Assistant Director BPS-17, Government of Pakistan (2, closes 20 Nov; department not named on NJP — NOT attributed to PBS). NOT added: Junior Auditors BPS-11 (39 posts, CGA, closes 19 Nov 2026) — the NJP detail page states no education/qualification at all, so no usable eligibility record; noted for the record only. HEC note: GRE Training under the US-Pakistan Knowledge Corridor opened 17 Nov 2026, closes 13 Dec 2026 (the PhD scholarship itself still closes 30 Mar 2027). FPSC: Ad 04/2026 still the latest, no Ad 05/2026 (checked 19 Nov); CSS-CE-2027 corrigendum dated 14 Nov 2026 NOT found on fpsc.gov.pk after a thorough check — closing 25 Nov 2026 and test 27 Jan 2027 unchanged. SPSC Ad 07/2026 unchanged (closes 14 Dec). NTS: FESCO/GEPCO test 12 Dec 2026 already in the seed; STS EPI Vaccinators still open to 30 Nov 2026. NOT added: PPSC Ad 12/2026 — ppsc.gop.pk timed out on 4 browser attempts, official PDF still unread; Honhaar Phase IV — official portal timed out on 4 attempts, reported 19 Nov deadline unverified from the portal. All NJP live-list drives seen on 19 Nov were verified from their detail pages and added above; the 'PBS Assistant Director BPS-17, closes 22 Nov' hint was WRONG — no PBS posting exists on NJP, only an unnamed 'Government of Pakistan' Assistant Director (2 posts, closes 20 Nov), added as such. Open jobs 80 -> 92; scholarships 16 (5 open).",
-    "optional_fields_note": "Every job record may also carry test_date, syllabus and result_info (null until announced). The app must display and alert on these when they appear in a data update, and ignore them gracefully while null."
-  },
-  "recently_closed": [
+    },
     {
       "adv_date": "2026-10-28",
       "adv_no": null,
@@ -6949,6 +7529,45 @@
       "source_url": "https://www.hec.gov.pk/english/scholarshipsgrants/BF-III/Pages/default.aspx",
       "status": "open",
       "title": "HEC Undergraduate Scholarships for Balochistan & Erstwhile FATA — Phase-III, Batch-V"
+    },
+    {
+      "apply_url": "https://www.peef.org.pk/",
+      "category": "Local",
+      "closing_date": "2026-12-30",
+      "cycle_note": "2026-27 call; applications only on the prescribed form, complete and attested, to the Section Officer (Autonomous Bodies), Higher Education Department, Government of Khyber Pakhtunkhwa, Civil Secretariat, Peshawar, by 30 Dec 2026. Form and criteria at peef.org.pk and sites.google.com/view/khyberpakhtunkhwa. Verified 23 Nov 2026 from the official advertisement image (Add (Master FATA).jpeg, INF(P) 5548/26) in the KP Higher Education Department's Drive folder — this settles the 30 Nov vs 30 Dec conflict in favour of 30 Dec 2026.",
+      "domicile_scope": "Merged districts (ex-FATA) of Khyber Pakhtunkhwa",
+      "eligibility_note": "FATA (merged districts) domicile; minimum sixteen years of schooling / 4-year education after HSSC; secured admission as a full-time student in the current academic year (2026-27) in Pakistan; must not already be receiving any scholarship in the current academic year; ineligible if already holding MA/MSc/MS/MPhil/PhD, or a beneficiary of the Prime Minister Fee Reimbursement Scheme or any other Master's-level scholarship.",
+      "funding_note": "Merit-cum-need Master's scholarships for students of the merged districts (ex-FATA): at least 60% marks or minimum CGPA 2.5 in the graduation examination (2024, 2025 or 2026), admitted full-time in 2026-27; parents' declared monthly income Rs 100,000 or less (exemptions: children of government servants BPS 1-7 where salary is the only income, and children of civilians martyred in terrorist attacks). Special-quota categories: orphans, children of BPS 1-7 government servants, minorities, special (disabled) children, children of martyred civilians, children of divorced mothers. (Per the official advertisement INF(P) 5548/26 and the Criteria PDF; the advertisement is in Urdu. No award amount is stated.)",
+      "gender_scope": "All",
+      "id": "peef-master-fata-2026",
+      "levels": [
+        "Graduate"
+      ],
+      "min_percentage": 60,
+      "provider": "Punjab Educational Endowment Fund (PEEF) / Higher Education Department, Government of Khyber Pakhtunkhwa",
+      "source_url": "https://drive.google.com/drive/folders/1dDyTccaikz9kPHl-06Rj2cM2vqZpWKAd",
+      "status": "open",
+      "title": "PEEF Master-Level Scholarships for KP Merged Districts (ex-FATA) 2026-27"
+    },
+    {
+      "apply_url": "https://scholarship.hec.gov.pk",
+      "category": "Foreign",
+      "closing_date": "2027-01-05",
+      "cycle_note": "2027-28 call verified 23 Nov 2026 on the official HEC page; HEC portal deadline Tuesday 5 Jan 2027, 04:00 PM PKT. The previous cycle (2026-27) is recorded separately as closed.",
+      "domicile_scope": "All Pakistan",
+      "eligibility_note": "Pakistani students applying through HEC when the annual call opens; undergraduate applicants must take the mandatory CSCA (China Scholastic Competency Assessment) test; applications go through both the HEC portal and the CSC application system. HEC is responsible only for nominations under Type-A (HEC-Chinese Government Scholarship).",
+      "funding_note": "Fully funded by the Chinese Government Scholarship programme under CSC rules (tuition, accommodation, monthly stipend and medical insurance); HEC is Pakistan's nominating agency — the 2027-28 call offers 61 seats for Pakistan (25 Bachelor's, 21 Master's, 15 PhD).",
+      "gender_scope": "All",
+      "id": "hec-chinese-government-scholarship-2027",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "min_percentage": null,
+      "provider": "Government of China (China Scholarship Council) — nominations via HEC Pakistan",
+      "source_url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/default.aspx",
+      "status": "open",
+      "title": "Chinese Government Scholarship (CSC) via HEC — 2027-28"
     }
   ]
 }
